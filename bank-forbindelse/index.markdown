@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Bank forbindelse
-menu: 40
+menu: yes
+menu_pri: 40
 ---
 <p>Nordea:</p>
 <ul>
