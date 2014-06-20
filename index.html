@@ -3,7 +3,7 @@ layout: default
 ---
 pages
 
- {% for page in site.menu %}
+ {% for page in site.menu|where:"menu","yes" %}
       <li class="page_item page-item-5 current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
     {% endfor %}
     
