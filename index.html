@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
+pages
 
+ {% for page in {{site.pages|where:"menu"|sort: 'menu'}} %}
+      <li class="page_item page-item-5 current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+    {% endfor %}
+    
+    
 <div class="home">
   <h1>Posts</h1>
 
