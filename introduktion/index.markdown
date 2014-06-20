@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Introduktion
-menu: 1
-categories: []
-tags: []
-comments: []
+menu: 99
 ---
 SpindelNet blev oprettet som en enkeltmandsvirksomhed i 1997 til at fakturere opgaver udført i fritiden.
 
