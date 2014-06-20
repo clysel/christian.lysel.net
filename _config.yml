@@ -1,0 +1,13 @@
+# Site settings
+title: SpindelNet | IT konsulent
+email: webmaster@spindelnet.dk
+description: "SpindelNet"
+baseurl: ""
+url: "http://spindelnet.dk"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+
+gems:
+  - jekyll-sitemap

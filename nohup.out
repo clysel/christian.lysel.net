@@ -1,0 +1,30 @@
+Configuration file: /root/spindelnet.dk/_config.yml
+/usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- jekyll-sitemap (LoadError)
+	from /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/plugin_manager.rb:28:in `block in require_gems'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/plugin_manager.rb:26:in `each'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/plugin_manager.rb:26:in `require_gems'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/plugin_manager.rb:19:in `conscientious_require'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/site.rb:71:in `setup'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/site.rb:33:in `initialize'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/commands/build.rb:26:in `new'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/commands/build.rb:26:in `process'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/lib/jekyll/commands/serve.rb:23:in `block (2 levels) in init_with_program'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary/command.rb:220:in `call'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary/command.rb:220:in `block in execute'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary/command.rb:220:in `each'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary/command.rb:220:in `execute'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary/program.rb:35:in `go'
+	from /var/lib/gems/1.9.1/gems/mercenary-0.3.3/lib/mercenary.rb:22:in `program'
+	from /var/lib/gems/1.9.1/gems/jekyll-2.0.3/bin/jekyll:18:in `<top (required)>'
+	from /usr/local/bin/jekyll:23:in `load'
+	from /usr/local/bin/jekyll:23:in `<main>'
+Configuration file: /root/spindelnet.dk/_config.yml
+            Source: /root/spindelnet.dk
+       Destination: /root/spindelnet.dk/_site
+      Generating... 
+                    done.
+ Auto-regeneration: enabled
+Configuration file: /root/spindelnet.dk/_config.yml
+    Server address: http://0.0.0.0:4000/
+  Server running... press ctrl-c to stop.
