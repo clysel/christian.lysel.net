@@ -1,26 +1,7 @@
 ---
 layout: page
-status: publish
-published: true
 title: Priser
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-date: !binary |-
-  MjAwOS0wNC0wNyAyMzo1NDowNCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0wNyAyMTo1NDowNCArMDIwMA==
-categories: []
-tags: []
-comments: []
-sitemap:
-    priority: 0.7
-    changefreq: monthly
-    lastmod: 2014-06-16T12:49:30-05:00
+menu: 10
 ---
 Time prisen kr 800,-
 
