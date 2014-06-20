@@ -1,9 +1,9 @@
 # Site settings
-title: SpindelNet | IT konsulent
-email: webmaster@spindelnet.dk
-description: "SpindelNet"
+title: Christian E. Lysel
+email: webmaster@lysel.net
+description: "Christian privat"
 baseurl: ""
-url: "http://spindelnet.dk"
+url: "http://christian.lysel.net"
 
 # Build settings
 markdown: kramdown
