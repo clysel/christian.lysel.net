@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Referencer
-menu: 20
+menu: yes
+menu_pri: 20
 ---
 <ul>
 <li>Almindelig firewall administration og netv&aelig;rksfejls&oslash;gning hos</p>
