@@ -1,28 +1,7 @@
 ---
 layout: page
-status: publish
-published: true
 title: Referencer
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 118
-wordpress_url: http://spindelnet.dk/?page_id=118
-date: !binary |-
-  MjAxNC0wNS0wMSAxODowOToyMiArMDIwMA==
-date_gmt: !binary |-
-  MjAxNC0wNS0wMSAxODowOToyMiArMDIwMA==
-categories: []
-tags: []
-comments: []
-sitemap:
-    priority: 0.7
-    changefreq: monthly
-    lastmod: 2014-06-16T12:49:30-05:00
+menu: 20
 ---
 <ul>
 <li>Almindelig firewall administration og netv&aelig;rksfejls&oslash;gning hos</p>
