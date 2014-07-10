@@ -1,0 +1,1042 @@
+---
+layout: post
+status: publish
+published: true
+title: Diverse
+author:
+  display_name: clysel
+  login: clysel
+  email: webmaster@spindelnet.dk
+  url: ''
+author_login: clysel
+author_email: webmaster@spindelnet.dk
+wordpress_id: 57
+wordpress_url: http://christian.lysel.net/?p=57
+date: !binary |-
+  MjAwOS0wNC0yNCAyMjoyMzoyNSArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0yNCAyMDoyMzoyNSArMDIwMA==
+categories:
+- Links
+tags: []
+comments: []
+---
+<h1>Bookmarks</h1></p>
+<h1>Bookmarks Menu</h1></p>
+<dl>
+<dt><a href="folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;excludeItemIfParentHasAnnotation=livemark%2FfeedURI&amp;maxResults=10&amp;queryType=1">Recently Bookmarked</a> </dt>
+<dt><a href="sort=14&amp;type=6&amp;maxResults=10">Recent Tags</a></p>
+<hr /></dt>
+<dt><a href="https://en-us.add-ons.mozilla.com/en-US/firefox/bookmarks/">Get Bookmark Add-ons</a></p>
+<hr /></dt>
+<dt></dt></p>
+<h3>Mozilla Firefox</h3><br />
+</dl>
+<dl>
+<dt><a href="http://en-us.www.mozilla.com/en-US/firefox/help/">Help and Tutorials</a> </dt>
+<dt><a href="http://en-us.www.mozilla.com/en-US/firefox/customize/">Customize Firefox</a> </dt>
+<dt><a href="http://en-us.www.mozilla.com/en-US/firefox/community/">Get Involved</a> </dt>
+<dt><a href="http://en-us.www.mozilla.com/en-US/firefox/about/">About Us</a> </dt> </dl>
+<dt><a href="http://www.pdair.com/catalog/product_info.php?cPath=10100000_11000130_11000131&amp;products_id=6177">Leather Case for Apple iPhone (4GB/8GB/16GB) - Flip Type (Black) Version.1</a> </dt>
+<dd>Leather Case for Apple iPhone (4GB/8GB/16GB) - Flip Type (Black) Version.1 </dd>
+<dt><a href="http://www.dealextreme.com/products.dx/category.299">DealExtreme: iPod (hot gadgets) (Page 1)</a> </dt>
+<dd>Online shopping from a huge selection of iPod (hot gadgets); Buy LED &amp;amp; Xenon flashlights, computer parts and peripherals, ipod accessories, NDS accessories, R4, M3, X9, AK2, DSTT DS Flash Carts, and get tips and reviews, cheap gadgets at DealExtreme.com. </dd>
+<dt><a href="http://www.uxcell.com/">Reliable Shop For MP3 Players and MP4 Players, Cell Phones, Digital Cameras &amp; Accessories, iPod Accessories, Gadgets At Lowest Price-Uxcell.com</a> </dt>
+<dd>Buy Cheap MP3 MP4 Players, Cell Phones, iPhone iPod PSP PS3 Wii Xbox PC Accessories, Digital Cameras, Gadgets, Bluetooth, RC Toys, Watches, Fashion Jewelry, Sunglasses, Lighters at UXCELL </dd>
+<dt><a href="http://www.tjo.dk/Priser/Grussten.html">TJO - Priser: Grus- &amp; stenmaterialer</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.google.com/coop/cse?cx=010539329620469924541%3Aq5kvm3-tc5c">symfony Search Engine</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.dasu.dk/regado.jsp?type=race&amp;s_type=1&amp;filter=;">DASU - Dansk Automobil Sports Union - medlem af Danmarks Idr&aelig;ts Forbund og Federation International de l&rsquo;Automobil FIA</a> </dt>
+<dd>Dansk Automobil Sports Union ( DASU ) er hovedorganisation for al organiseret bilsport i Danmark. DASU er medlem af Danmarks Idr&aelig;ts Forbund og Federation International de l&rsquo;Automobil (FIA). </dd>
+<dt></dt></p>
+<h3>blog</h3></p>
+<dl>
+<dt><a href="http://test.spindelnet.dk/">test</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.movabletype.org/documentation/appendices/config-directives/searchresultdisplay.html">SearchResultDisplay | MovableType.org - Home of the MT Community</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.learningmovabletype.com/a/how_to_customize_default_styles_in_mt4/">How to Customize Default Styles in MT4 | Templates | Learning Movable Type</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.learningmovabletype.com/a/000730alphabetize_entries/">Alphabetize Your Entries | Beginner Tips | Learning Movable Type</a> </dt>
+<dd> </dd> </dl>
+<dt><a href="http://plugins.movalog.com/customfields/">CustomFields | Movalog Plugins: Movable Type plugins by Arvind Satyanarayan</a> </dt>
+<dd> </dd>
+<dt><a href="http://da.momondo.com/Default.aspx">Momondo - Billige flyrejser - Rejse s&oslash;gemaskine til billige flybilletter og rejser</a> </dt>
+<dd>Momondo &ndash; billige flybilletter. F&aring; et hurtig overblik over flybilletter fra alle lavpris-flyselskaber i Europa. </dd>
+<dt><a href="http://www.slicehost.com/">Slicehost - VPS Hosting</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.deezer.com/#music/album/25307">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="http://www.deezer.com/#music/result/all/nova%20tunes">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="http://www.246.dk/dktowns.html">Danmark - byer +246dktowns+</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.246.dk/husregn.html">Husregnskab +246husregn+</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.qtopia.net/modules/mydownloads/singlefile.php?lid=77">Qtopia.net</a> </dt>
+<dd>Qtopia.net </dd>
+<dt><a href="http://www.mini-box.com/picoPSU-60-WI?sc=8&amp;category=13">picoPSU-60-WI</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.asteriskdocs.org/">Asterisk Documentation Project</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.deezer.com/#music/album/45815">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="http://www.lyra.dk/browse.asp?cat=101">Lyra - Nordens st&oslash;rste forhandler af teleskoper og tilbeh&oslash;r - Anbefalede teleskoper til begyndere</a> </dt>
+<dd>Nordens st&oslash;rste udvalg af astronomiske teleskoper, kikkerter og tilbeh&oslash;r </dd>
+<dt><a href="http://www.lyra.dk/browse.asp?cat=804">Lyra - Nordens st&oslash;rste forhandler af teleskoper og tilbeh&oslash;r - Adaptere</a> </dt>
+<dd>Nordens st&oslash;rste udvalg af astronomiske teleskoper, kikkerter og tilbeh&oslash;r </dd>
+<dt><a href="http://www.careerbuilder.com/">CareerBuilder.com Jobs - The Largest Job Search, Employment &amp; Careers Site</a> </dt>
+<dd>Search 1.6 million Jobs on CareerBuilder.com. Find new employment or work. Fresh job listings posted daily. Have jobs emailed to you. Explore career opportunities. Search and apply online today. </dd>
+<dt><a href="http://www.heatsink-guide.com/tempcontrol.htm">The Heatsink Guide - Temperature control</a> </dt>
+<dd>The Heatsink Guide provides in-depth information about CPU cooling. Includes cooler tests, recommendations, graphics card cooling info, info about peltier coolers, and much more. </dd>
+<dt><a href="http://www.deezer.com/#music/album/117613">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="http://www.deezer.com/#music/album/118608">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="http://www.deezer.com/#music/album/25877">Music on demand, free music without download | Deezer</a> </dt>
+<dd>Deezer is the first free music on demand website. Come and discover more than 150.000 tracks, create your Playlists, upload your entire song library in your private space, no storage limit, and share your favorite songs with your friends! </dd>
+<dt><a href="https://phpmyadmin.surftown.com/index.php">phpMyAdmin 2.6.2-Debian-3sarge6</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.investas.dk/scripts/data/showJob.asp?jobid=10208">Investas PersonaleService ApS</a> </dt>
+<dd> </dd>
+<dt><a href="http://localhost/webaccess/index.php">Zarafa Webaccess</a> </dt>
+<dd> </dd>
+<dt><a href="http://appsrv.118online.dk/cgi-bin/118online.cgi">TDC - 118 Online</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.colourlovers.com/palettes/search?hsv=&amp;sortType=ts&amp;sortBy=desc&amp;query=&amp;hex=&amp;lover=666B9A&amp;f=1&amp;hueOption0=&amp;hueOption1=&amp;hueOption2=&amp;publishedBeginDate=12%2F27%2F2004&amp;publishedEndDate=11%2F23%2F2008&amp;x=55&amp;y=3">COLOURlovers :: Palettes</a> </dt>
+<dd>Find your favorite color palette. Thousands of palettes to browse through, you'll find the design inspiration and color scheme you're looking for. </dd>
+<dt><a href="http://www.webdesignerwall.com/tutorials/advanced-css-menu/">Advanced CSS Menu</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.oreillynet.com/cs/weblog/view/wlg/448">Antenna on the Cheap (er, Chip)</a> </dt>
+<dd>$6 802.11b Antenna in a Can. </dd>
+<dt></dt></p>
+<h3>HP linux 64</h3></p>
+<dl>
+<dt><a href="http://forums11.itrc.hp.com/service/forums/questionanswer.do?threadId=966396">IT Resource Center forums - rhel as 4 update 1 or 2 random crashes</a> </dt>
+<dd>rhel as 4 update 1 or 2 random crashes </dd>
+<dt><a href="http://h20000.www2.hp.com/bizsupport/TechSupport/Document.jsp?objectID=c00781086&amp;lang=en&amp;cc=us&amp;taskId=101&amp;prodSeriesId=428936&amp;prodTypeId=15351">HP ProLiant DL385 Server series&nbsp;-&nbsp; Advisory: (Revision) Time Loss or Time Gain May Occur with SUSE LINUX Enterprise Server 10 (x86) On Certain SMP ProLiant Servers - c00781086 - HP Business Support Center</a> </dt>
+<dd> </dd>
+<dt><a href="https://rhn.redhat.com/network/software/packages/change_log.pxt?pid=403539">Red Hat Network - Your RHN - Details - Change Log</a> </dt>
+<dd> </dd> </dl>
+<dt><a href="http://solutions.brother.com/linux/sol/printer/linux/sane_drivers.html#model">BSC: Brother Linux Scanner driver /Scan key tool download</a> </dt>
+<dd>Brother Solutions Center is service &amp; support web site for Brother's product (Printer, Multi-Functions Center, Facsimile ) </dd>
+<dt><a href="http://unslung.blogspot.com/">NSLU2 Guides</a> </dt>
+<dd> </dd>
+<dt></dt></p>
+<h3>printer</h3></p>
+<dl>
+<dt><a href="http://www.brother.dk/g3.cfm/s_page/60950/s_level/31040">Brother</a> </dt>
+<dd> </dd>
+<dt><a href="http://solutions.brother.com/linux/sol/printer/linux/sane_drivers.html">BSC: Brother Linux Scanner driver /Scan key tool download</a> </dt>
+<dd>Brother Solutions Center is service &amp; support web site for Brother's product (Printer, Multi-Functions Center, Facsimile ) </dd>
+<dt><a href="http://www.pcmag.com/products/0,,tqs=535359D9BB5B19164CCAF0587988FC9BA0723817,00.asp?action=defaultadvancedquery&amp;cid=&amp;sid=26644&amp;gridtitle=Recent+Product+Reviews&amp;googlequery=q%3d%26start%3d0%26num%3d10%26mt823%3d21044%26mt887%3d1332%26mt872%3d20663%26pr21044%3dLess%2520Than%2520%24200&amp;stpdinglp=1">MFPs - Archive</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.sane-project.org/cgi-bin/driver.pl?manu=+epson&amp;model=&amp;bus=any">SANE Supported Scanners - Search Engine</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.epson.dk/internetLive/dctm/content/DK/da_DK/products/all_in_one_products/DNK-Product-Model-PX700W-DA.inter.jsp">Epson Stylus Photo PX700W | C11CA3030</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.epson-store.de/cdk/ldk/content/shop/products/offers.php/basesku/C11CA18334CN">Epson Store - Epson Stylus Office BX600FW</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.trustedreviews.com/printers/review/2008/02/15/Canon-PIXMA-MP970-All-in-One/p1">CD/DVD Canon PIXMA MP970 All-in-One Review - Printer Reviews - TrustedReviews</a> </dt>
+<dd>Canon's top multifunction inkjet pretty much covers all bases. Just don't ask about the duplexing. </dd>
+<dt><a href="http://www.trustedreviews.com/printers/review/2007/09/21/Canon-PIXMA-MP610/p1">Canon PIXMA MP610 Review - Printer Reviews - TrustedReviews</a> </dt>
+<dd>Canon dishes out another convincing update to its all-in-one printer range with the excellent MP610. </dd> </dl>
+<dt><a href="https://help.ubuntu.com/community/HardwareSupportComponentsPrinters/CanonPrinters/CanonPixmaIP4200#preview">https://help.ubuntu.com/community/Ha...IP4200#preview</a> </dt>
+<dt><a href="http://www.ted.com/index.php/">TED: Ideas worth spreading</a> </dt>
+<dd>TED (Technology, Entertainment, Design) is an invitation-only event where the world's leading thinkers and doers gather to find inspiration. Initially an annual conference, the scope of TED has expanded to include a bi-annual global conference, a humanitarian prize, and free audio/video podcasts of extraordinary talks. </dd>
+<dt></dt></p>
+<h3>tv sovev&aelig;relse</h3></p>
+<dl>
+<dt><a href="http://edbpriser.dk/Products/Listprices.asp?ID=224269&amp;Specs=true">NorthQ 6700 (224269) - Pris TOP 10 - EDBpriser.dk</a> </dt>
+<dd>NorthQ 6700 Tvtuner / tr&aring;dl&oslash;s audio / video ovef&oslash;ringssystem / ?x? (224269) - Pris TOP 10 </dd>
+<dt><a href="http://edbpriser.dk/Products/Listprices.asp?ID=481259&amp;Specs=true">Samsung SyncMaster 2443NW (Sort) (481259) - Pris TOP 10 - EDBpriser.dk</a> </dt>
+<dd>Samsung SyncMaster 2443NW (Sort) 24 tomme TFT aktiv matriks / 1920 x 1200 / 5 ms / 300 cd/m2 / 1000:1 / 60 Hz / 164 MHz / 0.27 mm dpi / VGA (481259) - Pris TOP 10 </dd> </dl>
+<dt><a href="http://www.cityel-vestsj.dk/">www.cityel-vestsj.dk</a> </dt>
+<dt><a href="http://blog.spindelnet.dk/cgi-bin/mt/collection.cgi">Collection:</a> </dt>
+<dd> </dd>
+<dt><a href="https://www.vyke.com/rates.jsf">Enjoy Vyke's cheap international phone calls using PC-to-Phone, WIFI enabled mobile phones - Mobile VoIP by Vyke,</a> </dt>
+<dd>Enjoy Vyke's cheap international phone calls using PC-to-Phone, WIFI enabled mobile phones - Mobile VoIP by Vyke, </dd>
+<dt><a href="http://maxt.dk/archives/2004/10/25/running-hirens-bootcd-60-from-bootable-usb-stick/">Running Hiren&rsquo;s BootCd 6.0 from Bootable Usb Stick</a> </dt>
+<dt><a href="http://edbpriser.dk/Products/Listprices.asp?ID=461068&amp;searchArea=&amp;Soegeord=">Fujitsu Siemens ESPRIMO P5925(Microsoft Windows Vista Business / XP Professional TwinLoad) (461068) - Pris TOP 10 - EDBpriser.dk</a> </dt>
+<dd>Fujitsu Siemens ESPRIMO P5925(Microsoft Windows Vista Business / XP Professional TwinLoad) Intel Core 2 Quad 2.4 GHz / 2 GB DDR2 SDRAM / 250 GB / DVD&plusmn;RW (&plusmn;R DL) / DVD-RAM / Uden Sk&aelig;rm (461068) - Pris TOP 10 </dd>
+<dt><a href="http://globalgamejam.org/games/4-minutes-and-33-seconds-uniqueness">4 Minutes and 33 Seconds of Uniqueness</a> </dt>
+<dt><a href="http://www.version2.dk/artikel/9931-pirate-bay-sikrer-online-daekning-af-retssag">Pirate Bay sikrer online-d&aelig;kning af retssag 5</a> </dt>
+<dt><a href="http://www.milw0rm.com/platforms/multiple">milw0rm - exploits : vulnerabilities : videos : papers : shellcode</a> </dt>
+<dd>milw0rm exploits and 0day exploits database </dd>
+<dt><a href="http://electronics.dantimax.dk/Kits/Selectors_-_attenuators/1_index.html">Dantimax (elektronik) - Selectors_-_attenuators</a> </dt>
+<dd> </dd>
+<dt><a href="http://datacent.com/hard_drive_sounds.php">Failing hard drive sounds - Datacent.com - Datacent</a> </dt>
+<dd>Failing hard drive sounds - Datacent.com. Datacent offers full range of Data Recovery services for your failed hard disk drive. We offer free diagnostics, no data-no fee policy, final upfront quote and competitive prices. If your hard drive doesn't spin up, doesn't show up in your system, reports wrong model name or makes noises visit our large database of hard drive sounds to troubleshoot your problem. </dd>
+<dt><a href="http://ocaoimh.ie/wp-super-cache/">WordPress Super Cache</a> </dt>
+<dd>Makes WordPress Faster Introduction WP Super Cache is a static caching plugin for WordPress. It generates html files that are served directly by Apache </dd>
+<dt><a href="http://java.sun.com/javacard/">Java Card</a> </dt>
+<dt><a href="http://tt-rss.org/trac/">Tiny Tiny RSS: A PHP and Ajax feed reader</a> </dt>
+<dd>Tiny Tiny RSS homepage and development site </dd>
+<dt><a href="http://www.genbyg.dk/">Byggemarked Med Brugte Byggematerialer.</a> </dt>
+<dd>Byggemarked p&aring; en anden m&aring;de. Du sparer penge p&aring; at bruge brugte byggematerialer ! K&oslash;b billige vinduer eller flotte d&oslash;re, vvs, tr&aelig;gulve og meget mere. Brug brugte byggematerialer &amp; sk&aring;n milj&oslash;et ! </dd>
+<dt><a href="http://www.fileshack.com/search.x?type=files&amp;terms=multiplayer&amp;search_for=1&amp;sortby=date&amp;ascdesc=desc&amp;page=6">Search - FileShack - Download PC Video game patches, videos, betas and trailers for PC, PlayStation, Xbox 360 and Wii</a> </dt>
+<dd> </dd>
+<dt><a href="http://edbpriser.dk/Products/Listprices.asp?Bedom=true&amp;ID=227724">Logitech VX Revolution (227724) - Bed&oslash;mmelser - EDBpriser.dk</a> </dt>
+<dd>Logitech VX Revolution Mus / Laser / USB 1.1 / 1 x AA-type / 1 Stk. (227724) - Bed&oslash;mmelser </dd>
+<dt><a href="http://www.shirtsmyway.com/design_myshirt.php">Mens Fitted Dress Shirts, See How Easily You Can Design One</a> </dt>
+<dd>Over 7 Trillion Different Men&rsquo;s Dress Shirt Designs In One Place. See How Easy It Is To Design Your Fitted Dress Shirts. </dd>
+<dt><a href="http://www.elfrasolen.dk/Produkter/Solceller/K_less100.htm">Krystallinske solceller - indtil 100 W</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.energikompagniet.dk/product_info.php?cPath=5&amp;products_id=45">Energikompagniet ApS</a> </dt>
+<dd> </dd>
+<dt><a href="https://bugs.launchpad.net/ubuntu/+source/ghostscript/+bug/172264">Bug #172264 in ghostscript (Ubuntu): &ldquo;[Gutsy SRU Request] Ghostscript in Gutsy and Hardy is not able to print encrypted PDFs out of Adobe Reader 8.1.1&rdquo;</a> </dt>
+<dd> </dd>
+<dt><a href="http://forums.adobe.com/thread/395240">Adobe Forums: Adobe Reader 8.1.1 generates invalid...</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.ryanmcdonnell.com/multiple-blogs-one-wordpress-install-zero-code-changes/">Multiple blogs, one WordPress install, zero code changes | Ryan McDonnell</a> </dt>
+<dd>Now I know there are plenty of patches and other projects&nbsp;out there to&nbsp;host multiple blogs from a single installation of WordPress. Many of them focus on </dd>
+<dt><a href="http://kerychip.dk/silicium/viewpage.php?page_id=1">KeryChip - Solceller, solenergi &amp; elektronik</a> </dt>
+<dd>KeryChip ApS forhandler solceller, solcellemoduler og tilbeh&oslash;r, vindm&oslash;ller til private og erhverv.  Elektronik service - analog, digital </dd>
+<dt></dt></p>
+<h3>Bookmarks Toolbar</h3></p>
+<dd>Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+<dl>
+<dt><a href="sort=8&amp;maxResults=10">Most Visited</a> </dt>
+<dt><a href="http://www.webdesignerwall.com/demo/advanced-css-menu/?#">RSS</a> </dt>
+<dt></dt></p>
+<h3>Smart Bookmarks</h3><br />
+</dl>
+<dl>
+<dt><a href="sort=8&amp;maxResults=10">Most Visited</a> </dt>
+<dt><a href="folder=BOOKMARKS_MENU&amp;folder=UNFILED_BOOKMARKS&amp;folder=TOOLBAR&amp;sort=12&amp;excludeQueries=1&amp;excludeItemIfParentHasAnnotation=livemark%2FfeedURI&amp;maxResults=10&amp;queryType=1">Recently Bookmarked</a></p>
+<hr /></dt>
+<dt><a href="sort=14&amp;type=6&amp;maxResults=10">Recent Tags</a> </dt> </dl> </dd>
+<dt><a href="http://news.bbc.co.uk/go/rss/-/2/hi/default.stm">Latest Headlines</a> </dt>
+<dt><a href="//blog.spindelnet.dk/cgi-bin/mt/mt.cgi?__mode=view&amp;_type=page&amp;blog_id=2&amp;qp=1&amp;title='+encodeURIComponent(d.title)+'&amp;text='+encodeURIComponent(d.location.href)+encodeURIComponent('<br/><br/>')+encodeURIComponent(t),'_blank','scrollbars=yes,status=yes,resizable=yes,location=yes'))">QuickPost to test</a> </dt>
+<dt><a href="http://chel.tadalist.com/lists.rss">Ta-da lists for Christian E. Lysel</a> </dt>
+<dt><a href="http://www.alfresco.com/products/ecm/hostedtrials/">Alfresco ECM Enterprise Content Management - Enterprise Edition Test Drive</a> </dt>
+<dt><a href="https://phpmyadmin.surftown.com/index.php?lang=en-iso-8859-1&amp;server=16">phpmyadmin.surftown.com / mydbb3.surf-town.net / AlvRekl_test | phpMyAdmin 2.6.2-Debian-3sarge6</a> </dt>
+<dt><a href="https://www.netbank.nordea.dk/netbank/index.jsp">Nordea</a> </dt>
+<dd> </dd>
+<dt><a href="http://www.dmi.dk/dmi/index/danmark/byvejr_danmark.htm?by=2635">Byvejr - Danmark</a> </dt>
+<dt><a href="http://www.ryanmcdonnell.com/multiple-blogs-one-wordpress-install-zero-code-changes/">Multiple blogs, one WordPress install, zero code changes | Ryan McDonnell</a> </dt>
+<dt><a href="https://help.ubuntu.com/community/VirtualBox/Networking">VirtualBox/Networking - Community Ubuntu Documentation</a> </dt>
+<dt><a href="../">Christian E. Lysel</a> </dt>
+<dt><a href="../">Christian E. Lysel &raquo; Page not found</a> </dt>
+<dt></dt></p>
+<h3>Unsorted Bookmarks</h3></p>
+<dl>
+<dt><a href="http://start.ubuntu.com/8.04/">Welcome to Ubuntu 8.04 LTS!</a> </dt>
+<dd> </dd>
+<dt><a href="https://www.netbank.nordea.dk/netbank/index.jsp">Nordea</a> </dt>
+<dd> </dd> </dl>
+<dl>
+<dt><a href="http://ing.dk/artikel/87646?rss">photo</a> </dt>
+<dt><a href="http://netsciencenews.no-ip.org/www-bestdiysite.com/diy-radio-transmitters/hi-fi-stereo-fm-transmitter-project?portal_status_message=Changes%20saved.">HI-FI Stereo FM Transmitter Project &mdash; Scott W. Hotaling Sites</a> </dt>
+<dt><a href="http://www.woodgears.ca/">Matt's Woodworking Website</a> </dt>
+<dt></dt></p>
+<h3>Netscape bookmarks</h3><br />
+</dl>
+<dl>
+<dt><a href="http://bt.g.la/latest.html">- bt.g.la - BitTorrent Files for Download</a> </dt>
+<dt><a href="http://aurgasm.blogspot.com/">aurgasm  your favorite music you've never heard</a> </dt>
+<dt><a href="http://support.microsoft.com/?kbid=841290">Availability and description of the File Checksum Integrity Verifier utility</a> </dt>
+<dt><a href="http://www.nationalbanken.dk/">Danmarks Nationalbank</a> </dt>
+<dt><a href="http://www.dailyrush.dk/searchtype/file/demo+mp/">demo mp  Daily Rush  S&oslash;gning</a> </dt>
+<dt><a href="http://edbpriser.dk/searchgeneral.asp">EDBpriser.dk Din danske prisguide</a> </dt>
+<dt><a href="http://wilsonet.com/mythtv/">Fedora Myth(TV)ology  Welcome</a> </dt>
+<dt><a href="http://creativecommons.org/find/">Find search for works, browse collections  Creative Commons</a> </dt>
+<dt><a href="http://www.foundstone.com/index.htm?subnav=resources/navigation.htm&amp;subcontent=/resources/proddesc/sitedigger.htm">Foundstone, Inc.&reg; Strategic Security</a> </dt>
+<dt><a href="http://www.freelists.org/archives/opendtv/11-2004/msg00366.html">FreeLists - opendtv - [opendtv] BYOPVR Guide</a> </dt>
+<dt><a href="http://www.google.dk/search?q=+%22inurl%3Aaxis-cgi%2Fjpg%2Fimage.cgi%22&amp;btnG=Search&amp;num=100&amp;hl=en&amp;as_qdr=all">Google Search inurlaxis-cgi-jpg-image.cgi</a> </dt>
+<dt><a href="http://www.google.com/search?q=firewall+change+management&amp;hl=da&amp;lr=&amp;start=20&amp;sa=N">Google-s&oslash;gning firewall change management</a> </dt>
+<dt><a href="http://www-isl.mach.uni-karlsruhe.de/%7Ehi93/myth/mythtv_debian_epia_pvr350_walkthrough">http--www-isl.mach.uni-karlsruhe.de-~hi93-myth-mythtv_debian_epia_pvr350_walkthrough</a> </dt>
+<dt><a href="http://www.utmb.edu/policy/is/listing.htm">Information Resources Policies and Practice Standards Listing</a> </dt>
+<dt><a href="http://www.jamisieber.com/disc/lush.html">Jami Sieber  Lush Mechanique</a> </dt>
+<dt><a href="http://www.magnatune.com/artists/sieber">Jami Sieber enchanting cello compositions</a> </dt>
+<dt><a href="http://www.knowngoods.org/">KnownGoods Database</a> </dt>
+<dt><a href="http://www.microsoft.com/isapi/redir.dll?prd=windows&amp;sbp=mediaplayer&amp;plcid=&amp;pver=6.1&amp;os=&amp;over=&amp;olcid=&amp;clcid=&amp;ar=Media&amp;sba=RadioBar&amp;o1=&amp;o2=&amp;o3=">Oversigt over radiostationer</a> </dt>
+<dt><a href="http://www.postfix.org/postconf.5.html">Postfix Configuration Parameters</a> </dt>
+<dt><a href="http://www.sslug.dk/moede/valg/2005/">SSLUG - Hyggem&oslash;de - 2005-01-20</a> </dt>
+<dt><a href="http://www.medicinpriser.dk/search.cfm">S&oslash;geside - medicinpriser.dk - L&aelig;gemiddelstyrelsen</a> </dt>
+<dt><a href="http://www.torrentbox.com/torrents-search.php?search=sg-1&amp;select=0">TorrentBox.com - Search results for sg-1</a> </dt>
+<dt><a href="http://typo3.org/documentation/document-library/Matrix/">TYPO3.org Document Library</a> </dt>
+<dt><a href="http://www.voip-info.org/wiki-Asterisk">voip-info.org  Asterisk</a> </dt>
+<dt><a href="http://216.239.59.104/search?q=cache:QczslzieaskJ:www.zone-h.org/en/download/category%3D34/+rootkit+os/2+-%22not+affected%22&amp;hl=da">Zone-H.org  Download area</a> </dt>
+<dt><a href="https://firewall-greve.toptoy.dk:2456/index.html">toptoy greve firewall Log On</a> </dt>
+<dt><a href="http://www.totaltiorden.dk/shop/book_details.php/0201485419%7C%7C5">Donald Knuth, Donald E. Knuth: The Art of Computer Programming, Volumes 1-3 Boxed Set - K&oslash;b B&oslash;ger: Total I Orden.dk</a> </dt>
+<dt><a href="http://scpd.stanford.edu/knuth/">SCPD - Donald E. Knuth</a> </dt>
+<dt><a href="http://misc.aegd.net/tc-0x01-ArgaUngaHackare.txt">http://misc.aegd.net/tc-0x01-ArgaUngaHackare.txt</a> </dt>
+<dt><a href="http://www.toool.nl/bumping.pdf">bumping.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://applications.linux.com/article.pl?sid=05/01/06/0612209&amp;tid=49&amp;tid=47">Linux.com | A killer app: PDF Editor</a> </dt>
+<dt><a href="http://www.mobilflex-connect.dk/flexconnect/servlet/MainControllServlet.tdc;jsessionid=101DA5640B96723ED43A93E6B70CB83D.cls_rs2b_8009?PA=12">Mobilflex Connect - Telefonbog Administration</a> </dt>
+<dt><a href="http://www.netimed.dk/default.asp?getreq=%2Facatalog%2FVERBATIM%5FCD%5F100%5Fpack%5FBULK%5FMedier%2Ehtml">netimed.dk</a> </dt>
+<dt><a href="http://www.befro.dk/shop/">BEFRO ApS</a> </dt>
+<dt><a href="http://www.publicip.net/">PUBLICip - Free WiFi Solutions for Free WiFi Access</a> </dt>
+<dt><a href="http://dansguardian.org/">DansGuardian - True Web Content Filtering for All</a> </dt>
+<dt><a href="http://www.2cpu.com/articles/113_1.html">Home Theatre PC Guide</a> </dt>
+<dt><a href="http://firingsquad.com/hardware/budget_lcd_roundup_0405/">Budget LCD Roundup April 2005 : lcd, review, dell 1703fp, nec lcd1770nx, planar pl1700, samsung 172x, 710n, 915, viewsonic ve175, vg710</a> </dt>
+<dt><a href="http://pda.tucows.com/top_section_28.html">Tucows Mobile/PDA most popular Palm OS categories</a> </dt>
+<dt><a href="http://www.isecom.org/">ISECOM - Institute for Security and Open Methodologies</a> </dt>
+<dt><a href="http://www.totalcar.dk/tc.asp?A=Forsiden">..:: TotalCar Hobby ::..</a> </dt>
+<dt><a href="http://compushoppen.dk/">Lokal EDB Compushoppen ApS</a> </dt>
+<dt><a href="http://www.nomachine.com/products.php">NoMachine NX - Are you ready for network computing?</a> </dt>
+<dt><a href="http://www.hobby-boards.com/1wireboards/1-wire_boards.html">1-Wire Boards</a> </dt>
+<dt><a href="http://www.computerforensics.dk/index.htm">Computer Forensics.DK</a> </dt>
+<dt><a href="http://packetstormsecurity.nl/">.:[ packet storm ]:. - http://packetstormsecurity.org/</a> </dt>
+<dt><a href="http://peteropfinder.dk/">Peteropfinder.dk</a> </dt>
+<dt><a href="http://www.cypax.com/shop.html">- Cypax a/s - elektronik komponenter &amp; udstyr -</a> </dt>
+<dt><a href="http://www.newsforge.com/">NewsForge: The Online Newspaper for Linux and Open Source</a> </dt>
+<dt><a href="http://www.extremetech.com/article2/0,1558,1815010,00.asp">Microsoft-Free Home Part 4: The Linux HTPC--ExtremeTech Build It</a> </dt>
+<dt><a href="http://www.nierle.dk/">NIERLE Media - Portal for CD-R, DVD-R og tilbeh&oslash;r p&aring; internettet fra NIERLE Media Group.</a> </dt>
+<dt><a href="http://politiken.dk/VisArtikel.iasp?PageID=1">Politiken.dk - det levende net</a> </dt>
+<dt><a href="http://bigfoot.lan.spindelnet.dk/typo3/dummy-3.7.0/typo3/alt_main.php">Blank DUMMY [TYPO3 3.7.0]</a> </dt>
+<dt><a href="http://www.dmi.dk/dmi/index/danmark/byvejr_danmark.htm?by=2635">Byvejr - Danmark</a> </dt>
+<dt><a href="http://www.nslu2-linux.org/wiki/Main/Articles">NSLU2 Linux - Main / Articles</a> </dt>
+<dt><a href="http://www.zeldman.com/">Jeffrey Zeldman Presents The Daily Report</a> </dt>
+<dt><a href="http://www.fckeditor.net/default.html">FCKeditor - The text editor for Internet</a> </dt>
+<dt><a href="http://www.nslu2-linux.org/wiki/HowTo/TelnetIntoRedBoot">NSLU2 Linux - HowTo / TelnetIntoRedBoot</a> </dt>
+<dt><a href="http://www.nslu2-linux.org/wiki/OpenSlug/HomePage">NSLU2 Linux - OpenSlug / HomePage</a> </dt>
+<dt><a href="http://h18007.www1.hp.com/support/files/HandheldiPAQ/us/locate/105_5918.html">Software and Drivers - iPAQ Pocket PC h4100 Series h4150, Microsoft Pocket PC 2003</a> </dt>
+<dt><a href="http://www5.cd-wow.dk/detail_results_2.php?product_code=10735&amp;subcat=region2">CD WOW! - Welcome to CD WOW!</a> </dt>
+<dt><a href="http://earthreactor.com/index.php?name=News&amp;file=article&amp;sid=1355">ED2K DOWNLOAD : BIT TORRENT MOVIES : BIT TORRENT DOWNLOADS - The Tripods - Season 2 (VHS) (DivX)</a> </dt>
+<dt><a href="http://216.239.59.104/search?q=cache:S_YLuJBiFPcJ:ed2k.earthreactor.com/Wc26973f1fae5d.htm+tripods++season&amp;hl=da&amp;client=firefox-a">http://216.239.59.104/search?q=cache:S_YLuJBiFPcJ:ed2k.earthreactor.com/Wc26973f1fae5d.htm+tripods++season&amp;hl=da&amp;client=firefox-a</a> </dt>
+<dt><a href="http://www.mininova.org/tor/28295">mininova : TV shows > UK > UK - The Tripods(Complete Season 2)</a> </dt>
+<dt><a href="http://www.mininova.org/tor/25644">mininova : TV shows > UK > UK - The tripods 9-13 DVD Rip</a> </dt>
+<dt><a href="http://216.239.59.104/search?q=cache:5Vy47Sfy4FUJ:www.mininova.org/cat-list/8/size+tripods++season+torrent&amp;hl=da&amp;client=firefox-a">mininova : TV shows > All torrents</a> </dt>
+<dt><a href="http://www.extremetech.com/article2/0,1697,1835899,00.asp">Keeping Your Computer's Case Cool--ExtremeTech How-To</a> </dt>
+<dt><a href="http://www.mini-itx.com/store/?c=2#p1602">mini-itx.com - store</a> </dt>
+<dt><a href="http://www.arteq.dk/">ARTEQ Webshop</a> </dt>
+<dt><a href="http://digitalmedia.oreilly.com/2005/06/22/myth_tv.html">O'Reilly: Building My MythTV Box, Part 1: Hardware</a> </dt>
+<dt><a href="http://www.vmware.com/community/search%21default.jspa?forumID=21">VMTN Discussion Forums: VMware ESX Server Setup and Troubleshooting</a> </dt>
+<dt><a href="http://trifinite.org/trifinite_org.html">trifinite.org - the home of the trifinite.group</a> </dt>
+<dt><a href="http://www.cisco.com/en/US/products/hw/routers/ps380/products_qanda_item09186a00800949ec.shtml#q15">Cisco 827 Router Configuration Frequently Asked Questions  [Cisco 800 Series Routers] - Cisco Systems</a> </dt>
+<dt><a href="http://www.schaake.nu/index.php?page=/manuals/sslmanual.xml#Combined_client_certificate_and_Basic_authentication_with_Apache_and_PHP">Guide to implement ssl on linux</a> </dt>
+<dt><a href="http://h18007.www1.hp.com/support/files/hpcpqdt/us/download/20306.html">Software and Drivers - download Windows-based Format Utility for HP Drive Key or DiskOnKey USB Device, 2.00.006 A</a> </dt>
+<dt><a href="http://www.spar30.dk/om.php?%7Bsession_name%7D=%7Bsession_id%7D">Spar30.dk - Spar30% eller mere! - Danmarks bedste Tilbud - udsalg, tilbud og rabatter</a> </dt>
+<dt><a href="http://ultravnc.sourceforge.net/addons/singleclick.html">UltraVNC SC (SingleClick)</a> </dt>
+<dt><a href="http://pointers.audiovideoweb.com/asxfiles-live/il81winlive2065.asx">il81winlive2065.asx (video/x-ms-asf Object)</a> </dt>
+<dt><a href="http://www.dofmaster.com/dofjs.html">Online Depth of Field Calculator</a> </dt>
+<dt><a href="http://www.karma.dk/media/">Index of /media</a> </dt>
+<dt><a href="http://www.noisecontrol.dk/guide.htm">http://www.noisecontrol.dk/guide.htm</a> </dt>
+<dt><a href="http://a.mongers.org/diary/">Alex' Diary - chocolate, life and information security</a> </dt>
+<dt><a href="http://cortexsystems.dk/shop/net4826_da/">Cortex Systems - Your Soekris Provider &raquo; net4826</a> </dt>
+<dt><a href="http://www.mytrendyphone.dk/shop/default.asp?SetLng=1&amp;productid=CK-1W">Mytrendyphone.dk</a> </dt>
+<dt><a href="http://zdnet.com.au/insight/software/soa/How_to_choose_an_open_source_CMS/0,39023769,39234675,00.htm">How to choose an open-source CMS: ZDNet Australia: Insight: Software</a> </dt>
+<dt><a href="http://www.optaros.com/wp/wp_5_cms_report.html">Optaros - White Papers: Service Oriented Architecture and Open Source Solutions</a> </dt>
+<dt><a href="http://www.porcupine.org/forensics/forensic-discovery/">Forensic Discovery</a> </dt>
+<dt><a href="http://www.consolevision.com/members/dcgrendel/vmxform.html">VM Builder</a> </dt>
+<dt><a href="http://fabrice.bellard.free.fr/qemu/">QEMU</a> </dt>
+<dt><a href="http://www.csszengarden.com/?cssfile=/185/185.css&amp;page=0">css Zen Garden: The Beauty in CSS Design</a> </dt>
+<dt><a href="http://standards.ieee.org/getieee802/download/802.1Q-2003.pdf">802.1Q-2003.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://byggeri.org/guide/tag.asp">Tag guiden - Byggeri.dk</a> </dt> </dl>
+<dt></dt></p>
+<h3>objektiver</h3></p>
+<dl>
+<dt><a href="http://www.tamron.co.jp/en/data/digital/a14.html">TAMRON | AF18-200mm F/3.5-6.3 XR Di-II LD ASPHERICAL (IF) MACRO (Model A14)</a> </dt>
+<dt><a href="https://webshop.kamerahuset.dk/catalog/advanced_search_result.php?keywords=Nikon+AF+Nikkor+70-300&amp;osCsid=f88b83422c22bfe3622dfec8c6a07bbc&amp;x=0&amp;y=0">Kamerahuset</a> </dt>
+<dt><a href="http://www.kenrockwell.com/nikon/70300g.htm">Nikon AF Zoom-Nikkor 70-300mm f/4-5.6G Test Review</a> </dt>
+<dt><a href="http://www1.sanjosecamera.com/mall/showdetl.cfm?&amp;DID=56&amp;Product_ID=1338&amp;CATID=145">San Jose Camera &amp; Video: Browsing Nikon AF-S 18-200 f3.5-5.6 G ED-IF VR DX Zoom</a> </dt>
+<dt><a href="http://www.naturfotograf.com/lens_surv.html">Lens Evaluations</a> </dt>
+<dd>Lens evaluations covering mostly Nikon and Nikkor lenses</dd>
+<dt><a href="http://www.europe-nikon.com/details.aspx?CountryID=11&amp;languageId=11&amp;catId=121&amp;prodId=1104">AF-S DX VR 18-200mm 3.5-5.6G IF-ED</a> </dt>
+<dt><a href="http://www.europe-nikon.com/category.aspx?countryId=11&amp;languageId=11&amp;catId=116">category</a> </dt>
+<dt><a href="http://www.triogate.dk/shop/">TrioGate</a> </dt>
+<dd>TrioGate - Onlineshop med digitale kameraer, kikkerter og alt i tilbeh&oslash;r</dd>
+<dt><a href="http://www.kenrockwell.com/nikon/">Guide to Nikon Products &copy; 2005 KenRockwell.com</a> </dt>
+<dt><a href="http://www.triogate.dk/shop/productinfo.asp?id=JAA794DC">Varekort</a> </dt>
+<dt><a href="http://www.triogate.dk/shop/productinfo.asp?id=JAA011DB">Varekort</a> </dt>
+<dt><a href="http://www.ritzcamera.com/lenses-for-nikon.htm?bct=t13031003%3Bcifilm-cameras-and-accessories%3Bcicamera-lenses%3Bcislr-lens">Lenses - Lenses For Nikon - 915144 - RitzCamera.com</a> </dt>
+<dd>Lenses For Nikon reviews, features and specifications. Review and compare featured and best-selling Lenses For Nikon products.</dd>
+<dt><a href="http://search.stores.ebay.com/Hong-Kong-Supplies_18-200_W0QQfciZ4QQfclZ4QQfsnZHongQ20KongQ20SuppliesQQfsooZ1QQfsopZ1QQfsubZ12QQftsZ2QQsaselZ5360883QQsatitleZ18Q2d200QQsofpZ0">eBay Store &ndash; Hong Kong Supplies: Search results for 18-200.</a> </dt>
+<dd>Buy Nikon and items from Hong Kong Supplies eBay Store. We also sell items on eBay.</dd> </dl>
+<dt></dt></p>
+<h3>old</h3></p>
+<dl>
+<dt></dt></p>
+<h3>GAS</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.vaillant.dk/product.php?folder_default_tree=10002-10307-10333&amp;folder_default_netfolderID=10367&amp;folder_where_from=default&amp;product_default_id=1879">Vaillant: Gaskedler</a> </dt>
+<dt><a href="http://www.baxi.dk/showinfo.asp?intItemID=1&amp;intPhonelistItemID=1357">BAXI A/S - fjernvarme, oliefyr, stoker, gaskedler, gasfyr, br&aelig;ndefyr, fastbr&aelig;ndsel, tr&aelig;piller, biobr&aelig;ndsel, vandvarmer</a> </dt>
+<dt></dt></p>
+<h3>Bosch - Varmtvandsbeholdere</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.baxi.dk/showinfo.asp?intItemID=1&amp;intPhonelistItemID=1357">BAXI A/S - fjernvarme, oliefyr, stoker, gaskedler, gasfyr, br&aelig;ndefyr, fastbr&aelig;ndsel, tr&aelig;piller, biobr&aelig;ndsel, vandvarmer</a> </dt>
+<dt><a href="http://www.bosch.dk/content/language1/html/2148.htm">Bosch - Varmtvandsbeholdere</a> </dt>
+<dt><a href="http://www.vaillant.dk/product.php?folder_default_tree=10002-10307-10333&amp;folder_default_netfolderID=10367&amp;folder_where_from=default&amp;product_default_id=1879">Vaillant: Gaskedler</a> </dt> </dl>
+<dt><a href="http://www.baxi.dk/commFiles/Info/attachments/361/Brochure_WGB_&amp;_WGB-KN.pdf">Brochure_WGB_&amp;_WGB-KN.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://edit-dk.vaillant.com/mod/netmedia_pdf/data/2237301_ecoTEC-ecoCOMPACT_03-2005_screen.pdf">2237301_ecoTEC-ecoCOMPACT_03-2005_screen.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://edit-dk.vaillant.com/mod/netmedia_pdf/data/2237301_ecoTEC-ecoCOMPACT_03-2005_screen.pdf">2237301_ecoTEC-ecoCOMPACT_03-2005_screen.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://www.baxi.dk/commFiles/Info/attachments/213/Brugervejledning_Block_Gas_Premix.pdf">Brugervejledning_Block_Gas_Premix.pdf (application/pdf Object)</a> </dt>
+<dt><a href="http://www.bosch.dk/content/language1/downloads/Cerapur.pdf">Cerapur.pdf (application/pdf Object)</a> </dt>
+<dt></dt></p>
+<h3>map</h3></p>
+<dl>
+<dt><a href="http://www.irongeek.com/i.php?page=security/wigletogoogleearth">Wigle Data to Google Earth (KML File)</a> </dt>
+<dd>Irongeek's Information Security site with tutorials, articles and other information.</dd>
+<dt><a href="http://www.gpsvisualizer.com/index.html">GPS Visualizer</a> </dt>
+<dd>GPS Visualizer (GeoVisualizer) is a free utility that creates customizable maps and profiles from GPS data (tracklogs &amp; waypoints), addresses, or coordinates.</dd> </dl>
+<dt></dt></p>
+<h3>music</h3></p>
+<dl>
+<dt><a href="http://www.nettomusic.dk/frame.ASP?mainpage=%2E%2E%2Ffrontpage%2Fforside%2Easp&amp;catid=">NettoMusic</a> </dt>
+<dt><a href="http://www.lionstracs.com/site/index.php?option=content&amp;task=view&amp;id=34&amp;catid=37&amp;Itemid=59">LIONSTRACS-MEDIASTATION X-76 - VIDEO Streaming</a> </dt>
+<dd>Lionstracs Italy Mediastation X-76</dd>
+<dt></dt></p>
+<h3>roland midi</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.instrument-priser.dk/search.asp">Musikinstrumenter - Synthesizers - Roland</a> </dt>
+<dt><a href="http://www.violamusik.dk/shop/default.asp">VIOLA MUSIK</a> </dt>
+<dt><a href="http://www.roland.co.uk/gr10/srxdemos/index.asp">Roland - We design the future</a> </dt>
+<dt><a href="http://www.nettomusic.dk/shop/productinfo.asp?id=1629">Varekort</a> </dt>
+<dt><a href="http://www.jam.se/syntar.htm">Syntar</a> </dt>
+<dt><a href="http://www.cosmicdreamer.be/5080/5080.htm">Untitled Document</a> </dt>
+<dt><a href="http://www.dba.dk/asp/soegning/detail.asp?annonceid=46178764&amp;link=%2Fasp%2Fsoegning%2Fsoegning%2Easp%3FFritekst%3Dxv%252D5080%26RubrikId%3D23100%26Medbillede%3D0%26AntalDage%3D0%26Querytype%3D0%26PrisTil%3D9999999%26PrisFra%3D0%26KortSogRad%3D0%26KortSogY%3D0%26KortSogX%3D0%26radX%3D0%26radY%3D0%26KortSogNavn%3D0%26RegionId%3D0%26Forhandler%3D0%26OldNiveau%3D%26AgentNavn%3D%26SoegningId%3D0%26BilledVisning%3D0%26TotalAntalTopAnnoncer%3D2%26Sortering%3D1%26Sorteringtype%3D1%26curpage%3D1%26Annoncetype%3D2">Musikinstrumenter og udstyr - Synthesizer Roland XV5080 midi - 'Den Bl&aring; Avis p&aring; nettet'</a> </dt>
+<dd>Annoncetekst: Synthesizer, Roland XV5080, midi,128 MB RAM, 128 MB SmartMedia Card, 2 Expansions cards (60's &amp; 70's ex-card, Piano XV card), Manual, SCSI interface, </dd>
+<dt><a href="http://www.rolandus.com/products/productdetails.aspx?ObjectId=274">Welcome to Roland U.S.</a> </dt> </dl>
+<dt><a href="http://www.geocities.jp/midi_organ_net/aeolus/">How to install Aeolus, pipeorgan synthesizer for Linux</a> </dt>
+<dt><a href="http://www.frequence.dk/">Frequence</a> </dt>
+<dt><a href="http://www.supercharger.dk/">...:: The Official SuperCharger Website ::...</a> </dt>
+<dd>The official SuperCharger website</dd>
+<dt><a href="http://boduns.starlink.ru/MUSIC/DEMO%20SYNTH/?C=N;O=A">Index of /MUSIC/DEMO SYNTH</a> </dt>
+<dt><a href="http://the-all.org/tx81z/index.html">The Yamaha TX81Z Homepage</a> </dt>
+<dd>Website dedicated to using and programming<br />
+the Yamaha TX81Z FM synthesizer module</dd>
+<dt></dt></p>
+<h3>webdesign</h3></p>
+<dl>
+<dt><a href="http://www.stopdesign.com/articles/">Stopdesign | Articles</a> </dt>
+<dd>A design consultancy led by Founder and Principal, Douglas Bowman, based in San Francisco, California, Stopdesign specializes in a simple, beautiful aesthetic, balance of form and function, and highly flexible design.</dd>
+<dt><a href="//localhost/home/chel/Desktop/web/index.html">file://localhost/home/chel/Desktop/web/index.html</a> </dt>
+<dt><a href="http://www.maani.us/xml_charts/index.php?menu=Gallery">XML/SWF Charts</a> </dt>
+<dt><a href="http://www.alistapart.com/articles/cssemail">A List Apart: Articles: CSS and Email, Kissing in a Tree</a> </dt>
+<dt><a href="http://www.alistapart.com/articles/slashdot/">Retooling Slashdot with Web Standards A List Apart</a> </dt>
+<dt><a href="http://www.linux.com/feature/119748">Linux.com :: Increase page ranking with FOSS tools for SEO</a> </dt>
+<dd>Theoretically, search engines should find all the best Web sites and rank them at the top of their search results. Unfortunately, due to the gap between artificial and human intelligence, this doesn't always happen. Users have the ability to alter the rankings by doing search engine optimization (SEO) -- a two-edged sword that can either be beneficial or harmful, depending on whose hands it's in. You can improve your site's search-engine rankings by using free or open source software (FOSS) tools for SEO.</dd>
+<dt><a href="http://www.optimization-services.com/meta.asp?ID=4">Meta Tag Generator</a> </dt>
+<dt><a href="http://www.webuildpages.com/cclass/">We Build Pages Anchor Text Backlink Checker</a> </dt>
+<dt><a href="http://spindelnet.dk/seo/">http://spindelnet.dk/seo/</a> </dt>
+<dt><a href="https://adwords.google.com/select/KeywordToolExternal">Google AdWords: Keyword Tool</a> </dt>
+<dt><a href="http://www.xml-sitemaps.com/details-spindelnet.dk.html">Create your Google Sitemap Online - XML Sitemaps</a> </dt>
+<dt><a href="http://www.freecsstemplates.org/">Download free CSS templates - Free CSS Templates</a> </dt>
+<dd>Download free standards compliant CSS templates.</dd> </dl>
+<dt></dt></p>
+<h3>software</h3></p>
+<dl>
+<dt></dt></p>
+<h3>operativ system</h3><br />
+</dl>
+<dl>
+<dt></dt></p>
+<h3>linux</h3><br />
+</dl>
+<dl>
+<dt></dt></p>
+<h3>utils</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.unixuser.org/%7Eeuske/vnc2swf/">vnc2swf - Screen Recorder</a> </dt>
+<dt><a href="http://www.linuxplanet.com/linuxplanet/tutorials/3100/1/">LinuxPlanet - Tutorials - HOWTO: Multiple local XFree users under Linux - Multiple Local XFree Users Under Linux</a> </dt>
+<dd>With this HOWTO from Miguel Freitas, it's possible to set up multiple users with their own monitors, keyboards, and mouses on a single machine: </dd>
+<dt><a href="http://www.glom.org/wiki/index.php?title=Main_Page">Glom - Glom</a> </dt> </dl>
+<dt><a href="http://www.ffnn.nl/pages/articles/linux/vmware-player-image-creation.php">Forever For Now - VMWare Player Image Creation</a> </dt>
+<dd>Creating new VMWare Player virtual machines and images from scratch so you can run the operating systems you want for free.</dd>
+<dt><a href="http://wiki.sisuite.org/">FrontPage - SISuite Wiki</a> </dt>
+<dt><a href="http://rpm.livna.org/fedora/5/i386/">Index of /fedora/5/i386</a> </dt>
+<dt><a href="http://www.linux.com/article.pl?sid=06/06/15/1444226">Linux.com | Getting started with Linux-VServer</a> </dt>
+<dd>Getting started with Linux-VServer -- article related to Security and System Administration.</dd>
+<dt><a href="http://icculus.org/lgfaq/">Linux Gamers' FAQ</a> </dt>
+<dt><a href="http://www.linuxbog.dk/applikationer/applikationer/grafik-3dsoftware.html">3D-spil</a> </dt>
+<dt><a href="http://www.drbd.org/">DRRB cluster block device</a> </dt>
+<dt><a href="http://www.gurulabs.com/goodies/YUM_automatic_local_mirror.php">Fedora automatic update,Guru Labs</a> </dt>
+<dt><a href="http://thinstation.sourceforge.net/wiki/index.php/ThIndex">:: Thinstation - a light, full-featured Linux thin client OS ::</a> </dt>
+<dd>Thinstation is a thin client Linux distribution that makes a PC a full-featured thin client supporting all major connectivity protocols: Citrix ICA, NoMachine NX, 2X ThinClient, MS Windows terminal services (RDP), Cendio ThinLinc, Tarantella, X, telnet, tn5250, VMS term and SSH. No special configuration of the application servers is needed to use Thinstation! Thinstation can be booted from network (e.g. diskless) using Etherboot/PXE or from a local floppy/CD/HD/flash-disk. The thin client configuration can be centralized to simplify management. Thinstation supports client-side storage (floppy/HD/CD/USB) and printers (LPT/USB). Prebuilt images and a Live CD are available too! Mozilla Firefox and lighter browsers are supported as client-side browsers.</dd>
+<dt><a href="http://www.aboutdebian.com/database.htm">Debian Linux Database Server - How To Set Up A MySQL Database Server</a> </dt>
+<dd>How to set up and test a MySQL database server using Debian Linux with Windows clients.</dd>
+<dt><a href="http://www.daimi.au.dk/%7Esandmann/sysprof/">Sysprof - A System-wide Linux Profiler</a> </dt>
+<dt></dt></p>
+<h3>xbox</h3></p>
+<dl>
+<dt><a href="http://www.evilzmods.com/lptprogram.htm">X2 Pro LPT Programmer</a> </dt>
+<dt><a href="http://www.teamxecuter.com/x23b_pro_wires.htm">Team Xecuter :: Xecuter 2.3B Pro Wires Install</a> </dt> </dl>
+<dt></dt></p>
+<h3>windows</h3></p>
+<dl>
+<dt><a href="http://www.svein.dk/Visartikler.asp?ART_id=117&amp;S_Menu=50">Windows Tips &amp; Tricks - Vis artikel</a> </dt>
+<dt><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnanchor/html/windowsce.asp">Windows CE</a> </dt>
+<dt><a href="http://www.stefan-kuhr.de/supsu/main.php3">SUperior SU</a> </dt>
+<dt><a href="http://www.megasecurity.org/Tools/Nt_rootkit_all.html">NT RootKit</a> </dt>
+<dt><a href="http://www.microsoft.com/isapi/redir.dll?prd=ie&amp;pver=6&amp;ar=IStart">MSN.com</a> </dt>
+<dt><a href="http://www.sandboxie.com/">Sandboxie - Front Page</a> </dt>
+<dt><a href="http://wpkg.org/Download">Download - WPKG | Open Source Software Deployment and Distribution</a> </dt>
+<dd>Download. WPKG is an open source software deployment and distribution tool. The site has a large collection of silent installers.</dd> </dl>
+<dt><a href="http://johnny.ihackstuff.com/ghdb.php">Google Hacking Database</a> </dt>
+<dd>I'm j0hnny. I hack stuff.</dd>
+<dt><a href="http://faculty.valenciacc.edu/infolit/Google/help.htm">Search Strategies</a> </dt>
+<dt><a href="http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software">File Recovery: How to Recover Deleted Files with Free Software</a> </dt>
+<dd>Ack The computer ate my term paper We've all been there at some point You delete an important file somehow</dd>
+<dt><a href="http://www.cgsecurity.org/">Main Page - CGSecurity</a> </dt>
+<dt></dt></p>
+<h3>DBA</h3></p>
+<dl>
+<dt><a href="http://oracledba.ru/orasrp/">OraSRP / Oracle Session Resource Profiler</a> </dt>
+<dt><a href="http://www.izzysoft.de/software/demos/orarep?topic=oradb">IzzySoft: OraRep Demos</a> </dt>
+<dd>Oracle Database Support and InterNet/IntraNet programming by a German company located in Munich, Bavaria, Germany - Demos</dd>
+<dt><a href="http://www.izzysoft.de/?topic=oracle">IzzySoft</a> </dt>
+<dd>Oracle Database Support and InterNet/IntraNet programming by a German company located in Munich, Bavaria, Germany</dd> </dl>
+<dt></dt></p>
+<h3>bekende</h3></p>
+<dl>
+<dt></dt></p>
+<h3>michael susanka</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.google.com/search?hs=mk7&amp;hl=en&amp;lr=&amp;client=opera&amp;rls=en&amp;q=%22Annemarie+Steen+Olsen%22&amp;btnG=Search">"Annemarie Steen Olsen" - Google Search</a> </dt>
+<dt><a href="http://www.freephonenames.dk/presse-dansk.asp">Pressekontakt Freephonenames</a> </dt>
+<dd>Kontakt Freephonenames - gratis dom&aelig;nenavn og gratis e-mail</dd>
+<dt><a href="http://www.degulesider.dk/vbw/super/resultat.do?compTrade=&amp;compZip=&amp;compCity=&amp;compAddress=Kloeverprisvej+30&amp;compRegionID=&amp;compPhone=&amp;filterIds=&amp;compInfCatID=&amp;compInfHitTypeID=&amp;minx=&amp;maxx=&amp;miny=&amp;maxy=&amp;ssfull=1&amp;twoFieldName=&amp;twoFieldAddr=&amp;Image51.x=51&amp;Image51.y=0">Supers&oslash;ger - De Gule Sider</a> </dt>
+<dd>Fagregister, nummeroplysning, kort og rutevejledning for hele Danmark findes p&aring; De Gule Sider.</dd>
+<dt><a href="http://www.ku.dk/nytfa/navn/navn0109.html">NYTFA - navnenoter</a> </dt> </dl>
+<dt></dt></p>
+<h3>curne</h3></p>
+<dl>
+<dt><a href="http://digte.dk/digte/forfatter.asp?forfatter=2717">digte.dk - internetsitet hvor skandinavisk kultur opst&aring;r</a> </dt>
+<dt><a href="http://groups.google.dk/groups?q=Simon+Conrad-Armes&amp;start=10&amp;hl=da&amp;lr=&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;scoring=d&amp;selm=Pine.HPP.3.95.990213140218.20069A-100000%40embla.diku.dk&amp;rnum=20">Google-s&oslash;gning: Simon Conrad-Armes</a> </dt>
+<dt><a href="http://www.degulesider.dk/vbw/super/resultat.do?compTrade=+Simon+Conrad-Armes&amp;compAddress=&amp;compZip=&amp;compCity=&amp;compRegionID=&amp;compPhone=&amp;Image5.x=37&amp;Image5.y=9">Supers&oslash;ger - De Gule Sider</a> </dt>
+<dt><a href="http://sourceforge.net/users/curne/">SourceForge.net: Developer Profile</a> </dt>
+<dt><a href="http://rubyforge.org/users/curne/">RubyForge: Developer Profile</a> </dt>
+<dt><a href="http://freshmeat.net/%7Ecurne/">freshmeat.net: User information</a> </dt>
+<dt><a href="http://www.moensted.dk/">The Home of dr. J&oslash;rgen Mash</a> </dt>
+<dt><a href="http://peter.juul.dk/sound/">Lyde lyde, det no'd m&aelig;rkli' noget, kommer ind af dit &oslash;re og ud af dit ho'ed.</a> </dt>
+<dt><a href="http://slashdot.org/%7Ecurne">curne - Slashdot User</a> </dt>
+<dt><a href="http://david.olrik.dk/">david.olrik.dk</a> </dt> </dl>
+<dt></dt></p>
+<h3>webcam</h3></p>
+<dl>
+<dt><a href="http://www.medias.ne.jp/%7Etakam/bsd/NetBSD.html">NetBSD Page</a> </dt>
+<dt><a href="http://ubuntuforums.org/showthread.php?t=197202&amp;highlight=spc900nc">How do I install the webcam Philips SPC 900NC? - Ubuntu Forums</a> </dt>
+<dd>How do I install the webcam Philips SPC 900NC? Multimedia &amp;amp; Video</dd>
+<dt><a href="http://www.lavrsen.dk/webcam/">Kenneth Lavrsen's Webcam</a> </dt>
+<dt><a href="http://www.zoneminder.com/screenshots.html">ZoneMinder: Linux Video Camera and CCTV Security with Motion Detection</a> </dt>
+<dd>ZoneMinder linux video camera security and cctv. Features motion detection and alerts for home security, family monitoring and general video surveillance</dd> </dl>
+<dt></dt></p>
+<h3>netv&aelig;rk</h3></p>
+<dl>
+<dt></dt></p>
+<h3>overv&aring;gning</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.netmrg.net/about.php">About | NetMRG</a> </dt>
+<dt><a href="http://www.cacti.net/what_is_cacti.php">Cacti: The Complete RRDTool-based Graphing Solution</a> </dt>
+<dt><a href="http://www.tnpi.biz/internet/manage/rrdutil/">TNPI - rrdutil</a> </dt>
+<dd>The Network People, Inc. Web Site</dd>
+<dt><a href="http://karlkatzke.com/nagios-on-centos4-with-hpasm-and-dell-omsa/">Karl Katzke &raquo; Nagios w/ Dell OMSA &amp; HPASM on CentOS 4</a> </dt>
+<dd>Karl Katzke: Puppies, PHP, and other geekery</dd> </dl>
+<dt></dt></p>
+<h3>RNG generator</h3></p>
+<dl>
+<dt><a href="http://www.vanheusden.com/aed/">audio entropy daemon</a> </dt>
+<dd>www.vanheusden.com</dd>
+<dt><a href="http://www.linuxfromscratch.org/hints/downloads/files/entropy.txt">http://www.linuxfromscratch.org/hints/downloads/files/entropy.txt</a> </dt>
+<dt><a href="http://linuxfromscratch.org/pipermail/hlfs-dev/2005-July/002318.html">/dev/random empty?</a> </dt> </dl>
+<dt></dt></p>
+<h3>sip</h3></p>
+<dl>
+<dt><a href="http://www.snom.com/snom_voip_box.html">snom technology ag: snom VoIP Box</a> </dt> </dl>
+<dt></dt></p>
+<h3>wifi</h3></p>
+<dl>
+<dt><a href="http://www.raulsiles.com/resources/wifi.html">Ra&uacute;l Siles - WiFi</a> </dt>
+<dd>Raul Siles' information security</dd> </dl>
+<dt><a href="http://linux-ip.net/html/">Guide to IP Layer Network Administration with Linux</a> </dt>
+<dd> This guide provides an overview of many of the tools available<br />
+for IP network administration of the linux operating system,<br />
+kernels in the 2.2 and 2.4 series.  It covers Ethernet, ARP,<br />
+IP routing, NAT, and other topics central to the management of IP<br />
+networks. </dd>
+<dt><a href="http://research.eeye.com/html/advisories/upcoming/index.html">eEye Digital Security - Research</a> </dt>
+<dt><a href="http://trac.lighttpd.net/trac/wiki/Docs%3APerformance">Docs:Performance - lighttpd - Trac</a> </dt>
+<dt><a href="http://www.cisco.com/univercd/home/home.htm">Cisco Connection Documentation</a> </dt>
+<dt><a href="http://www.cisco.com/warp/public/788/voip/voip_cas.htm">Cisco - VoIP with Channel Associated Signaling (CAS)</a> </dt>
+<dt><a href="http://www.funambol.com/product/overview.html">funambol :: product :: overview</a> </dt>
+<dt><a href="http://www.phenoelit.de/dpl/dpl.html">Default Password List</a> </dt>
+<dt><a href="http://www.scheduleworld.com/syncml.html">ScheduleWorld - SyncML</a> </dt>
+<dt><a href="http://x-wrt.org/">X-Wrt - Web interface and more for OpenWrt</a> </dt>
+<dd>X-Wrt is a set of packages and patches to enhance the end user experience of OpenWrt.</dd>
+<dt><a href="http://www.freeauth.org/site">The FreeAuth Project - Trac</a> </dt>
+<dt><a href="http://www.eff.org/testyourisp/pcapdiff/">pcapdiff | Electronic Frontier Foundation</a> </dt>
+<dt><a href="http://www.eff.org/wp/detecting-packet-injection">Detecting packet injection: a guide to observing packet spoofing by ISPs | Electronic Frontier Foundation</a> </dt>
+<dt></dt></p>
+<h3>video konvertering</h3></p>
+<dl>
+<dt><a href="http://www.videopro.dk/index.html">DVD kopiering&nbsp; VideoPro</a> </dt>
+<dd> DVD kopiering Dvdproduktion konvertering  videoproduktion </dd>
+<dt><a href="http://www.emb.dk/content.18.37.28">EMB - Elektronik og Medie Butikken</a> </dt>
+<dt><a href="http://auktioner.qxl.dk/Weedman">QXL.dk - S&oslash;g</a> </dt> </dl>
+<dt></dt></p>
+<h3>G&oslash;r-det-selv</h3></p>
+<dl>
+<dt></dt></p>
+<h3>hardware</h3><br />
+</dl>
+<dl>
+<dt></dt></p>
+<h3>ibm b&aelig;rbar</h3><br />
+</dl>
+<dl>
+<dt><a href="http://steffenpingel.de/linux/linux-x40.php">Steffen Pingel's Homepage - Linux - X40</a> </dt> </dl>
+<dt></dt></p>
+<h3>elektronik</h3></p>
+<dl>
+<dt><a href="http://www.thekeeser.com/Projects/simple_ir_detector.htm">Simple IR detector</a> </dt>
+<dt><a href="http://www.datasheetarchive.com/">Electronic Component Datasheets and Data Books</a> </dt>
+<dd>DatasheetArchive.com supplies datasheets and information for electronic components and semiconductors, especially for obsolete and discontinued parts. Its free. Distributor information.</dd>
+<dt><a href="http://www.olimex.com/pcb/index.html">FAST PCB PROTOTYPES FOR $26</a> </dt>
+<dd>Quality PCB prototypes</dd>
+<dt><a href="http://www.emachineshop.com/">eMachineShop - Online Machine Shop - with FREE CAD Software</a> </dt>
+<dd>eMachineshop - the world's first online machine shop features free software, instant price quotes, turning, CNC, waterjet, laser cutting, injection molding</dd>
+<dt><a href="http://www.radiolocman.com/electrical-engineering/">Free electronic circuits search engine catalogue find electrical schematics diagrams engineering service manuals articles Antique Audio Auto Audio Camcorders Cellular Computer Digital Domestic</a> </dt>
+<dd>Collection of free schematics: Audio, Auto, Computer, Digital, Domestic, High Voltage, Light, Laser, Meters, Music, Oscillators, Power, Radio, RC Modeling, Repair, Security, TV-Monitors, Video, Telephone</dd>
+<dt><a href="http://www.robotroom.com/index.html">David Cook - Robot Room - Robotics, electronics, and schematics</a> </dt>
+<dd>Robot schematics, books, and circuits for mini Sumo, line following, BEAM, and electronic projects. Instructions on making robots at home. Basic help and tips on how to build robotic sensors. Homemade autonomous bots for a hobby! By David Cook.</dd>
+<dt><a href="http://www.expresspcb.com/ExpressPCBHtm/Costs.htm">ExpressPCB - Free PCB layout software - Low cost circuit boards - Top quality PCB manufacturing</a> </dt>
+<dd>Free PCB layout software - Low cost circuit boards - Top quality PCB manufacturing</dd>
+<dt><a href="http://www.instructables.com/">Instructables: step-by-step collaboration</a> </dt>
+<dt></dt></p>
+<h3>temperatur logger</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.maxim-ic.com/quick_view2.cfm/qv_pk/2815/ln/en">DS18S20 1-Wire Parasite-Power Digital Thermometer</a> </dt>
+<dt><a href="http://www.digitemp.com/products.shtml">Temperature Sensor Modules</a> </dt>
+<dt><a href="http://forum.pilleklub.dk/forum_posts.asp?TID=54&amp;PN=1">Pilleklubbens Diskussion: Data logger til temperatur</a> </dt>
+<dt><a href="http://www.digitemp.com/products.shtml">Temperature Sensor Modules</a> </dt>
+<dt><a href="http://62.243.250.107/temperatur.htm">Udetemperatur</a> </dt>
+<dt><a href="http://www.aagelectronica.com/aag/index.html?target=p_33.html&amp;lang=en-us">www.aagelectronica.com</a> </dt>
+<dt><a href="http://www.hobby-boards.com/1wireboards/dc2-r1_dual_counter.html">DC2-R1 Dual Counter</a> </dt>
+<dt><a href="http://eekit.dk/product.asp?product=426">Fire kanals Temp. Data Logger med PIC</a> </dt> </dl>
+<dt><a href="http://www.geocities.com/tomzi.geo/lm317/lm317.htm">LM317 Variable Power Supply</a> </dt>
+<dt></dt></p>
+<h3>byg selv h&oslash;jtaler</h3></p>
+<dl>
+<dt><a href="http://www.frequence.dk/sites/kits.htm">loudspeaker subwoofer amp kits</a> </dt>
+<dt><a href="http://www.valutronic.se/index2.html">H&ouml;gtalare, slutsteg och freeware fr&aring;n Valutronic</a> </dt>
+<dd>H&amp;ouml;gsta f&amp;ouml;rh&amp;aring;llande kvalitet/pris. </dd> </dl>
+<dt><a href="http://peteropfinder.dk/">http://peteropfinder.dk/</a> </dt>
+<dt><a href="http://www.amel.dk/?iframe=http%3A%2F%2Fwww%2Eamel%2Edk%2Fdetalje%2Easp%3Fvarenr%3D770%2D082">AMEL.DK - Amager Electronic</a> </dt>
+<dt><a href="http://www.dsel.dk/elektronik.shtml">Elektronik design</a> </dt>
+<dt><a href="http://www.elvvs.dk/articlelist.2483">Netsalg El og VVS ApS - Tavler, M&aring;lerskabe : F&aelig;rdigbygget tavler : Med automatsikringer : Lauritz Knudsen A/S</a> </dt>
+<dt><a href="http://www.green-line.dk/asp/starttrade.asp">Greenline - elartikler, el-artikler, flexr&oslash;r, greenline gulvvarme</a> </dt>
+<dd>Elartikler online, spar op til 40 % p&aring; alle elartikler gratis omg&aring;ende levering af over 12.000 lagerf&oslash;rte artikler. R&aring;dgivning og service af 12 motiverede medarbejdere.</dd>
+<dt><a href="http://www.kpsec.freeuk.com/index.htm">Welcome to the Electronics Club</a> </dt>
+<dd>The Electronics Club</dd>
+<dt><a href="http://www.leds4all.dk/">LEDs4all.dk</a> </dt>
+<dt><a href="http://www.mitedu.freeserve.co.uk/Circuits/cctindex.html">Circuit Index</a> </dt>
+<dd>a-z of circuits listed on this site</dd>
+<dt><a href="http://braincambre500.freeservers.com/rss%281%29%281%29%281%29.htm">Introducing the Radio Shack Special Project...</a> </dt>
+<dt><a href="http://symlink.dk/electro/">SYMLINK.DK - Electronics</a> </dt>
+<dd>Spaceman Spiff's electronics page</dd>
+<dt><a href="http://www.sensirion.com/en/02_sensors/03_humidity/00_humidity_temperature_sensor/02_humidity_sensor_sht11.htm">humidity sensors: first digital humidity sensor SHT11. Sensors for relative humidity. - Sensirion AG</a> </dt>
+<dd>Humidity sensors: The SHT11 digital humidity sensor and temperature sensor is fully calibrated and offers excellent long term stability and ease of use at very low cost. sensors for humidity, temperature and dew point.</dd>
+<dt><a href="http://toomuch.dk/index.php?ID=264">.: toomuch.dk :.</a> </dt>
+<dt><a href="http://africatravels.pbwiki.com/RadioTransmitterCircuits">africatravels / RadioTransmitterCircuits</a> </dt>
+<dd>The connors travels in africa.</dd>
+<dt><a href="http://sound.westhost.com/project54.htm">Low Power FM Transmitter</a> </dt>
+<dd>ESP Project Pages - Low Power FM Transmitter. Visit my other pages for more audio projects and articles</dd>
+<dt><a href="http://www.lumenlab.com/forums/index.php?showtopic=1039">Info on Stripping and Working with an LCD - Lumenlab</a> </dt>
+<dt><a href="http://netsciencenews.no-ip.org/www-bestdiysite.com/diy-radio-transmitters/hi-fi-stereo-fm-transmitter-project/">HI-FI Stereo FM Transmitter Project &mdash; Scott W. Hotaling Sites</a> </dt>
+<dt><a href="http://www.elektor.com/magazines.46742.lynkx?subType=3ad4c4d2-97d1-4369-bb60-97ea270567a7">Magazines - ELEKTOR-ELECTRONICS.co.uk - the world-leading network for electronics</a> </dt>
+<dd>Next Month in Elektor Electronics</dd>
+<dt><a href="http://www.musicfromouterspace.com/">Music From Outer Space</a> </dt>
+<dd>Super cool site for downloading original MP3 music, learning how to build an analog music synthesizer, software development tips and music tools.</dd>
+<dt><a href="http://www.diylive.net/index.php/2006/03/16/diy-disposable-camera-flash-slave/">DIY Live &raquo; DIY Archive &raquo; DIY Disposable Camera Flash Slave</a> </dt>
+<dd>Do it yourself projects</dd>
+<dt><a href="https://gullfoss2.fcc.gov/oetcf/eas/reports/GenericSearch.cfm">FCC OET Generic Search Report</a> </dt>
+<dd>Generic Search Page</dd>
+<dt><a href="http://www.uchobby.com/index.php/2007/08/09/grab-bag-sorting-how-to/">uC Hobby &raquo; Blog Archive &raquo; Grab Bag Sorting How-To</a> </dt>
+<dd>Microcontrollers and Electronics for Hobbyist</dd>
+<dt><a href="http://drewish.com/blogger/archives/2005/03/17/2sided_pov_toy.html">drewish.com: 2-sided pov toy</a> </dt>
+<dt><a href="http://www.fieldlines.com/story/2007/1/28/215243/977">the Otherpower.com Discussion Board || How to make your own LED bulbs.</a> </dt>
+<dt><a href="http://members.chello.nl/r.dekker49/uscope/uscope_e.html">A poorman's oscilloscope</a> </dt>
+<dt><a href="http://uanr.com/sdfloppy/">uanr.com - SD/MMC card fits in floppy edge-connector</a> </dt>
+<dt><a href="http://blog.russnelson.com/opensource/reusing-floppy-stepper-motors.html">Russ Nelson</a> </dt>
+<dt><a href="http://www.riccibitti.com/pc_therm.htm">Alberto Ricci Bitti - DS1621 PC-powered thermometer</a> </dt>
+<dt><a href="http://www.riccibitti.com/pc_therm.htm">Alberto Ricci Bitti - DS1621 PC-powered thermometer</a> </dt>
+<dt><a href="http://www.supplyframe.com/">SupplyFrame Datasheets for Electronic Components Search Engine for Datasheet Price Availability RoHS</a> </dt>
+<dd>SupplyFrame Datasheet and Electronic Component Search Engine. Datasheets available for thousands of components.</dd>
+<dt><a href="http://fsugtsr.org/magazine/issue3/divya/motor.htm">http://fsugtsr.org/magazine/issue3/divya/motor.htm</a> </dt>
+<dt><a href="http://www.bigmech.com/misc/hacksmods.html">:: AlphA's Hacks and Mods ::</a> </dt>
+<dd>Commodore C64 Modifications for use with Prophet64</dd>
+<dt><a href="http://home.cogeco.ca/%7Erpaisley4/PhotoDetectors.html">Photo Detector Circuits</a> </dt>
+<dt><a href="http://www.talkingelectronics.com/projects/SolarLight/SolarLight.html">Solar Light</a> </dt>
+<dt><a href="http://www.evilmadscientist.com/article.php/nightlight">Evil Mad Scientist Laboratories - A Simple and Cheap Dark-Detecting LED Circuit</a> </dt>
+<dt><a href="http://phk.freebsd.dk/Gasdims/">Monitoring Natural Gas Usage</a> </dt>
+<dt></dt></p>
+<h3>spectrum analyser</h3></p>
+<dl>
+<dt><a href="http://www.wireless.org.au/%7Ejhecker/specan/">DIY 2.4GHz Spectrum Analyser</a> </dt>
+<dd>Design of a simple 2.4GHz spectrum analyser</dd>
+<dt><a href="http://www.circuitcellar.com/library/print/0406/Armitage-189/8.htm">Circuit Cellar - Digital Library - 189 Armitage</a> </dt>
+<dd>embedded computer electrical engineering PIC Microchip Motorola 68HC11 design forum<br />
+Steve Ciarcia silicon circuit cellar INK microcontroller microprocessor DSP sensor robot control</dd> </dl>
+<dt><a href="http://phk.freebsd.dk/Gasdims/">Monitoring Natural Gas Usage</a> </dt>
+<dt><a href="http://imakeprojects.com/Projects/avr-tutorial/">I Make Projects - A Tutorial for Starting with AVR Microcontrollers</a> </dt>
+<dd>The goal is to get you up and running as quickly as possible, so you can get to exploring and modifying on your own without having to fiddle with hardware, software, parts, or settings.</dd>
+<dt><a href="http://www.evilmadscientist.com/article.php/solar">Evil Mad Scientist Laboratories - Simple Solar Circuits</a> </dt>
+<dt><a href="http://www.el-fly.dk/piranha.asp">Electric Flight Equipment</a> </dt>
+<dd>Elektro flyvning i danmark</dd>
+<dt><a href="http://instruct1.cit.cornell.edu/courses/ee476/FinalProjects/">ECE476 Final Projects</a> </dt>
+<dt><a href="http://linuxgazette.net/124/smith.html">Build a Six-headed, Six-user Linux System LG #124</a> </dt>
+<dt><a href="http://www.syd-data.dk/index.php/cPath/266_305?osCsid=fe6012f3d365ef54b8f264e898c77d94">SYD-DATA - Alt inden for IT EPIA</a> </dt>
+<dd> syd-data afdeling aabenraa i s&oslash;nderjylland vulfs service support kvalitet.</dd>
+<dt><a href="http://www.edbpriser.dk/Products/Listprices.asp?ID=223066">ASUS EN7300TC256/TD (Detailsalg) - EDBpriser.dk</a> </dt>
+<dd>ASUS EN7300TC256/TD (Detailsalg) NVIDIA GeForce 7300 LE TurboCache underst&oslash;tter 256 MB / PCI Express / 450 MHz / 2048 x 1536 / 64 MB DDR SDRAM (500 MHz) / VGA / DVI / Komposit Video</dd>
+<dt></dt></p>
+<h3>have</h3></p>
+<dl>
+<dt><a href="http://skov-haveservice.dk/default.asp?ID=121">Skov &amp; Haveservice</a> </dt>
+<dt><a href="http://www.sandmanden.com/">Sandmanden - Dansk Stors&aelig;kke Service - Granitsk&aelig;rver- Barkflis - Tr&aelig;flis - Muld</a> </dt>
+<dt><a href="http://www.stubmanden.dk/priseksempler.htm">Stubmanden - Rodfr&aelig;sning af stubbe</a> </dt>
+<dt><a href="http://www.vermeer.dk/">Rodfr&aelig;ser distribut&oslash;r i greve Nordisk Vermeer A/S</a> </dt>
+<dt><a href="http://www.coop.dk/nettorvet/show_product.aspx?dept_id=479&amp;pf_id=6065496">NETtorvet - Have &amp; Byggemarked - Haven - Haveinspiration - Plantekumme af original whiskeyt&oslash;nde</a> </dt>
+<dd>Bestil nettilbud og medlemstilbud p&aring; NETtorvet og hent dine varer i din lokale Coop Danmark butik</dd>
+<dt><a href="http://www.coop.dk/nettorvet/show_product.aspx?dept_id=68&amp;pf%5Fid=6065551">NETtorvet - Have &amp; Byggemarked - Haven - Havetilbeh&oslash;r - T&oslash;r - Opbevaringst&oslash;nde 120 L</a> </dt>
+<dd>Bestil nettilbud og medlemstilbud p&aring; NETtorvet og hent dine varer i din lokale Coop Danmark butik</dd>
+<dt><a href="http://www.scandrums.dk/">Scandrums A/S</a> </dt> </dl>
+<dt></dt></p>
+<h3>k&oslash;kken</h3></p>
+<dl>
+<dt><a href="http://www.klicclak.dk/66.aspx">Massive tr&aelig;bordplader med gennemg&aring;ende stave fra KlicclaK - tlf. 4444 1787</a> </dt> </dl>
+<dt><a href="http://www.beslaco.dk/default.aspx?dept0=8&amp;beslacoMemberId=31&amp;catDept0=2&amp;catDept1=7&amp;catDept2=3981&amp;showProduct=7462">Beslaco</a> </dt>
+<dt><a href="http://www.carl-ras.dk/e-handelskatalog/el-vaerktoejogtilbehoer/afkortersaveoggeringssave/afkorteregeringssave/afkorter-oggeringssavdw743/">CarlRas - Afkorter- og geringssav DW743</a> </dt>
+<dt><a href="http://www.engr.mun.ca/%7Ewakeham/lcd.htm">LCD Backlight Conversion to LED</a> </dt>
+<dt><a href="http://www.google.com/search?hl=en&amp;lr=&amp;imgsz=xxlarge&amp;client=opera&amp;rls=en&amp;q=dewalt+dw743+site%3Adk&amp;btnG=Search">dewalt dw743 site:dk - Google Search</a> </dt>
+<dt><a href="http://www.google.com/search?q=LaCrosse+WS2300+site%3Adk&amp;btnG=Search&amp;hl=en&amp;lr=&amp;safe=off&amp;client=opera&amp;rls=en&amp;hs=Wfx">VEJR station LaCrosse WS2300 site:dk - Google Search</a> </dt>
+<dt><a href="http://www.nettobuild.dk/shop/frontpage.html">Nettobuild</a> </dt>
+<dd>nettobuild - billige byggematerialer: bosch,dewalt,makita,metabo,fein,vvs,bad,k&oslash;kken,tr&aelig;last,st&oslash;vsuger,v&aelig;rkt&oslash;j,byggemarked,maling,have,m&oslash;bler,vinduer,d&oslash;re, Tagsten,Gulv,Fliser,Klinker </dd>
+<dt><a href="http://www.woodgears.ca/">Matt's Woodworking Website</a> </dt>
+<dt><a href="http://www.google.com/search?client=opera&amp;rls=en&amp;q=glycol+fog&amp;sourceid=opera&amp;ie=utf-8&amp;oe=utf-8">glycol fog - Google Search</a> </dt>
+<dt><a href="http://www.instructables.com/id/EBZ3QQVF3HY3SL2/?ALLSTEPS">Instructables How to Make a Three Axis CNC Machine (Cheaply and Easily)</a> </dt>
+<dt><a href="http://www.rickwrench.com/">Rickwrench, Alfa GTV, Falcon Squire, Corvair</a> </dt>
+<dt><a href="http://www.uchobby.com/index.php/2007/07/15/identifying-electronic-components/">uC Hobby &raquo; Blog Archive &raquo; Identifying Electronic Components</a> </dt>
+<dd>Microcontrollers and Electronics for Hobbyist</dd>
+<dt><a href="http://www.linux.com/feature/118668">Linux.com :: Three MythTV Linux distros compared</a> </dt>
+<dd>My Series 1 TiVo is getting old, so I am planning an escape route based on MythTV, a free software system that turns an old computer into a personal video recorder. This week I tested three MythTV-specific Linux distributions: KnoppMyth, MythDora, and MythBuntu. I found MythDora the best overall fit for my needs -- but there are important distinctions between the three that may lead you to a different decision.</dd>
+<dt><a href="http://www.express-builder.com/docs/gpsant/index.html">DYI GPS Antenna</a> </dt>
+<dt><a href="http://www.opengpstracker.org/index.html">Open GPS Tracker</a> </dt>
+<dd>Open Source GPS Tracker</dd>
+<dt><a href="http://www.hacknmod.com/displayMOD.php?hack=1340">5 Minute, Dirt Cheap Multitouch Pad - HacknMod.com - Amazingly Cool Hacks, Mods, and Projects.</a> </dt>
+<dd>We've recently seen huge advancements in multitouch technology with the iPhone, WiiMote, and more, but this is by far the easiest way to build your own multitouch sensing system. Basically, all you need is a webcam, glass pane, and a cardboard box.</dd>
+<dt><a href="http://phk.freebsd.dk/Eldims/">Optical detector for Electricity Meter</a> </dt>
+<dt><a href="http://www.sunbizhosting.com/%7Espiral/1100/">Untitled Document</a> </dt>
+<dt></dt></p>
+<h3>IDCO</h3></p>
+<dl>
+<dt><a href="https://phpmyadmin.surftown.com/index.php?lang=en-utf-8&amp;server=8&amp;collation_connection=utf8_general_ci">phpmyadmin.surftown.com / mydbb3.surf-town.net / AlvRekl_prod | phpMyAdmin 2.6.2-Debian-3sarge3</a> </dt>
+<dt><a href="http://www.idco.dk/produkter.php">Alverdens Reklamegaver</a> </dt>
+<dt><a href="https://www.google.com/analytics/reporting/visitors?id=4165894&amp;pdr=20070618-20070718&amp;cmp=average#">Visitors Overview - Google Analytics</a> </dt>
+<dt><a href="https://www.erhverv.surftown.dk/account/default.asp">Surftown - Success Online</a> </dt>
+<dt><a href="http://idco.dk/webalizer/index.html">Usage Statistics for idco.dk - Last 12 Months</a> </dt>
+<dt><a href="http://www.joomlaprodigy.com/My_Joomla_Addons/My_Joomla_Addons/jp_FilmStrip/">Joomla Prodigy - jp FilmStrip - slideshow module for joomla, horizontal slideshow gallery, Horizontal Slideshow JP</a> </dt>
+<dd> jp filmstrip* in tha heezy.</dd>
+<dt><a href="http://developer.yahoo.com/search/siteexplorer/">Site Explorer APIs from Yahoo! Search Web Services</a> </dt>
+<dt><a href="http://hsivonen.iki.fi/doctype/">Activating the Right Layout Mode Using the Doctype Declaration</a> </dt>
+<dd>Explains how browsers use doctype sniffing to switch the layout mode between the quirks mode and the standards mode.</dd>
+<dt><a href="http://www.connectdenmark.dk/default.aspx?site=Free2sell&amp;func=springboard.view">http://www.connectdenmark.dk/default.aspx?site=Free2sell&amp;func=springboard.view</a> </dt>
+<dt></dt></p>
+<h3>website udvikling</h3><br />
+</dl>
+<dl>
+<dt><a href="http://www.plaxo.com/api/openid_recipe">A Recipe for OpenID-Enabling Your Site</a> </dt>
+<dt><a href="http://www.intertwingly.net/blog/2005/09/21/Prototyping-Intertwingly-on-Rails">Sam Ruby: Prototyping Intertwingly on Rails</a> </dt>
+<dt><a href="http://blog.tooleshed.com/docs/dbd2propel/transform.php">DB Designer To Propel - XML Converter</a> </dt>
+<dd>Simple online form to convert DB Designer 4 XML files to Propel Schema XML files</dd> </dl>
+<dt></dt></p>
+<h3>foto</h3></p>
+<dl>
+<dt><a href="http://sensitivelight.com/wallpaper/">Sensitive Light: Wallpaper</a> </dt>
+<dd>Wallpaper Photographs by Graham Jeffery of www.sensitivelight.com</dd>
+<dt><a href="http://photo.net/photodb/folder?folder_id=493133">Gallery Folder - photo.net</a> </dt>
+<dt><a href="http://www.makezine.com/blog/archive/2007/01/how_to_photogra.html">MAKE: Blog: HOW TO - Photograph smoke</a> </dt>
+<dd> Photocritic shows you how to take great photos of smoke! </dd>
+<dt><a href="http://www.diylive.net/index.php/2007/07/18/diy-lightning-photography/">DIY Live &raquo; DIY Archive &raquo; DIY Lightning Photography</a> </dt>
+<dd>Do it yourself projects</dd>
+<dt><a href="http://www.solorb.com/elect/lightning/index.html">Lightning Activated Camera Shutter Trigger</a> </dt>
+<dt><a href="http://www.diylive.net/index.php/2006/03/16/diy-disposable-camera-flash-slave/">DIY Live &raquo; DIY Archive &raquo; DIY Disposable Camera Flash Slave</a> </dt>
+<dd>Do it yourself projects</dd>
+<dt><a href="http://www.halley.cc/photo/">Photographer's Notebook</a> </dt>
+<dt><a href="http://turtle.as.arizona.edu/jdsmith/exposure_blend.php">JD Smith: Scraps</a> </dt>
+<dt><a href="http://www.instructables.com/id/S9C3PWUF2AX8OWB/">HDR photos with the GIMP - The World's Biggest Show &amp; Tell - art, tech, diy</a> </dt> </dl>
+<dt></dt></p>
+<h3>Z-wave</h3></p>
+<dl>
+<dt><a href="http://www.smarthus.info/">SmartHus og Custom Install produkter fra Tronika.</a> </dt>
+<dd>SmartHus og Custom Install produkter: X10, Xantech, TruAudio, Satellitt, LCD, Plasma, Projektor, Lerret  fra Tronika. </dd>
+<dt><a href="http://brugenergienbedre.seas-nve.dk/sitecore/content/Modules/Ecommerce/Products/Startpakker/Komfortpakken.aspx">Komfortpakken</a> </dt>
+<dd>Komfortpakken giver dig helt nye muligheder for at styre, fjernstyre og overv&aring;ge dit energiforbrug. De syv intelligente produkter er vejen til optimering af energien og store energibesparelser p&aring; op til 2.000 kroner om &aring;ret, uden du skal g&aring; p&aring; kompromis med komforten. <br /><br /><strong>Komfortpakken indeholder</strong><br />House Control, 2 stk. RAone SmartDimmer lysd&aelig;mpere, RAone SmartPower tr&aring;dl&oslash;s styring, SmoothRemote fjernbetjening og Danfoss RA-Plus-W intelligent termostat.<br /><br />Komfortpakken kr&aelig;ver installation af autoriseret elektriker.<br /><br /><a href=&amp;quot;~/media/Pdf/innovus_katalog.ashx&amp;quot; target=&amp;quot;_blank&amp;quot;>Du kan se Innovus katalog her</a><br /></dd>
+<dt><a href="http://shop.itbutler.dk/group.asp?group=5&amp;sub=5">ITButler</a> </dt>
+<dd>ITButler - Digitale l&oslash;sninger til dit hjem</dd>
+<dt><a href="http://www.hackmyth.com/">Hackmyth - the home automation control kit for mythTV</a> </dt>
+<dd>Hackmyth - the home automation control kit for mythTV</dd> </dl>
+<dt></dt></p>
+<h3>hegn</h3></p>
+<dl>
+<dt><a href="http://www.advokatditlevnielsen.dk/">Advokat Ditlev Nielsen</a> </dt>
+<dt><a href="http://www.molck.dk/Om_os/Ditlev_Nielsen/ditlev_nielsen.html">Ditlev Nielsen</a> </dt> </dl>
+<dt></dt></p>
+<h3>tyrkiet</h3></p>
+<dl>
+<dt><a href="http://www.apollorejser.dk/Travelling+with+apollo/Flyafgange+sommer+2007.htm">www.apollorejser.dk - Vores rejser, Flyafgange</a> </dt>
+<dd>&#187; Flyafgange vinter 2007/08</p>
+<p>Flyafgange fra&#160;Kastrup</p>
+<p>Dag<br />
+Til<br />
+Rejsem</p>
+<p></dd>
+<dt><a href="http://www.startour.dk/CampaignPage.aspx?id=37533">Restpladser - Startour.dk</a> </dt>
+<dt><a href="http://www.tyrkieteksperten.dk/tr_index.asp">Vores destinationer</a> </dt>
+<dt><a href="http://www.anatolienrejser.dk/kbh.-antalya.htm">Anatolien rejser</a> </dt>
+<dt><a href="http://www.sabahpansiyon.8m.com/custom4.html">Our Place on City Map</a> </dt>
+<dt><a href="http://www.maviani.com/maviani.asp?sayfa=anasayfa">Mavi &amp; Ani</a> </dt>
+<dd>A very nice family pension/pansiyon in Antalya, Turkey Enjoy your comfortable holiday</dd>
+<dt><a href="http://www.ozmenpension.com/en/index.htm">&Ouml;ZMEN PENSION</a> </dt>
+<dd>Travellers from all over the world come to &Ouml;zmen Pension in Antalya/Turkey in the midst of Old  Kalei&ccedil;i.</dd>
+<dt><a href="http://www.antalyaguide.org/harita_buyuk_sehir.php">ANTALYA GUIDE</a> </dt> </dl>
+<dt></dt></p>
+<h3>easyweb</h3></p>
+<dl>
+<dt><a href="http://www.knoppix.net/wiki/Knoppix_Remastering_Howto">Knoppix Remastering Howto - Knoppix Documentation Wiki</a> </dt>
+<dt><a href="http://www.linuxjournal.com/article/7246">Building Your Own Live CD</a> </dt> </dl>
+<dt></dt></p>
+<h3>Job</h3></p>
+<dl>
+<dt><a href="http://www.jobzonen.dk/jobannonce.aspx?AdvertId=22609535">Jobannonce</a> </dt>
+<dd>JobZonen</dd>
+<dt><a href="http://www.it-jobbank.dk/ShowProfile.aspx?ProfileId=50161057&amp;SearchResultPage=0&amp;SearchID=269086">IT-Jobbank: One.com s&oslash;ger en dygtig netv&aelig;rksadministrator</a> </dt>
+<dd>One.com s&oslash;ger en dygtig netv&aelig;rksadministrator</dd>
+<dt><a href="http://www.it-jobbank.dk/ShowProfile.aspx?ProfileId=50161166&amp;SearchResultPage=0&amp;SearchID=269086">IT-Jobbank: Systemadministrator til Web-drift</a> </dt>
+<dd>Systemadministrator til Web-drift</dd>
+<dt><a href="http://www.it-jobbank.dk/ShowProfile.aspx?ProfileId=50159917&amp;SearchResultPage=0&amp;SearchID=269086">IT-Jobbank: Udviklingsorienteret systemadministrator s&oslash;ges til ad pepper media!</a> </dt>
+<dd>Udviklingsorienteret systemadministrator s&oslash;ges til ad pepper media!</dd>
+<dt><a href="http://www.it-jobbank.dk/ShowProfile.aspx?ProfileId=50157401&amp;SearchResultPage=2&amp;SearchID=269086">IT-Jobbank: Kombineret Windows og Linux Konsulent</a> </dt>
+<dd>Kombineret Windows og Linux Konsulent</dd>
+<dt><a href="http://www.surftown.dk/?docid=3400719E-5816-4DF3-9631-B6AE35417266">About - Jobs - LINUX System Administrator</a> </dt>
+<dt><a href="http://w4.siemens.com/en/career/dk/details.html?nPostingID=79687&amp;nPostingTargetID=305471&amp;id=PWPFK026203F3VBQB8MV78N9C&amp;LOV10=2492&amp;Resultsperpage=10&amp;option=52&amp;sort=DESC">Siemens AG - Jobmarket</a> </dt>
+<dd>Job market</dd>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329005506&amp;quicklog=mail_agent,302199&amp;v=2,1600,333352,3,2453&amp;tc=1200068299967">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329041976&amp;quicklog=mail_agent,302199&amp;v=2,1600,334915,3,2454&amp;tc=1205695644304">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329041976&amp;quicklog=mail_agent,302199&amp;v=2,1600,336471,0,2455&amp;tc=1211296053775">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329083844&amp;quicklog=mail_agent,302199&amp;v=2,1600,336471,0,2455&amp;tc=1211296053796">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.surftown.dk/?docid=3400719E-5816-4DF3-9631-B6AE35417266">About - Jobs - LINUX System Administrator</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329084275&amp;quicklog=mail_agent,302199&amp;v=2,1600,336471,0,2455&amp;tc=1211296053765">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329085780&amp;quicklog=mail_agent,302199&amp;v=2,1600,336471,0,2455&amp;tc=1211296053786">www.jobworld.dk</a> </dt>
+<dt><a href="http://www.jobworld.dk/shared/cv/source/cv_start_2.hts?nav_to=no_logon,search,id,329082843&amp;quicklog=mail_agent,302199&amp;v=2,1600,336471,3,2455&amp;tc=1211296053756">www.jobworld.dk</a> </dt> </dl>
+<dt></dt></p>
+<h3>lejdet.dk</h3></p>
+<dl>
+<dt><a href="http://stlouis-shopper.com/cgi-bin/mozdev-wiki/kiosk-wiki.pl?KioskWiki">Kiosk Project Wiki</a> </dt>
+<dt><a href="https://help.ubuntu.com/community/USplashCustomizationHowto">USplashCustomizationHowto - Community Ubuntu Documentation</a> </dt>
+<dt><a href="http://ubuntuforums.org/showthread.php?t=240282">Howto: configure cups on Ubuntu Server from command line - Ubuntu Forums</a> </dt>
+<dd>Howto: configure cups on Ubuntu Server from command line Server Platforms</dd>
+<dt><a href="http://uck.svn.sourceforge.net/viewvc/*checkout*/uck/trunk/uck/docs/index.html">Ubuntu Customization Kit</a> </dt> </dl>
+<dt></dt></p>
+<h3>tyskland</h3></p>
+<dl>
+<dt><a href="http://www.bandb-ring.de/p/r40408dk.htm">Berlin: 16 ferielejligheder i Tiergarten, kun 8-10 minutters gang til Bahnhof Zoologischer Garten, n&aelig;r Kurf&uuml;rstendamm</a> </dt>
+<dd>Berlin-Tiergarten: 16 rummelige, lyse city-ferielejligheder med en betagende udsigt over city og hele Berlin, 2 dobbeltsenge (150x200 cm) og en feltseng, elementk&amp;oslash;kken og kar-/brusebad, direkte ved S-Bahnhof Tiergarten, 1 station til Bahnhof Zoologischer Garten, ogs&amp;aring; egnet til grupper</dd>
+<dt><a href="http://www.tysk.dk/berlin.php">Guide til Berlin - de bedste links fra Tysk.dk</a> </dt>
+<dt><a href="http://www.holocaust-mahnmal.de/en/visitor_service">Stiftung Denkmal f&uuml;r die ermordeten Juden Europas - Service for Visitors</a> </dt>
+<dd>Im Zentrum Berlins entsteht das Denkmal f&amp;uuml;r die ermordeten der Juden Europas. Das Denkmal ist den j&amp;uuml;dischen Opfern des nationalsozialistischen Terrors gewidmet.</dd> </dl>
+<dt></dt></p>
+<h3>batteri butik</h3></p>
+<dl>
+<dt><a href="http://www.batterinet.dk/">Batterier - bes&oslash;g Danmarks billige batteri shop</a> </dt>
+<dd>Her finder du batterier - batterinet tilbyder et stort udvalg af batteriopladere</dd>
+<dt><a href="http://www.batteribyen.dk/">Batterier, genopladelige batterier og tilbeh&oslash;r - Batteribyen.dk</a> </dt>
+<dd> Batteribyen.dk - alt i batterier, genopladelige batterier, ladere og tilbeh&oslash;r.</dd> </dl>
+<dt></dt></p>
+<h3>goodieprice</h3></p>
+<dl>
+<dt><a href="http://localhost/cake/">CakePHP: the rapid development php framework: Home</a> </dt>
+<dt><a href="http://tempdocs.cakephp.org/">http://tempdocs.cakephp.org/</a> </dt> </dl>
+<dt></dt></p>
+<h3>PHP frameworks</h3></p>
+<dl>
+<dt><a href="http://www.phpontrax.com/about">http://www.phpontrax.com/about</a> </dt>
+<dt><a href="http://www.symfony-project.org/">http://www.symfony-project.org/</a> </dt>
+<dt><a href="http://akelos.org/docs/tutorials/booklink">http://akelos.org/docs/tutorials/booklink</a> </dt>
+<dt><a href="http://codeigniter.com/">http://codeigniter.com/</a> </dt> </dl>
+<dt></dt></p>
+<h3>Misc</h3></p>
+<dl>
+<dt><a href="http://23hq.dk/">23 Photo Sharing: Velkommen til 23</a> </dt>
+<dd>23 er simpel billededeling. Del private eller offenlige billeder med albums, tags, storage, slideshow, fotoblog, abonnementer, let billededeling via mail og meget mere.</dd>
+<dt><a href="http://all-streaming-media.com/record-video-stream/">How to save/record/capture streaming video and audio (Windows Media, RealMedia, RealVideo, RealAudio, QuickTime, Shoutcast): streaming media recorders (rippers)</a> </dt>
+<dd>How to save/record/capture streaming video and audio (Windows Media, RealMedia, RealVideo, RealAudio, QuickTime, Shoutcast): streaming media recorders (rippers)</dd>
+<dt><a href="http://btjunkie.org/">btjunkie - the largest bittorrent search engine</a> </dt>
+<dd>btjunkie - the largest bittorrent database - download mp3,torrent,movie,music,iso,software,xxx,porn,games,anime,file sharing,linux,unix,windows</dd>
+<dt><a href="http://cubus-adsl.dk/elteknik/haandvaerk/elforbrug.php#vha_maalerskive">cubus-adsl.dk - Beregning af elforbrug</a> </dt>
+<dt><a href="http://dev.allredtech.com/fakename/">Fake Name Generator</a> </dt>
+<dt><a href="http://dev.mysql.com/doc/refman/4.1/en/date-and-time-functions.html">MySQL AB :: MySQL 3.23, 4.0, 4.1 Reference Manual :: 12.5 Date and Time Functions</a> </dt>
+<dt><a href="http://drupal.org/">drupal.org | Community plumbing</a> </dt>
+<dt><a href="http://forsvaret.dk/FKO/Nyt+og+Presse/D%C3%B8gnrapporten/">D&oslash;gnRapporten 2007</a> </dt>
+<dt><a href="http://forums.vwvortex.com/zerothread?id=3362586&amp;uid=316543&amp;postid=40540403#40540403">VWvortex Forums: Wii Remote Measurements</a> </dt>
+<dd>Volkswagen Enthusiast Discussion Forums</dd>
+<dt><a href="http://forum.xda-developers.com/showthread.php?t=308931">htc smartphone mUn_2.01 : A post for all the cabs :) - xda-developers</a> </dt>
+<dd>mUn_2.01 : A post for all the cabs :) Trinity Mobile 6</dd>
+<dt><a href="http://free-vz.htnet.hr/Ivica-Novakovic/Nokia%20Lcd%20Termometar-eng.htm">Termometar Nokia 3310 Lcd</a> </dt>
+<dd>Digitalni termometar sa Nokia3310 Lcd-om i Pic12f629 mikrokontrolerom.</dd>
+<dt><a href="http://homokaasu.org/gasgames/">The Sect of Homokaasu - GasGames</a> </dt>
+<dt><a href="http://itst.dk/wimpdoc.asp?page=tema&amp;objno=95024565">Nummerlister</a> </dt>
+<dt><a href="http://junocake.blogspot.com/2007/03/ripping-vinyl-with-gnulinux.html">Under the Spreading Chestnut Tree: Ripping Vinyl with GNU/Linux</a> </dt>
+<dt><a href="http://macetech.com/blog/?q=node/46">Stealth USB CapsLocker | macetech.com</a> </dt>
+<dt><a href="http://marsrovers.jpl.nasa.gov/overview/">Mars Exploration Rover Mission: Overview</a> </dt>
+<dt><a href="http://mcgrewsecurity.com/projects/msramdmp/">McGrew Security - msramdmp : McGrew Security DRAM Dumper</a> </dt>
+<dt><a href="http://picasaweb.google.com/clysel">Picasa Web Albums - Christian E.</a> </dt>
+<dt><a href="http://portableapps.com/">PortableApps.com - Portable software for USB drives | Your Digital Life, Anywhere&trade;</a> </dt>
+<dt><a href="http://powershoppen.sydenergi.dk/energi/spar/brugt-kamstrup-382-digital-elmaaler.aspx">Powershoppen - SYD ENERGI - Brugt Kamstrup 382 digital elm&aring;ler</a> </dt>
+<dt><a href="http://powershoppen.sydenergi.dk/energi/spar/brugt-kamstrup-382-digital-elmaaler.aspx">elm&aring;ler Powershoppen - SYD ENERGI - Brugt Kamstrup 382 digital elm&aring;ler</a> </dt>
+<dt><a href="http://rambo.id.uw.edu.pl/fmanager.html?path=music">Marcin 'Rambo' Roguski - Music and Files://var/ftp/pub/music</a> </dt>
+<dt><a href="http://rambo.id.uw.edu.pl/gear.html">Marcin 'Rambo' Roguski - Computers and Equipment</a> </dt>
+<dt><a href="https://addons.mozilla.org/addon.php?id=1449">A,'1</a> </dt>
+<dd>Imagine how useful it would be to have an online knowledge base that can easily be updated created by key people within your organization. That's the promise of a wiki -- a Web application that &amp;quot;allows users to easily add, remove, or otherwise edit all content, very quickly and easily,&amp;quot; as Wikipedia, perhaps the best-known wiki, puts it. Why not bring the benefits of a wiki to your organization?</dd>
+<dt><a href="http://sqlgrey.sourceforge.net/">SQLgrey</a> </dt>
+<dt><a href="http://storm.net.nz/static/files/winlockpwn">firewire attack agains windows xp sp2 http://storm.net.nz/static/files/winlockpwn</a> </dt>
+<dt><a href="http://streettech.com/robotbook/circuitMousey.html">http://streettech.com/robotbook/circuitMousey.html</a> </dt>
+<dt><a href="http://support.microsoft.com/kb/841290">Availability and description of the File Checksum Integrity Verifier utility</a> </dt>
+<dd>Describes the File Checksum Integrity Verifier (FCIV) utility for use in Windows 2000, Windows XP, and Windows Server 2003.</dd>
+<dt><a href="https://zyb.com/calendar/">ZYB/CALENDAR/ - Manage. Share. Secure.</a> </dt>
+<dt><a href="http://telia.dk/privat/kundeservice/mobil/kode/">Telia &middot; Operat&oslash;rl&aring;sekode</a> </dt>
+<dd>F&aring; din operat&oslash;rl&aring;sekode og l&aring;s mobilen op, s&aring; den kan bruges p&aring; alle netv&aelig;rk.</dd>
+<dt><a href="http://tesladownunder.com/index.html">Tesla_Downunder</a> </dt>
+<dt><a href="http://w3.brugteinstrumenter.dk/index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=27">brugteinstrumenter.dk - Roland MKS 20</a> </dt>
+<dd>Joomla - the dynamic portal engine and content management system</dd>
+<dt><a href="http://wattzon.org/gameplan.htm">milj&oslash; tal http://wattzon.org/gameplan.htm</a> </dt>
+<dt><a href="http://wiki.milkfish.org/index.php?n=Boozy.RouterConfiguration">wiki.milkfish.org | Boozy / RouterConfiguration</a> </dt>
+<dt><a href="http://www.aage.dk/default.asp?page=/shoppingsystem/vare.asp?varenr=43532">Aage - Velkommen til Musikhuset Aage Jensen</a> </dt>
+<dd>K&oslash;b dit n&aelig;ste musikinstrument hos Aage, diskuter dine meninger om grej i vores diskussionsgrupper, eller l&aelig;s vores artikler om udstyr og de kunstnere der bruger det.</dd>
+<dt><a href="http://www.akaipro.com/contentmgr/showdetails.php/id/1134/tt/5">akai S1000 Series</a> </dt>
+<dt><a href="http://www.alcatel-lucent.com/wps/portal/%21ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MbfUL8h2VAQAGna8Eg%21%21?LMSG_OF.lu_md_bl_media_category=Highlights%20and%20Milestones">Videos</a> </dt>
+<dd>Watch some of our past and present achievements come to life. </dd>
+<dt><a href="http://www.aptana.com/rails/">Welcome to RadRails, the Ruby on Rails authoring environment for Aptana Studio and Eclipse | Aptana</a> </dt>
+<dt><a href="http://www.astrophoto.fr/index.html">Astrophotography - Thierry Legault</a> </dt>
+<dt><a href="http://www.attiny.com/">ATtiny.com | AVR microcontroller Projects</a> </dt>
+<dt><a href="http://www.attiny.com/dotmatrix.htm">ATtiny.com | LED dotmatrix sign ATtiny2313</a> </dt>
+<dt><a href="http://www.attiny.com/knightrider.htm">ATtiny.com | LED Knightrider KITT scanners</a> </dt>
+<dt><a href="http://www.avrbeginners.net/">AVRbeginners.net - Your AVR starting point!</a> </dt>
+<dt><a href="http://www.cacr.math.uwaterloo.ca/hac/index.html">Handbook of Applied Cryptography</a> </dt>
+<dd>This site provides order information,<br />
+updates, errata, supplementary information, chapter bibliographies,<br />
+and other information for the Handbook of Applied<br />
+Cryptography by Menezes, van Oorschot and Vanstone.</dd>
+<dt><a href="http://www.calsky.com/cs.cgi?mlevel=2&amp;obs=23407174677504&amp;cha=12&amp;sec=4&amp;sub=0&amp;startDay=25&amp;startMonth=9&amp;startYear=2006&amp;startHour=21&amp;startMin=41&amp;startSec=15&amp;timebuild=&amp;interval=1&amp;intervalset=1&amp;elongation=500&amp;sunlunartransitsonly=on&amp;m=&amp;obsbuild=2&amp;user=&amp;pw=&amp;Go.x=17&amp;Go.y=8">Artificial Satellites > Internat. Space Station ISS</a> </dt>
+<dd>The most complete astronomical observation and information online-calculator on this globe: make your own calendar with satellites, asteroids, comets, planets, sun, and moon. See renderings of solar eclipses, and the planets.</dd>
+<dt><a href="http://www.cgsecurity.org/">Main Page - CGSecurity</a> </dt>
+<dt><a href="http://www.cisecurity.org/index.html">Center for Internet Security - Standards</a> </dt>
+<dt><a href="http://www.city-fan.org/tips/BuildSeLinuxPolicyModules">BuildSeLinuxPolicyModules - Hints, Tips and HOWTOs</a> </dt>
+<dt><a href="http://www.cl.cam.ac.uk/%7Erja14/book.html">Security Engineering - A Guide to Building Dependable Distributed Systems</a> </dt>
+<dt><a href="http://www.damnvulnerablelinux.org/index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=27">Damn Vulnerable Linux - The most vulnerable and exploitable operating system ever - Your First Damn Vulnerable Linux Lesson</a> </dt>
+<dd>Damn Vulnerable Linux - The most vulnerable and exploitable operating system ever!</dd>
+<dt><a href="http://www.dd-wrt.com/wiki/index.php/Recover_from_a_Bad_Flash">Recover from a Bad Flash - DD-WRT Wiki wrt54gl</a> </dt>
+<dt><a href="http://www.dmf-fredericia.dk/Salg.htm">roland mks 20 til salg 1.000 kr</a> </dt>
+<dt><a href="http://www.dragonminded.com/?inc=music/DJ%20Doboy">DragonMinded.com :: DJ Doboy</a> </dt>
+<dd>DragonMinded's homepage for music downloads and random projects and such.</dd>
+<dt><a href="http://www.dragonminded.com/?loc=music/Music">DragonMinded.com :: Music</a> </dt>
+<dd>DragonMinded's homepage for music downloads and random projects and such.</dd>
+<dt><a href="http://www.edbbiksen.dk/shop/mio-antenne-10857p.html">Mio Antenne</a> </dt>
+<dt><a href="http://www.elektronik-lavpris.dk/eshop/index.asp">Elektronik Lavpris ApS - for private og professionelle</a> </dt>
+<dt><a href="http://www.fedoraproject.org/wiki/JavaFAQ">JavaFAQ - Fedora Project Wiki</a> </dt>
+<dt><a href="http://www.flickr.com/photos/rhonea/2278297137/in/photostream/">joule thief osc</a> </dt>
+<dd>Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos to the world, securely and privately show photos to your friends and family, or blog the photos you take with a cameraphone.</dd>
+<dt><a href="http://www.forum.nokia.com/info/sw.nokia.com/id/712ad710-01c1-4cbe-95d7-6fa20b7a6070/OMA_DM_Management_Object_for_Data_Synchronization_v1_0_en.pdf.html">Resource information: OMA DM: Management Object for Data Synchronization</a> </dt>
+<dt><a href="http://www.fsckin.com/2007/10/15/how-to-run-team-fortress-2-half-life-2-hl2-ep-12-in-ubuntu-using-wine/">How To: Run Team Fortress 2, Portal, Half-Life 2, HL2 EP 1&amp;2 In Ubuntu Using Wine &raquo; fsckin w/ linux</a> </dt>
+<dt><a href="http://www.google.com/search?q=inurl:%22jpg/image.jpg%3Fr%3D%22">inurl:"jpg/image.jpg?r=" - Google Search</a> </dt>
+<dt><a href="http://www.hermann-uwe.de/blog/linuxbios-with-x11-server-completely-in-flash-rom">LinuxBIOS with X11 server, completely in Flash ROM | Uwe Hermann</a> </dt>
+<dt><a href="http://www.homestarrunner.com/sbemail170.html">Lappy 486</a> </dt>
+<dt><a href="http://www.howtoforge.com/ubuntu_vmware_server">How To Install VMware Server On Ubuntu 6.06 LTS (Dapper Drake) | HowtoForge - Linux Howtos and Tutorials</a> </dt>
+<dt><a href="http://www.i-hacked.com/index.php?option=com_content&amp;task=view&amp;id=162&amp;Itemid=44">I-Hacked.com Taking Advantage Of Technology - Transmit Audio with a Laser Pen</a> </dt>
+<dd>I-Hacked.com is a hardware hacking based website. Taking apart electronics and making them better., Transmit Audio with a Laser Pen</dd>
+<dt><a href="http://www.instructables.com/id/ERTAINQF18DW99A/?ALLSTEPS">instructables : Pringles Wind Turbine (Pleech) - Version One : intro</a> </dt>
+<dt><a href="http://www.instructables.com/id/Wind-Generator-from-old-scanner/?ALLSTEPS">Wind Generator from old scanner [updated] - Instructables - DIY, How To, science, tech</a> </dt>
+<dd>I'll show you how to recycle an old scanner into an amazing wind generator.<br />
+You need it, clean energy! </dd>
+<dt><a href="http://www.instructables.com/id/Wind-Generator-from-old-scanner/?ALLSTEPS">vind m&oslash;lle Wind Generator from old scanner [updated] - Instructables - DIY, How To, science, tech</a> </dt>
+<dd>I'll show you how to recycle an old scanner into an amazing wind generator.<br />
+You need it, clean energy! </dd>
+<dt><a href="http://www.istockphoto.com/index.php">tjen penge p&aring; foto'es  Stock Photography: Search Royalty Free Images &amp; Photos | iStockphoto.com</a> </dt>
+<dd>Search our royalty free stock images and photos or browse a giant selection of stock photography. Purchase royalty free stock photos at iStockphoto.com.</dd>
+<dt><a href="http://www.kamstrup.dk/1051/Kamstrup%20382">elm&aring;ler Kamstrup A/S - M&aring;lel&oslash;sninger til forsyningsselskaber</a> </dt>
+<dt><a href="http://www.kpsec.freeuk.com/">Welcome to the Electronics Club</a> </dt>
+<dd>The Electronics Club</dd>
+<dt><a href="http://www.metageek.net/products/inssider">Inssider | MetaGeek replacement for netstumbler, works with vista</a> </dt>
+<dd>Similar to NetStumbler, Inssider works on both XP and Vista. It displays all information available about neighboring Wi-Fi networks.</dd>
+<dt><a href="http://www.metasploit.org/">The Metasploit Project</a> </dt>
+<dt><a href="http://www.mobilkompagniet.dk/default.asp?Action=Details&amp;Item=4810">Sony Ericsson GS64 . Nokia Sony Ericsson Siemens Motorola VOIP f&aring;s hos Mobilkompagniet.dk</a> </dt>
+<dd>Sony Ericsson GS64 Sony Ericsson GS64 Terminal is a self contained unit featuring the latest GSM/GPRS<br />
+technology from Sony Ericsson.<br />
+Since the GS64Terminal is mainly mechanical and electrical compatible to<br />
+the Sony Ericsson GM29 GSM/GPRS Terminal, the GS64Terminal can be seen<br />
+as a very powerful successor for today&rsquo;s users of GM29.Sony Ericsson GS64</dd>
+<dt><a href="http://www.museumsinsel-berlin.de/index.php?lang=en&amp;page=5_1">Master Plan Museumsinsel Berlin 2015 - Concept</a> </dt>
+<dd>Die Website zum Masterplan Museumsinsel Berlin informiert &amp;uuml;ber die Bau- und Sammlungsgeschichte der H&amp;auml;user der Museumsinsel sowie &amp;uuml;ber die Leitidee zum Masterplan und die Neustrukturierung der Museen</dd>
+<dt><a href="http://www.myhometheater.homestead.com/vgacable.html">VGA Cable from CAT5</a> </dt>
+<dd>VGA Cable from CAT5</dd>
+<dt><a href="http://www.myplace.nu/avr/index.htm">Jesper's AVR pages</a> </dt>
+<dd>Jesper's collection of AVR projects</dd>
+<dt><a href="http://www.myplace.nu/mp3/">yampp - Yet Another MP3 Player</a> </dt>
+<dd>yampp is Yet Another MP3 Player. Build one yourself.</dd>
+<dt><a href="http://www.networkupstools.org/">Network UPS Tools</a> </dt>
+<dt><a href="http://www.openmoko.com/products-neo-base-02-screenshots.html">openmoko.com: Neo Base</a> </dt>
+<dt><a href="http://www.oplevverden.nu/forside.asp">Oplev Verden Nu</a> </dt>
+<dd>Oplev Verden Nu er et rejsesite til folk der &oslash;nsker inspiration og ideer til nye rejsem&aring;l og oplevelser. Find rejseoplevelser fra Tanzania, Uganda, Thailand, Mexico og mange andre steder.</dd>
+<dt><a href="http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=008WWX">Nikon Forum: Shopping for Nikon Gear in HK - what a horrible experience!</a> </dt>
+<dt><a href="http://www.piccoztoolbox.no-ip.com/">PiccoZtoolbox</a> </dt>
+<dd>Silverlit PiccoZ Mods Page for RC Helicopter</dd>
+<dt><a href="http://www.plaxo.com/tour">sync bookmark, calendar ... Plaxo &raquo; Tour</a> </dt>
+<dt><a href="http://www.rlslog.net/">Releaselog | RLSLOG.net</a> </dt>
+<dt><a href="http://www.rsonline.dk/cgi-bin/bv/rswww/searchBrowseAction.do?D=T10x25%20E10%20LED%20Cluster&amp;Ntk=I18NAll&amp;Nr=AND%28avl%3adk%2csearchDiscon_dk%3aN%29&amp;Nty=1&amp;com.broadvision.session.new=Yes&amp;Ntt=T10x25%20E10%20LED%20Cluster&amp;Ntx=mode%20matchany&amp;N=0&amp;name=SiteStandard&amp;forwardingPage=line&amp;R=3874933&amp;callingPage=/jsp/search/search.jsp&amp;BV_SessionID=@@@@0237830323.1168787452@@@@&amp;BV_EngineID=ccdjaddjlefkifmcefeceeldgondhgl.0&amp;cacheID=dknetscape">http://www.rsonline.dk/cgi-bin/bv/rswww/searchBrowseAction.do?D=T10x25%20E10%20LED%20Cluster&amp;Ntk=I18NAll&amp;Nr=AND%28avl%3adk%2csearchDiscon_dk%3aN%29&amp;Nty=1&amp;com.broadvision.session.new=Yes&amp;Ntt=T10x25%20E10%20LED%20Cluster&amp;Ntx=mode%20matchany&amp;N=0&amp;name=SiteStandard&amp;forwardingPage=line&amp;R=3874933&amp;callingPage=/jsp/search/search.jsp&amp;BV_SessionID=@@@@0237830323.1168787452@@@@&amp;BV_EngineID=ccdjaddjlefkifmcefeceeldgondhgl.0&amp;cacheID=dknetscape</a> </dt>
+<dt><a href="http://www.sci-spot.com/Mechanical/balance.htm">Sci-Spot.com - Digital Balance</a> </dt>
+<dt><a href="http://www.shrubbery.net/rancid/">Shrubbery Networks, Inc. - RANCID</a> </dt>
+<dt><a href="http://www.siwawi.arubi.uni-kl.de/avr_projects/index.html">AVR projects and AVR Butterfly gcc port</a> </dt>
+<dt><a href="http://www.siwawi.arubi.uni-kl.de/avr_projects/index.html">AVR projects and AVR Butterfly gcc port</a> </dt>
+<dt><a href="http://www.siwawi.arubi.uni-kl.de/avr_projects/index.html#lcdclock">AVR projects and AVR Butterfly gcc port</a> </dt>
+<dt><a href="http://www.start.umd.edu/data/gtd/">START | Global Terrorism Database</a> </dt>
+<dt><a href="http://www.sundhed.dk/wps/portal/_s.155/11905/.cmd/ad/.ar/sa.qxknpHErkFCkBEtnAvFnGvBAkJrokGnAqynrtrEk6nAqynrtr8vFNpGvBA/.c/4105/.ce/11925/.p/9609?PC_9609_orgId=jP4iA%2F8AqHG89%2Btq&amp;PC_9609_praesentId=org-189328">sundhed.dk</a> </dt>
+<dd>Sundhed.dk is intended to give<br />
+targeted access to the overall National Health Service, affording users<br />
+opportunities to gain an insight into their own possibilities and treatment<br />
+at times when they have information and communication needs.</dd>
+<dt><a href="http://www.visit-germany.info/web/dk/top50/index.htm?tl=SIGHT&amp;showid=1045&amp;func=STADT_NATURERLEBNIS">Rejselandet Tyskland: Top-rejsem&aring;l i Tyskland</a> </dt>
+<dd>Rejselandet Tyskland * informationer om Tysklands top-rejsem&aring;l: delstater, regioner, byer, ferieruter</dd>
+<dt><a href="http://www.vuze.com/app">Vuze by Azureus - High Definition Movies and Videos</a> </dt>
+<dt><a href="http://www.youtube.com/watch?v=J5z4Vs26-TI&amp;feature=related">YouTube - The Greatest Prank Call Ever</a> </dt>
+<dd>http://greensboring.com/ Just when you thought it was safe to get a job at a call center, this prank phone call proves that Karma exists, and American's can ...</dd>
+<dt><a href="http://www.youtube.com/watch?v=liMcMmaewig">YouTube - Moveable Projected Displays using Projector Based Tracking</a> </dt>
+<dd>By using high-speed structured light patterns emitted by a project and embedded light sensors, we can discover the location and track objects in real-time. P...</dd>
+<dt><a href="http://xoscope.sourceforge.net/">xoscope for Linux</a> </dt>
+<dt><a href="http://xoscope.sourceforge.net/hardware/hardware.html">Buffer Hardware for xoscope</a> </dt> </dl>
+<dt><a href="http://www.microcirtec.com/si_tpl/procurement06.php?js=1">PCB Printed Circuit Boards - Manufacturer Online</a> </dt>
+<dd>PCB Printed Circuit Boards - made in Germany</dd>
+<dt><a href="http://dion.swamp.dk/goldenphoenix.html">pcb print leverand&oslash;re test Gold Phoenix vs. Olimex</a> </dt>
+<dt><a href="http://www.bluumax.com/PCB_Drill.html">PCB_Drill</a> </dt>
+<dt><a href="http://www.dkscan.dk/wrap.php?20">Dansk Scanner Information</a> </dt>
+<dt><a href="http://politiscanner.dk/shop/politiscannere-19c1.html">Politiscannere</a> </dt>
+<dd>Velkommen til Justtrading.dk Danmarks billigste onlineshop med Uniden politiscannere,Recaro autostole,Lifetime USA Basketballsystemer, Step2 Udeleget&oslash;j,Kreativt Tr&aelig;leget&oslash;j,Mobiltilbeh&oslash;r,Stingray og Selca autotilbeh&oslash;r,Brasserie Glasserier</dd>
+<dt><a href="http://www.google.com/search?client=opera&amp;rls=en&amp;q=borestander&amp;sourceid=opera&amp;ie=utf-8&amp;oe=utf-8">borestander - Google Search</a> </dt>
+<dt><a href="http://www.rmsconsult.co.uk/berlingo/">Berlingo Electrique Enthusiast Site - Electric Van</a> </dt>
+<dd>What vehicle has NO EMISSIONS, 65mph TOP SPEED, 60MILE RANGE, and NO ROAD TAX? It must be the Citroen Berlingo Electrique</dd>
+<dt><a href="http://www.computerworld.dk/art/45854/?threadid=11054#postauthor36128">Computerworld - Eksperter: Mobilaflytning af din nabo er totalt umulig</a> </dt>
+<dd>Det er umuligt at aflytte mobiltelefoner, siger ITEK, efter flere medier har skrevet, at mobilaflytning nu er muligt. Det har intet med virkeligheden at g&oslash;re, lyder det ogs&aring; fra IT- og Telestyrelsen.</dd>
+<dt><a href="http://octopart.com/">Octopart - Electronic Parts, Electronic Components, Datasheets</a> </dt>
+<dd>Octopart is a search engine for electronic parts. Search for price, specs, inventory information from multiple distributors.</dd>
+<dt><a href="http://www.5volt.eu/">5Volt</a> </dt>
+<dd>A mean to organize, document and share some of the things I do</dd>
+<dt><a href="http://www.cityel-import.dk/">CityEl ellert</a> </dt>
+<dd>Elektrofahrzeuge</dd>
+<dt><a href="http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software">File Recovery: How to Recover Deleted Files with Free Software</a> </dt>
+<dd>Ack The computer ate my term paper We've all been there at some point You delete an important file somehow</dd>
+<dt><a href="http://alma.ch/blogs/bahut/2005/04/cloning-xp-with-linux-and-ntfsclone.html">Bahut: Cloning XP with Linux and ntfsclone</a> </dt>
+<dt><a href="http://alma.ch/blogs/bahut/2005/04/cloning-xp-with-linux-and-ntfsclone.html">Bahut: Cloning XP with Linux and ntfsclone</a> </dt>
+<dt><a href="http://www.irongeek.com/i.php?page=security/decaffeinatid-simple-ids-arpwatch-for-windows">DecaffeinatID: A Very Simple IDS / Log Watching App / ARPWatch For   Windows</a> </dt>
+<dd>Irongeek's Information Security site with tutorials, articles and other information.</dd>
+<dt><a href="http://www.eff.org/testyourisp/pcapdiff/">pcapdiff | Electronic Frontier Foundation</a> </dt>
+<dt><a href="http://www.eff.org/wp/detecting-packet-injection">Detecting packet injection: a guide to observing packet spoofing by ISPs | Electronic Frontier Foundation</a> </dt>
+<dt><a href="http://workmanship.nasa.gov/wppr.jsp">Workmanship Problems Pictorial Reference</a> </dt></p>

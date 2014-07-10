@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: L&aelig;geskift
+author:
+  display_name: clysel
+  login: clysel
+  email: webmaster@spindelnet.dk
+  url: ''
+author_login: clysel
+author_email: webmaster@spindelnet.dk
+wordpress_id: 474
+wordpress_url: http://christian.lysel.net/?p=474
+date: !binary |-
+  MjAwOS0wOS0yMiAyMjo0MDo1OCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wOS0yMiAyMDo0MDo1OCArMDIwMA==
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>L&aelig;geskifte fra <a href="http://www.hbgreve.dk/" target="_blank">Hanne Brandtberg</a> til <a href="http://www.laegekristinenielsen.dk/" target="_blank">Kristine Nielsen</a>, grundet beliggenhed.</p>
