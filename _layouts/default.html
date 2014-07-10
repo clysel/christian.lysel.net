@@ -2,7 +2,48 @@
 <html>
 
   {% include head.html %}
-  {% include header.html %}
+
+<body class="home page page-id-5 page-template-default custom-background masthead-fixed grid">
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="http://spindelnet.dk/" rel="home">SpindelNet</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+<div class="nav-menu"><ul>
+    {% for page in site.pages %}
+      <li class="page_item page-item-5 current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>>
+    {% endfor %}
+</ul></div>
+			</nav>
+		</div>
+
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+				<form role="search" method="get" class="search-form" action="http://spindelnet.dk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search " value="" name="s" title="Search for:">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="main" class="site-main">
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
 			
 <article id="post-5" class="post-5 page type-page status-publish hentry">
 
@@ -11,5 +52,58 @@
 	</div>
 </article><!-- #post-## -->
 
- {% include footer.html %}
+		</div><!-- #content -->
+	</div><!-- #primary -->
+	<div id="content-sidebar" class="content-sidebar widget-area" role="complementary">
+	<aside id="text-2" class="widget widget_text"><h1 class="widget-title">Kontakt</h1>			<div class="textwidget"><ul>
+<li>iEngrøjel 48</li><li>2670 Greve</li>
+<li><a href="tel:36948648">36 948 648</a><img src="http://musimi.dk/status/?phone=36948648&amp;img=23" alt="Telefon status" width=60 hight=11></li>
+<li>CVR-nr <a href="http://www.cvr.dk/Site/Forms/PublicService/DisplayCompany.aspx?cvrnr=19856879">19-85-68-79</a></li>
+</ul></div>
+		</aside><aside id="text-3" class="widget widget_text"><h1 class="widget-title">Google</h1>			<div class="textwidget">
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/search">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="hidden" name="oe" value="UTF-8">
+<input type="text" name="q" size="12" maxlength="255" value="">
+<input type="submit" name="btnG" value="Søg<input type="hidden" name="domains" value="spindelnet.dk">
+<input type="radio" name="sitesearch" value="">
+www
+<input type="radio" name="sitesearch" value="spindelnet.dk" checked="checked">
+Spindelnet
+</form>
+<!-- SiteSearch Google -->
+</div>
+		</aside><aside id="categories-5" class="widget widget_categories"><h1 class="widget-title">Categories</h1>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://spindelnet.dk/category/security/" title="View all posts filed under Security">Security</a> (2)
+</li>
+		</ul>
+</aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+
+    {% for post in site.posts %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+    {% endfor %}
+				</ul>
+		</aside></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+
+<div id="secondary">
+		<h2 class="site-description">IT konsulent</h2>
+	
+	
+	</div><!-- #secondary -->
+<!-- Your Google Analytics Plugin is missing the tracking ID -->
+
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+    {% include footer.html %}
+			
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type="text/javascript" src="http://spindelnet.dk/wp-content/themes/twentyfourteen/js/functions.js?ver=20140319"></script>
+
+</body>
 </html>
