@@ -1,31 +1,12 @@
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
-	<title>SpindelNet | IT konsulent</title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="http://spindelnet.dk/xmlrpc.php">
-	<!--[if lt IE 9]>
-	<script src="http://spindelnet.dk/wp-content/themes/twentyfourteen/js/html5.js"></script>
-	<![endif]-->
-	<link rel="alternate" type="application/rss+xml" title="SpindelNet » Feed" href="http://spindelnet.dk/feed/">
-<link rel="alternate" type="application/rss+xml" title="SpindelNet » Comments Feed" href="http://spindelnet.dk/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="SpindelNet » Introduktion Comments Feed" href="http://spindelnet.dk/introduktion/feed/">
-<link rel="stylesheet" id="twentyfourteen-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic" type="text/css" media="all">
-<link rel="stylesheet" id="genericons-css" href="http://spindelnet.dk/wp-content/themes/twentyfourteen/genericons/genericons.css?ver=3.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="twentyfourteen-style-css" href="http://spindelnet.dk/wp-content/themes/twentyfourteen/style.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="syntax"" href="/css/syntax.css" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://spindelnet.dk/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
-<![endif]-->
-<script type="text/javascript" src="http://spindelnet.dk/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
-<script type="text/javascript" src="http://spindelnet.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://spindelnet.dk/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://spindelnet.dk/wp-includes/wlwmanifest.xml"> 
-<link rel="next" title="Priser" href="http://spindelnet.dk/priser/">
-<meta name="generator" content="WordPress 3.9.1">
-<link rel="shortlink" href="http://spindelnet.dk/">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[298,330] -->
-<link rel="canonical" href="http://spindelnet.dk/">
-<!-- /all in one seo pack -->
-<style type="text/css"></style></head>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+</head>
