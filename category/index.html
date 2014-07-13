@@ -1,7 +1,18 @@
 ---
 layout: page
 ---
-    {% for category in site.categories %}
+    {{ page.tags | sort }}
+
+{{ site.posts | sort: 'author' }}
+
+{{ site.pages | sort: 'title', 'last' }}
+
+{% for category in site.categories %}
+      <li>{{ category }}
+    {% endfor %}
+
+
+{% for category in site.categories %}
       <li>{{ category }}
     {% for item in site.categories.category %}
     {% endfor %}
