@@ -3,24 +3,9 @@ layout: page
 status: publish
 published: true
 title: CV
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 96
-wordpress_url: http://christian.lysel.net/?page_id=96
-date: !binary |-
-  MjAwOS0wNC0yNSAxMjo0MDo0MCArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0yNSAxMDo0MDo0MCArMDIwMA==
-categories: []
-tags: []
-comments: []
 ---
-<p>[timeline src="https://docs.google.com/spreadsheet/pub?key=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&amp;output=html" width="100%" height="650" font="Bevan-PotanoSans" maptype="toner" lang="en-24hr" ]</p>
+<p>
+	<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe></p>
 <h1>Curriculum Vitae</h1></p>
 <h2>Personlige data</h2></p>
 <table border="0">
