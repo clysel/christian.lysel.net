@@ -3,11 +3,6 @@ layout: page
 status: publish
 published: true
 title: &Oslash;nske seddel
----
-F&aelig;lles &oslash;nsker
-
-=======
-title: ! '&Oslash;nske seddel'
 author:
   display_name: clysel
   login: clysel
@@ -26,7 +21,6 @@ tags: []
 comments: []
 ---
 <p dir="ltr">F&aelig;lles &oslash;nsker</p></p>
->>>>>>> parent of c1e3e58... ok
 <ul>
 <li>Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
 <li>Smartbox - Dig og mig, Wellnesophold, Cityweekend</li>
