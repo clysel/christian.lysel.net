@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: ! '&Oslash;nske seddel'
+title: &Oslash;nske seddel
 ---
 F&aelig;lles &oslash;nsker
 
