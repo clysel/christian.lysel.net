@@ -2,9 +2,25 @@
 layout: page
 status: publish
 published: true
-title: Ønske seddel
+title: ! '&Oslash;nske seddel'
+author:
+  display_name: clysel
+  login: clysel
+  email: webmaster@spindelnet.dk
+  url: ''
+author_login: clysel
+author_email: webmaster@spindelnet.dk
+wordpress_id: 6
+wordpress_url: http://christian.lysel.net/?page_id=6
+date: !binary |-
+  MjAxMy0xMC0xMSAxODowNDowMCArMDIwMA==
+date_gmt: !binary |-
+  MjAxMy0xMC0xMSAxNjowNDowMCArMDIwMA==
+categories: []
+tags: []
+comments: []
 ---
-<p dir="ltr">Fælles ønsker</p></p>
+<p dir="ltr">F&aelig;lles &oslash;nsker</p></p>
 <ul>
 <li>Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
 <li>Smartbox - Dig og mig, Wellnesophold, Cityweekend</li>
