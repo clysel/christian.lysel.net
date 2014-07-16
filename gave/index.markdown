@@ -3,22 +3,6 @@ layout: page
 status: publish
 published: true
 title: ! '&Oslash;nske seddel'
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 6
-wordpress_url: http://christian.lysel.net/?page_id=6
-date: !binary |-
-  MjAxMy0xMC0xMSAxODowNDowMCArMDIwMA==
-date_gmt: !binary |-
-  MjAxMy0xMC0xMSAxNjowNDowMCArMDIwMA==
-categories: []
-tags: []
-comments: []
 ---
 <p dir="ltr">F&aelig;lles &oslash;nsker</p></p>
 <ul>
