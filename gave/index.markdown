@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: &Oslash;nske seddel
+title: seddel
 author:
   display_name: clysel
   login: clysel
