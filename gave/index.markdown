@@ -26,8 +26,7 @@ comments: []
 <li>Smartbox - Dig og mig, Wellnesophold, Cityweekend</li>
 <li>Wok gryde</li>
 <li><a href="http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html">George Jensen: Al Fredo: Aquamarine (dyr i tr&aelig;)</a></li><br />
-</ul><br />
-&nbsp;</p>
+</ul>
 
 <h2>Heidi's &oslash;nsker</h2>
 
@@ -40,7 +39,7 @@ comments: []
 	<li>Billetter til Bryan Adams koncerterne p&aring; O2 Arena eller Webley til november</li>
 	<li>Gode sp&aelig;ndingsb&oslash;ger</li>
 	<li>Elisabeth arden parfume</li>
-	<li>En Solvogn med hynde</li><br />
+	<li>En Solvogn med hynde</li>
 </ul>
 
 <h2>Jeg &oslash;nsker mig</h2>
@@ -57,10 +56,10 @@ comments: []
 
 
 
-<h2>Huske liste<\h2>
+<h2>Huske liste</h2>
 <ul>
 <li>Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5</li>
 <li>Tr&aelig; d&oslash;r, bryggers - 97 x 218,5</li>
 <li>Tr&aelig; d&oslash;r, hovedd&oslash;r - 158 x 215,5 (0-50 er glasparti, 50-67 adskillelse, 67-158 d&oslash;r)</li>
-<li>Tr&aelig; d&oslash;r, garage - 81 x 203,5</li><br />
+<li>Tr&aelig; d&oslash;r, garage - 81 x 203,5</li>
 </ul>
