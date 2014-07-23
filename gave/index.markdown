@@ -20,7 +20,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p dir="ltr">F&aelig;lles &oslash;nsker</p></p>
+<h2>F&aelig;lles &oslash;nsker</h2>
 <ul>
 <li>Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
 <li>Smartbox - Dig og mig, Wellnesophold, Cityweekend</li>
@@ -29,7 +29,7 @@ comments: []
 </ul><br />
 &nbsp;</p>
 
-Heidi's &oslash;nsker
+<h2>Heidi's &oslash;nsker</h2>
 
 <ul>
 	<li>Undert&oslash;j E85</li>
@@ -43,7 +43,7 @@ Heidi's &oslash;nsker
 	<li>En Solvogn med hynde</li><br />
 </ul>
 
-Jeg &oslash;nsker mig:
+<h2>Jeg &oslash;nsker mig</h2>
 
 <ul>
 	<li>CD - Sting - the last ship. 2013</li>
@@ -57,7 +57,7 @@ Jeg &oslash;nsker mig:
 
 
 
-<p>Huske liste:
+<h2>Huske liste<\h2>
 <ul>
 <li>Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5</li>
 <li>Tr&aelig; d&oslash;r, bryggers - 97 x 218,5</li>
