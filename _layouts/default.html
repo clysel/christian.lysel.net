@@ -71,7 +71,7 @@
 			<aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Posts</h1>
 			<ul>
     {% for post in site.posts %}
-      	<li class="cat-item cat-item-2 current-cat"><a href="{{ post.url | prepend: site.baseurl }}" title="View post post.title">post.title</a>
+      	<li class="cat-item cat-item-2 current-cat"><a href="{{ post.url | prepend: site.baseurl }}" title="View post {{post.title}}">{{post.title}}</a>
 	</li>
     {% endfor %}
 		</ul>
