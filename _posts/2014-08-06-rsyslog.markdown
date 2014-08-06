@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: rsyslog
+title: rsyslog - avoid logrotate
 ---
 {% highlight perl %}
 ###############
