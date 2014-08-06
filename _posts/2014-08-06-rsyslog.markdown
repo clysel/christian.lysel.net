@@ -4,7 +4,7 @@ status: publish
 published: true
 title: rsyslog
 ---
-{% highlight %}
+{% highlight perl %}
 ###############
 #### RULES ####
 ###############
