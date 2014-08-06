@@ -1,0 +1,13 @@
+---
+layout: post
+status: publish
+published: true
+title: rsyslog
+---
+<code>
+###############
+#### RULES ####
+###############
+$template DailyPerHostLogs,"/log_mount/%$YEAR%/%$MONTH%/%$DAY%/%FROMHOST%/%syslogfacility-text%.%syslogseverity-text%.log"
+*.*                             -?DailyPerHostLogs
+</code>
