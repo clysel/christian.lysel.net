@@ -1,7 +1,24 @@
+
 <!DOCTYPE html>
 <html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Introduktion | Christian E. Lysel </title>
+</script>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!--[if lt IE 9]>
+	<script src="/javascripts/html5.js"></script>
+	<![endif]-->
+<link rel="stylesheet" id="twentyfourteen-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic" type="text/css" media="all">
+<link rel="stylesheet" id="genericons-css" href="/css/genericons.css" type="text/css" media="all">
+<link rel="stylesheet" id="twentyfourteen-style-css" href="/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="syntax"" href="/css/syntax.css" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='/cs/ie.css' type='text/css' media='all' />
+<![endif]-->
+</head>
 
-  {% include head.html %}
 
 <body class="home page page-template-default custom-background header-image masthead-fixed grid">
 
@@ -11,22 +28,37 @@
 	</div>
 <header id="masthead" class="site-header" role="banner">
 	<div class="header-main">
-		<h1 class="site-title"><a href="{{ site.url }}" rel="home">{{ site.title }}</a></h1>
+		<h1 class="site-title"><a href="http://christian.lysel.net" rel="home">Christian E. Lysel</a></h1>
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
 	<div class="nav-menu"><ul>
     {% for page in site.pages %}
       <li class="page_item current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>>
     {% endfor %}
 </ul></div>
+			</nav>
 		</div>
+
 	</header>
+
 	<div id="main" class="site-main">
+
 <div id="main-content" class="main-content">
+
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
+
+			
 <article id="post" class="post page type-page status-publish hentry">
 
 <div class="entry-content">
-      <h1>Error page not found</h1>
+      <article class="post type-post status-publish format-standard hentry">
+	<header class="entry-header"><h1 class="entry-title">Error page not found</h1></header>
+	<div class="entry-content">
+</div>
+</article>
+
 	</div>
 </article>
 
@@ -35,7 +67,7 @@
 </div>
 
 <div id="secondary">
-		<h2 class="site-description">{{ site.description }}</h2>
+		<h2 class="site-description">Helt privat</h2>
 	
 	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
 			<aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Posts</h1>
@@ -44,7 +76,7 @@
       	<li class="cat-item cat-item current-cat"><a href="{{ post.url | prepend: site.baseurl }}" title="View post {{post.title}}">{{post.title}}</a>
 	</li>
     {% endfor %}
-		</ul>
+    		</ul>
 </aside>	</div>
 	</div>
 
@@ -52,12 +84,17 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 
-    {% include footer.html %}
+     <footer id="colophon" class="site-footer" role="contentinfo"><div class="site-info">
+	<p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+</div></footer>
+ 
+
 			
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
 
-	<script type="text/javascript" src="/javascripts/functions.js"></script>
+	<script type="text/rocketscript" data-rocketsrc="/javascripts/functions.js"></script>
 
 </body>
 </html>
+
