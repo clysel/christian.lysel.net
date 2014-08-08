@@ -3,40 +3,29 @@ layout: post
 status: publish
 published: true
 title: Noter til jagttegn 2011
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 558
-wordpress_url: http://christian.lysel.net/?p=558
-date: !binary |-
-  MjAxMS0xMC0wMSAxNToxMDoyOSArMDIwMA==
-date_gmt: !binary |-
-  MjAxMS0xMC0wMSAxMzoxMDoyOSArMDIwMA==
 categories:
 - Sjov
 tags:
 - jagt
 comments: []
 ---
-<p>Mine noter til jagttegnspr&oslash;ven</p>
-<p>Jagttegns <a href="http://www.hadsund-jagt.dk/jagttegn/">undervisningsmateriale</a></p>
-<h2>Vildt biologi</h2></p>
-<ul>
-<li>andefugl: toppet skallesluger</li>
-<li>dykand: hvinand, taffeland, troldand, ederfugl</li>
-<li>sv&oslash;mmeand: gr&aring;and, spidsand, krikand, pibeand</li>
-<li>vandh&oslash;ne: blish&oslash;ne</li>
-<li>vadefugl: skovsneppe, stor regnspove, dobbeltbekkasiner</li>
-<li>yngler ikke i danmark: sortand, knorteg&aring;s, lille regnspore, kortn&aelig;bbet g&aring;r</li>
-<li>fritlevende/yngler i danmark, gr&aring;g&aring;s, ederfugl, sikavildt, ilder, vildkaniner, toppet skallesluger, sortkrage, musv&aring;gen, tyrkerdue, spidsand,</li>
-<li>hare: polygam (flere hunner) 2-4 killinger, 2-4 kuld om &aring;ret.</li>
-<li>r&aring;en: 2 lam</li>
-<li>r&aring;bukken, gevir kaldes opsats</li>
-<li>r&aring;dyret, forl&aelig;nget dr&aelig;gtighed</li>
+Mine noter til jagttegnsprøven
+
+>Jagttegns [undervisningsmateriale](http://www.hadsund-jagt.dk/jagttegn/)
+
+-- Vildt biologi --
+
+* andefugl: toppet skallesluger
+* dykand: hvinand, taffeland, troldand, ederfugl
+* svømmeand: gråand, spidsand, krikand, pibeand
+* vandh&oslash;ne: blish&oslash;ne
+* vadefugl: skovsneppe, stor regnspove, dobbeltbekkasiner
+* yngler ikke i danmark: sortand, knorteg&aring;s, lille regnspore, kortn&aelig;bbet g&aring;r
+* fritlevende/yngler i danmark, gr&aring;g&aring;s, ederfugl, sikavildt, ilder, vildkaniner, toppet skallesluger, sortkrage, musv&aring;gen, tyrkerdue, spidsand,
+* hare: polygam (flere hunner) 2-4 killinger, 2-4 kuld om &aring;ret.
+* r&aring;en: 2 lam
+* r&aring;bukken, gevir kaldes opsats
+<li>r&aring;dyret, forl&aelig;nget dr&aelig;gtighed
 <li>kronvildt, ikke parringstid i juli</li>
 <li>gr&aelig;vling, findes ikke p&aring; bornholm</li>
 <li>kronhind, en kalv om &aring;ret</li>
