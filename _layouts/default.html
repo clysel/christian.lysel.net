@@ -3,36 +3,27 @@
 
   {% include head.html %}
 
-<body class="home page page-id-73 page-template-default custom-background header-image masthead-fixed grid">
+<body class="home page page-template-default custom-background header-image masthead-fixed grid">
 
 <div id="page" class="hfeed site">
-		<div id="site-header">
-		<a href="http://christian.lysel.net/" rel="home">
-			<img src="https://lh5.googleusercontent.com/-BVpP4L4lA2I/U-DL8yHLHNI/AAAAAAAADng/1cupXdX8KfY/w1260-h240-no/sunset.jpg" width="1260" height="240" alt="">
-		</a>
-
-		
-		
-		
-		
+	<div id="site-header"><a href="http://christian.lysel.net/" rel="home">
+		<img src="https://lh5.googleusercontent.com/-BVpP4L4lA2I/U-DL8yHLHNI/AAAAAAAADng/1cupXdX8KfY/w1260-h240-no/sunset.jpg" width="1260" height="240" alt=""></a>
 	</div>
-	<header id="masthead" class="site-header" role="banner">
-		<div class="header-main">
-			<h1 class="site-title"><a href="{{ site.url }}" rel="home">{{ site.title }}</a></h1>
-
-			
+<header id="masthead" class="site-header" role="banner">
+	<div class="header-main">
+		<h1 class="site-title"><a href="{{ site.url }}" rel="home">{{ site.title }}</a></h1>
 			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
 				<button class="menu-toggle">Primary Menu</button>
 				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
-<div class="nav-menu"><ul>
+	<div class="nav-menu"><ul>
     {% for page in site.pages %}
-      <li class="page_item page-item-5 current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>>
+      <li class="page_item current_page_item"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>>
     {% endfor %}
 </ul></div>
 			</nav>
 		</div>
 
-	</header><!-- #masthead -->
+	</header>
 
 	<div id="main" class="site-main">
 
@@ -42,16 +33,16 @@
 		<div id="content" class="site-content" role="main">
 
 			
-<article id="post-5" class="post-5 page type-page status-publish hentry">
+<article id="post" class="post page type-page status-publish hentry">
 
 <div class="entry-content">
       {{ content }}
 	</div>
-</article><!-- #post-## -->
+</article>
 
-		</div><!-- #content -->
-	</div><!-- #primary -->
-</div><!-- #main-content -->
+	</div>
+	</div>
+</div>
 
 <div id="secondary">
 		<h2 class="site-description">{{ site.description }}</h2>
@@ -60,7 +51,7 @@
 			<aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">Posts</h1>
 			<ul>
     {% for post in site.posts %}
-      	<li class="cat-item cat-item-2 current-cat"><a href="{{ post.url | prepend: site.baseurl }}" title="View post {{post.title}}">{{post.title}}</a>
+      	<li class="cat-item cat-item current-cat"><a href="{{ post.url | prepend: site.baseurl }}" title="View post {{post.title}}">{{post.title}}</a>
 	</li>
     {% endfor %}
 		</ul>
