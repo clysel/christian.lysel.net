@@ -1,4 +1,60 @@
 <!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+	<title>Your Page Title Here :)</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="stylesheets/base.css">
+	<link rel="stylesheet" href="stylesheets/skeleton.css">
+	<link rel="stylesheet" href="stylesheets/layout.css">
+  <!--link rel="stylesheet" href="stylesheets/docs.css">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+</head>
+<body>
+	<div class="container">
+		<img src="https://lh5.googleusercontent.com/-BVpP4L4lA2I/U-DL8yHLHNI/AAAAAAAADng/1cupXdX8KfY/w1260-h240-no/sunset.jpg" width="1260" height="240" alt="">
+    <div class="sixteen columns">
+			<h1 class="remove-bottom" style="margin-top: 40px">Christian E. Lysel</h1>
+			<h5>Helt privat</h5>
+			<hr />
+		</div>
+		<div class="eleven columns">
+			{{ content }}   
+  		</div>
+  		<div class="three columns sidebar">
+          <nav>
+            <h3 id="logo">Menu</h3>
+            <ul>
+              <li><a href="#whatAndWhy">Introduktion</a></li>
+              <li><a href="#grid">Ønskeseddel</a></li>
+              <li><a href="#typography">CV</a></li>
+            </ul>
+            <h3 id="logo">Posts</h3>
+            <ul>{% for page in site.pages %}
+            	<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>{% endfor %}
+    		</ul>
+          </nav>
+          &nbsp;
+        </div>
+          </div>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
 <html>
 
   {% include head.html %}
