@@ -28,9 +28,8 @@ comments: []
 <p>The vmkernel has a FreeBSD kernel structure , that can be used to verify there is a high TCP retransmit counters.
 
 <p>
-{% highlight sh %}
+{% highlight shell %}
 >~ # date ; vsish -e cat /net/tcpip/stats/tcp | grep rexm
-
 Tue Dec 17 20:48:57 UTC 2013
  rexmttimeo:1840
  sndrexmitpack:785
@@ -48,5 +47,6 @@ Tue Dec 17 20:48:57 UTC 2013
   sack_rexmit_bytes:53576
  >~ #
 {% endhighlight %}
+
 <p>In the above we observ 100 retransmit timeouts during 10 seconds.
 <p>But after moving the vmnet iSCSI connections to intel interface, I can't reproduce any packet drops, even when going from two broadcom interfaces to only one intel interface, and therefor only the half bandwidth.</span>
