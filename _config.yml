@@ -7,6 +7,7 @@ url: "http://christian.lysel.net"
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: /:year/:month/:title/
 
 gems:
