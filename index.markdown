@@ -5,6 +5,6 @@ published: true
 title: Introduktion
 ---
 
-Hejsa.
+Hejsa..
 
 Denne side er skrevet primært for mig selv
