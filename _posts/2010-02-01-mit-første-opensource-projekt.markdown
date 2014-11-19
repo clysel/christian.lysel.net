@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Mit f&oslash;rste opensource projekt
+title: Mit første opensource projekt
 author:
   display_name: clysel
   login: clysel
