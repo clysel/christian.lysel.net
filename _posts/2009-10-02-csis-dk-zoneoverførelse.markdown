@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: csis.dk zoneoverf&oslash;relse
+title: csis.dk zoneoverførelse
 author:
   display_name: clysel
   login: clysel
