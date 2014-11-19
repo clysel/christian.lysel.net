@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Nexuiz '
+author:
+  display_name: clysel
+  login: clysel
+  email: webmaster@spindelnet.dk
+  url: ''
+author_login: clysel
+author_email: webmaster@spindelnet.dk
+wordpress_id: 118
+wordpress_url: http://christian.lysel.net/?p=118
+date: !binary |-
+  MjAwOS0wNC0yNSAxNzozNTo1NyArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNC0yNSAxNTozNTo1NyArMDIwMA==
+categories:
+- First Person Shooter
+tags: []
+comments: []
+---
+<h2>Description</h2><br />
+Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called <a title="Alientrap - Online video game creation and collaboration" href="http://www.alientrap.org/" target="_blank">Alientrap</a>. It is available for download for Windows, Mac, and Linux</p>
+<h2>Download</h2><br />
+&nbsp;<a href="http://alientrap.org/nexuiz/downloads.php" target="_blank">alientrap.org</a></p>
+<h2>Video</h2><br />
+<a href="http://www.youtube.com/v/me3KeOj4MHY&amp;hd=1"></a></p>
