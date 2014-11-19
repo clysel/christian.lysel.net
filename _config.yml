@@ -1,6 +1,5 @@
 # Site settings
 title: Christian E. Lysel
-email: webmaster@lysel.net
 description: "Helt privat"
 baseurl: ""
 url: "http://christian.lysel.net"
@@ -9,5 +8,5 @@ url: "http://christian.lysel.net"
 markdown: kramdown
 permalink: /:year/:month/:title/
 
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
