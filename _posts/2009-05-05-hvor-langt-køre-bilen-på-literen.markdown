@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Hvor langt k&oslash;re bilen p&aring; Literen
+title: Hvor langt køre bilen på Literen
 author:
   display_name: clysel
   login: clysel
