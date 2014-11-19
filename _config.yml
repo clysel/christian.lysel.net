@@ -8,5 +8,5 @@ url: "http://christian.lysel.net"
 markdown: kramdown
 permalink: /:year/:month/:title/
 
-#gems:
-#  - jekyll-sitemap
+gems:
+- jekyll-sitemap
