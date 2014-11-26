@@ -2,7 +2,7 @@
 layout: page
 title: "Ønske seddel"
 description: "for Christian og Heidi"
-header-img: "img/home-bg.jpg"
+header-img: "img/about-bg.jpg"
 ---
 <h2>F&aelig;lles &oslash;nsker</h2>
 <ul>
@@ -43,7 +43,5 @@ header-img: "img/home-bg.jpg"
 <h2>Huske liste</h2>
 <ul>
 <li>Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5</li>
-<li>Tr&aelig; d&oslash;r, bryggers - 97 x 218,5</li>
-<li>Tr&aelig; d&oslash;r, hovedd&oslash;r - 158 x 215,5 (0-50 er glasparti, 50-67 adskillelse, 67-158 d&oslash;r)</li>
 <li>Tr&aelig; d&oslash;r, garage - 81 x 203,5</li>
 </ul>
