@@ -2,7 +2,7 @@
 title: Christian E. Lysel
 email: webmaster@lysel.net
 description: "Helt privat"
-baseurl: "/"
+baseurl: ""
 url: "https://christian.lysel.net"
 twitter_username: clysel
 github_username:  clysel
@@ -10,7 +10,8 @@ facebook_username:  clysel
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:title/
+#permalink: /:year/:month/:title/
+permalink: pretty
 highlighter: pygments
 paginate: 15
 exclude: ["node_modules"]
