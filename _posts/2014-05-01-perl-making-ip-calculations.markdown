@@ -1,6 +1,6 @@
 ---
 title: "Perl"
-Descriptions: "Making IP calculations"
+description: "Making IP calculations"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
