@@ -10,7 +10,7 @@ header-img: "img/post-bg-01.jpg"
 <p>The vmkernel has a FreeBSD kernel structure , that can be used to verify there is a high TCP retransmit counters.
 
 <p>
-{% highlight shell %}
+{% highlight %}
 >~ # date ; vsish -e cat /net/tcpip/stats/tcp | grep rexm
 Tue Dec 17 20:48:57 UTC 2013
  rexmttimeo:1840
