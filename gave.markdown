@@ -1,8 +1,7 @@
 ---
 layout: page
-status: publish
-published: true
-title: Ønske seddel
+description: Ønske seddel
+header-img: "img/home-bg.jpg"
 ---
 <h2>F&aelig;lles &oslash;nsker</h2>
 <ul>

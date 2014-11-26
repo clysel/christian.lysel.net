@@ -1,25 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: Diverse
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 57
-wordpress_url: http://christian.lysel.net/?p=57
-date: !binary |-
-  MjAwOS0wNC0yNCAyMjoyMzoyNSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0yNCAyMDoyMzoyNSArMDIwMA==
-categories:
-- Links
-tags: []
-comments: []
+layout:     post
+title:      "Diverse"
+subtitle:   "En gammel bookmark fil"
+date:       2014-06-10 12:00:00
+author:     "Christian E. Lysel"
+header-img: "img/post-bg-01.jpg"
 ---
 <h1>Bookmarks</h1></p>
 <h1>Bookmarks Menu</h1></p>
