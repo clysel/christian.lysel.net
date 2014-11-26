@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: Safari, ny browser til digital signatur?
+author:
+  display_name: clysel
+  login: clysel
+  email: webmaster@spindelnet.dk
+  url: ''
+author_login: clysel
+author_email: webmaster@spindelnet.dk
+wordpress_id: 308
+wordpress_url: http://christian.lysel.net/?p=308
+date: !binary |-
+  MjAwOS0wNS0wMSAxNTozNToyOCArMDIwMA==
+date_gmt: !binary |-
+  MjAwOS0wNS0wMSAxMzozNToyOCArMDIwMA==
+categories:
+- Sjov
+tags: []
+comments: []
+---
+<p>Jeg l&aring; flad af grin i dag, da de i l&oslash;nafdelingen viste mig denne mail:</p>
+<blockquote><p>
+From: 	CVR <......@eogs.dk><br />
+To: .....@toptoy.dk<br />
+Subject: 	SV: &AElig;ndring af p-numre<br />
+Date: 	Wed, 15 Apr 2009 22:44:09 +0200<br />
+Tak for din henvendelse.</p>
+<p>Der kan i &oslash;jeblikket opleves driftsforstyrrelser ved anvendelse af P-enhedsl&oslash;sningen. Vores leverand&oslash;r arbejder p&aring; at l&oslash;se problemet.</p>
+<p>Ved anvendelse af P-enhedsl&oslash;sningen kan du med fordel benytte Safari.</p>
+<p>Safari er en gratis browser ligesom Internet Explorer. Browseren Safari kan downloades gratis her:</p>
+<p>http://www.apple.com/safari/download/</p>
+<p>Vi beklager ulejligheden.</p>
+<p>Med venlig hilsen</p>
+<p>ERHVERVS- OG SELSKABSSTYRELSEN</p>
+<p>Kampmannsgade 1</p>
+<p>1780 K&oslash;benhavn V</p>
+<p>Telefon: 3330 7700</p>
+<p>www.eogs.dk</p>
+<p>&Oslash;KONOMI- OG ERHVERVSMINISTERIET</p>
+<p>-----Oprindelig meddelelse-----<br />
+...........</blockquote></p>
