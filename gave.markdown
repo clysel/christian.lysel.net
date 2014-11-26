@@ -31,11 +31,10 @@ title: Ønske seddel
 <ul>
 	<li>CD - Sting - the last ship. 2013</li>
 	<li>CD'er med Laleh Pourkarim</li> 
-	<li><a href="http://www.smykkegave.dk/kreditkortholder-secrid-titanium.html">secrid kreditkort pung</a></li>
 	<li>masser af&nbsp;<a href="http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl">kort &aelig;rmet skjorter og t-shirts</a>&nbsp;(6xl)</li>
 	<li>Oplevelser</li>
 	<li>Selvportr&aelig;t af gavegiveren</li>
-	<li>en lille <a href="http://www.ebay.co.uk/itm/Professional-Engineers-4-Trade-Square-MS071-/271087195749?pt=UK_Hand_Tools_Equipment&hash=item3f1e0e5665">vinkel</a>
+	<li>planteurte kasse 2 STK 13cm x 120cm eller lidt mindre</li>
 	<li>Sol luftvarmer til garagen</li><br />
 </ul>
 
