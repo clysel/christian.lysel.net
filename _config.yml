@@ -4,10 +4,18 @@ email: webmaster@lysel.net
 description: "Helt privat"
 baseurl: ""
 url: "https://christian.lysel.net"
+twitter_username: clysel
+github_username:  clysel
+facebook_username:  clysel
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
+highlighter: pygments
+paginate: 5
+exclude: ["node_modules"]
 
 gems:
   - jekyll-sitemap
+
+
