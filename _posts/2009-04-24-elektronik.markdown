@@ -1,6 +1,5 @@
 ---
 layout:     post
-subtitle:   "En gammel bookmark fil"
 header-img: "img/post-bg-01.jpg"
 title: Elektronik indk&oslash;b
 ---
