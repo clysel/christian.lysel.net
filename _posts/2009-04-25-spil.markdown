@@ -1,0 +1,78 @@
+---
+layout:     post
+title:      "Spil"
+header-img: "img/post-bg-01.jpg"
+---
+<h2>Nexuiz</h2><br />
+Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called <a title="Alientrap - Online video game creation and collaboration" href="http://www.alientrap.org/" target="_blank">Alientrap</a>. It is available for download for Windows, Mac, and Linux</p>
+<h2>Download</h2><br />
+&nbsp;<a href="http://alientrap.org/nexuiz/downloads.php" target="_blank">alientrap.org</a></p>
+<h2>Video</h2><br />
+<a href="http://www.youtube.com/v/me3KeOj4MHY&amp;hd=1"></a></p>
+
+<h2>Urban Terror</h2><br />
+Urban Terror&trade; is a free multiplayer first person shooter, that (thanks to ioquake3) does not require Quake III Arena. It is available for Windows, Linux and Macintosh. The current version is 4.1.</p>
+<h2><span>Download</span></h2><br />
+<a href="http://www.urbanterror.net/page.php?6" target="_blank">http://www.urbanterror.net/page.php?6</a></p>
+<h2>Video</h2></p>
+
+<h2>Battlefield 2</h2><br />
+Battlefield 2 is a first-person shooter with some strategy and RPG elements.</p>
+<p>A demo is available for download from major game sites featuring a single map (Gulf of Oman) for both single-player and multi-player. The 16-person version of the map has a time limit of 10 minutes; the 32-person version has a time limit of 12 minutes. The 64-person version is unavailable in the demo, though up to 64 players can still play on the 32-person map. EA Games shut down all of its demo servers on November 28, 2005. However, demo client and demo server software are still available for download from BF2 website should players and server operators wish to host the game themselves.</p>
+<p>Some aspects of gameplay, such as jet combat, are markedly different in the demo compared with the current game. This is due to changes made in recent patches. The demo does not feature rankings, apart from on a couple of servers.</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_9576.shtml">gamershell.com</a></p>
+<h2>Video</h2></p>
+
+<h2>F.E.A.R. Combat</h2><br />
+The demo features two maps: Factory (Deathmatch) and Facility (CTF). There is an option for dedicated servers with 16 players support, but there is no LAN feature</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_10939.shtml" target="_blank">gamershell.com</a> (450MB version)</p>
+
+F.E.A.R. Combat features</p>
+<ul>
+<li>
+10 Multiplayer Game modes.</li></p>
+<li>22 Multiplayer Maps.</li>
+<li>12 different weapons.</li>
+<li>Punkbuster support for anti cheat support.</li>
+<li>The capability to download user generated content.</li><br />
+</ul><br />
+It also includes a guide in PDF format.</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_15038.shtml" target="_blank">gamershell.com</a> (1.7GB Full version)</p>
+<h2>Video</h2></p>
+
+<h2><img class="alignright size-medium wp-image-246" title="Frontlines: Fuel of War" src="http://christian.lysel.net/wp-content/uploads/sites/2/2009/04/932614_20080919_790screen002-300x187.jpg" alt="Frontlines: Fuel of War" width="300" height="187" />Download</h2><br />
+<a href="http://www.gamershell.com/download_28718.shtml">gamershell.com</a></p>
+
+<h2><img class="alignright size-medium wp-image-235" title="Camaro" src="http://christian.lysel.net/wp-content/uploads/sites/2/2009/04/camaro-300x168.jpg" alt="Camaro" width="300" height="168" />Description</h2><br />
+This demo for Need for Speed Most Wanted includes both single player and multiplayer modes.</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_11487.shtml" target="_blank">gamershell.com</a></p>
+
+<h2><img class="alignright size-medium wp-image-237" title="quake4" src="http://christian.lysel.net/wp-content/uploads/sites/2/2009/04/quake4-300x225.jpg" alt="quake4" width="300" height="225" />Desciption</h2><br />
+Only LAN multiplayer mode</p>
+<h2>Download<a href="http://www.gamershell.com/download_34684.shtml"></a></h2><br />
+<a href="http://www.gamershell.com/download_19792.shtml">gamershell.com</a></p>
+
+<h2><img class="alignright size-medium wp-image-243" title="Timeshift Demo" src="http://christian.lysel.net/wp-content/uploads/sites/2/2009/04/timeshift_demo_06-300x225.jpg" alt="Timeshift Demo" width="300" height="225" />Description</h2><br />
+No Internet servers available.</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/news_43502.html">gamershell.com<br />
+</a></p>
+
+<h2>Description</h2><br />
+ToCA Race Driver 3 is the latest edition of the long-running series that's famous for providing the most exciting wheel-to-wheel racing action on console and PC.</p>
+<p>Race on tracks from all over the world, take the story-driven "world tour" mode, or take the "Pro Career" mode and work your way up the ladder in different disciplines of motorsport, aiming for the pinnacle of your chosen field.</p>
+<p>This demo includes three tracks which can be used to battle it out in multiplayer racing action.</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_12661.shtml">gamershell.com</a></p>
+<h2>Video</h2></p>
+
+<h2><img class="alignright size-medium wp-image-232" title="enemy-territory" src="http://christian.lysel.net/wp-content/uploads/sites/2/2009/04/enemy-territory-300x225.jpg" alt="enemy-territory" width="300" height="225" />Description</h2><br />
+Wolfenstein: Enemy Territory is a free multiplayer first-person shooter video game set during World War II. Due to problems with the single-player aspect, the multiplayer portion was released on May 29, 2003 as a freeware standalone game</p>
+<h2>Download</h2><br />
+<a href="http://www.gamershell.com/download_2354.shtml">gamershell.com</a></p>
+<h2></h2></p>
+
