@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "CV"
 description: "CV"
 header-img: "img/home-bg.jpg"
 ---

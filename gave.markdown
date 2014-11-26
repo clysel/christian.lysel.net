@@ -1,6 +1,7 @@
 ---
 layout: page
-description: "Ønske seddel"
+title: "Ønske seddel"
+description: "for Christian og Heidi"
 header-img: "img/home-bg.jpg"
 ---
 <h2>F&aelig;lles &oslash;nsker</h2>
