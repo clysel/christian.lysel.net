@@ -31,4 +31,4 @@ Tue Dec 17 20:48:57 UTC 2013
 </pre>
 
 <p>In the above we observ 100 retransmit timeouts during 10 seconds.
-<p>But after moving the vmnet iSCSI connections to intel interface, I can't reproduce any packet drops, even when going from two broadcom interfaces to only one intel interface, and therefor only the half bandwidth.
+<p>But after moving the vmnet iSCSI connections to an Intel interface, I can't reproduce any packet drops, even when going from two broadcom interfaces to only one intel interface, and therefor only the half bandwidth.
