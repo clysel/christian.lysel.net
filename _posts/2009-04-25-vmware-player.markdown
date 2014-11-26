@@ -1,14 +1,8 @@
 ---
 layout: post
 title: VMware Player
-date: !binary |-
-  MjAwOS0wNC0yNSAxMTo0MDo1MyArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0wNC0yNSAwOTo0MDo1MyArMDIwMA==
-categories:
-- Uncategorized
-tags: []
-comments: []
+author: Christian E. Lysel
+header-img: "img/home-bg.jpg"
 ---
 <p>This article is copied from <a href="http://www.ffnn.nl/pages/articles/linux/vmware-player-image-creation.php" target="_blank">ffnn.nl</a>
 <h1>VMWare Player Image Creation</h1>

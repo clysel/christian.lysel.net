@@ -2,24 +2,8 @@
 layout: post
 status: publish
 published: true
-title: csis.dk zoneoverf&oslash;relse
-author:
-  display_name: clysel
-  login: clysel
-  email: webmaster@spindelnet.dk
-  url: ''
-author_login: clysel
-author_email: webmaster@spindelnet.dk
-wordpress_id: 478
-wordpress_url: http://christian.lysel.net/?p=478
-date: !binary |-
-  MjAwOS0xMC0wMiAyMzoyNzo0MSArMDIwMA==
-date_gmt: !binary |-
-  MjAwOS0xMC0wMiAyMToyNzo0MSArMDIwMA==
-categories:
-- Uncategorized
-tags: []
-comments: []
+title: csis.dk zoneoverførelse
+author: Christian E. Lysel
 ---
 <p>CSIS har efter version2.dk artiklen "<a href="http://www.version2.dk/artikel/12298-efter-ddos-angreb-dansk-webhotel-beskyldes-for-elendig-sikkerhed" target="_blank">Efter Ddos-angreb: Dansk webhotel beskyldes for elendig sikkerhed</a>" sl&aring;et zone overf&oslash;relsen af deres domain fra.</p>
 <p>For en god ordensskyld er her en kopi af zonen som den s&aring; ud den 30. September 2009 via <a href="https://www.dk-hostmaster.dk/index.php?input=csis.dk&amp;ns=&amp;axfr=on&amp;id=94&amp;lang=da" target="_blank">www.dk-hostmaster.dk</a>:</p>

@@ -1,13 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Noter til jagttegn 2011
-categories:
-- Sjov
-tags:
-- jagt
-comments: []
+layout: post
+author: Christian E. Lysel
+header-img: "img/home-bg.jpg"
 ---
 Mine noter til jagttegnsprøven
 

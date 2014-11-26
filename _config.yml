@@ -12,7 +12,7 @@ facebook_username:  clysel
 markdown: kramdown
 permalink: /:year/:month/:title/
 highlighter: pygments
-paginate: 5
+paginate: 15
 exclude: ["node_modules"]
 
 gems:
