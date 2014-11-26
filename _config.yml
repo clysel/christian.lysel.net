@@ -3,7 +3,7 @@ title: Christian E. Lysel
 email: webmaster@lysel.net
 description: "Helt privat"
 baseurl: ""
-url: "http://christian.lysel.net"
+url: "https://christian.lysel.net"
 
 # Build settings
 markdown: kramdown
