@@ -1,6 +1,6 @@
 ---
 layout: page
-description: CV
+description: "CV"
 header-img: "img/home-bg.jpg"
 ---
 <a href="https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing">Hent som PDF</a>

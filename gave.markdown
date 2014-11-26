@@ -1,6 +1,6 @@
 ---
 layout: page
-description: Ønske seddel
+description: "Ønske seddel"
 header-img: "img/home-bg.jpg"
 ---
 <h2>F&aelig;lles &oslash;nsker</h2>
