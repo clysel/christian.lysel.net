@@ -22,11 +22,13 @@ Tue Dec 17 20:48:57 UTC 2013
  sndrexmitbad:33
  sack_rexmits:37
  sack_rexmit_bytes:53576
+{% endhighlight %}
+
 {% highlight shell %}
 date ; vsish -e cat /net/tcpip/stats/tcp | grep rexm
 {% endhighlight %}
  
- {% highlight %}
+{% highlight %}
  Tue Dec 17 20:49:06 UTC 2013
   rexmttimeo:1905
   sndrexmitpack:785
@@ -34,7 +36,6 @@ date ; vsish -e cat /net/tcpip/stats/tcp | grep rexm
   sndrexmitbad:33
   sack_rexmits:37
   sack_rexmit_bytes:53576
- >~ #
 {% endhighlight %}
 
 <p>In the above we observ 100 retransmit timeouts during 10 seconds.
