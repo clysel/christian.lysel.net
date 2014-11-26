@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VMware Player
-author: Christian E. Lysel
 header-img: "img/home-bg.jpg"
 ---
 <p>This article is copied from <a href="http://www.ffnn.nl/pages/articles/linux/vmware-player-image-creation.php" target="_blank">ffnn.nl</a>

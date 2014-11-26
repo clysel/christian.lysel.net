@@ -1,9 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: csis.dk zoneoverførelse
-author: Christian E. Lysel
+header-img: "img/home-bg.jpg"
 ---
 <p>CSIS har efter version2.dk artiklen "<a href="http://www.version2.dk/artikel/12298-efter-ddos-angreb-dansk-webhotel-beskyldes-for-elendig-sikkerhed" target="_blank">Efter Ddos-angreb: Dansk webhotel beskyldes for elendig sikkerhed</a>" sl&aring;et zone overf&oslash;relsen af deres domain fra.</p>
 <p>For en god ordensskyld er her en kopi af zonen som den s&aring; ud den 30. September 2009 via <a href="https://www.dk-hostmaster.dk/index.php?input=csis.dk&amp;ns=&amp;axfr=on&amp;id=94&amp;lang=da" target="_blank">www.dk-hostmaster.dk</a>:</p>

@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Gas fyr"
-author:     "Christian E. Lysel"
 header-img: "img/post-bg-01.jpg"
 ---
 <p><a href="http://www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf">Cerapur ZSBR 3-16 A 23</a></p>

@@ -1,7 +1,6 @@
 ---
 title: Noter til jagttegn 2011
 layout: post
-author: Christian E. Lysel
 header-img: "img/home-bg.jpg"
 ---
 Mine noter til jagttegnsprøven
