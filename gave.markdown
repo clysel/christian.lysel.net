@@ -15,13 +15,12 @@ header-img: "img/about-bg.jpg"
 <h2>Heidi's &oslash;nsker</h2>
 
 <ul>
-	<li>Undert&oslash;j E85</li>
-	<li>&Oslash;reringe</li>
+	<li>Undertøj E85</li>
+	<li>Øreringe</li>
 	<li>Armb&aring;nd (som ikke niver Christian)</li>
 	<li>Gavekort til Zizzi</li>
 	<li>Smart boks: smuk &amp; dejlig, ansigsbehandling, en sk&oslash;n behandling, superwomen</li>
-	<li>Billetter til Bryan Adams koncerterne p&aring; O2 Arena eller Webley til november</li>
-	<li>Gode sp&aelig;ndingsb&oslash;ger</li>
+	<li>Gode spændingsbøger</li>
 	<li>Elisabeth arden parfume</li>
 	<li>En Solvogn med hynde</li>
 </ul>
@@ -33,6 +32,7 @@ header-img: "img/about-bg.jpg"
 	<li>CD'er med Laleh Pourkarim</li> 
 	<li>masser af&nbsp;<a href="http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl">kort &aelig;rmet skjorter og t-shirts</a>&nbsp;(6xl)</li>
 	<li>Oplevelser</li>
+	<li>Båndsav klinge  42 tommer 107cm <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924">14 tænder</a>, <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923">6 tænder</a></li>
 	<li>Selvportr&aelig;t af gavegiveren</li>
 	<li>planteurte kasse 2 STK 13cm x 120cm eller lidt mindre</li>
 	<li>Sol luftvarmer til garagen</li><br />
