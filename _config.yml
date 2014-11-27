@@ -10,8 +10,8 @@ facebook_username:  clysel
 
 # Build settings
 markdown: kramdown
-#permalink: /:year/:month/:title/
-permalink: pretty
+permalink: /:year/:month/:title/
+#permalink: pretty
 highlighter: pygments
 paginate: 15
 exclude: ["node_modules"]
