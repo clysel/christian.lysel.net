@@ -34,7 +34,7 @@ header-img: "img/about-bg.jpg"
 	<li>Oplevelser</li>
 	<li>Båndsav klinge  42 tommer 107cm <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924">14 tænder</a>, <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923">6 tænder</a></li>
 	<li>Selvportr&aelig;t af gavegiveren</li>
-	<li>Motorcykel dele<a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0>Plastik skrue</a>, <a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0">bolt</a></li>
+	<li>Motorcykel dele<a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0">Plastik skrue</a>, <a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0">bolt</a></li>
 	<li>planteurte kasse 2 STK 13cm x 120cm eller lidt mindre</li>
 	<li>Sol luftvarmer til garagen</li><br />
 </ul>
