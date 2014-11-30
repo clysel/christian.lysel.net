@@ -14,14 +14,14 @@ header-img: "img/about-bg.jpg"
 <h2>Heidi's &oslash;nsker</h2>
 
 <ul>
-	<liHåndtag til cyklen, barens avenue, aluminium sort</li>
+	<li>Håndtag til cyklen, barens avenue, aluminium sort</li>
 	<li>Øreringe</li>
 	<li>Armb&aring;nd (som ikke niver Christian)</li>
 	<li>Smart boks: smuk &amp; dejlig, ansigsbehandling, en sk&oslash;n behandling</li>
 	<li>Gode spændingsbøger</li>
 	<li>Elisabeth arden parfume</li>
-	<liTallerkenrække hvid til min 6 tallerkner</li>
-	<liRosti Margrethe skåle 350ml</li>
+	<li>Tallerkenrække hvid til min 6 tallerkner</li>
+	<li>Rosti Margrethe skåle 350ml</li>
 	<li>Smykke renser ultralyd</li>
 	<li>Cover til galaxy ii mini</li>
 	<li>Karen blixen, snemandspar, bord forsølvet eller luciaootog eller dobbelthjerte</li>
