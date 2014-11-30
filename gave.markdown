@@ -7,7 +7,6 @@ header-img: "img/about-bg.jpg"
 <h2>F&aelig;lles &oslash;nsker</h2>
 <ul>
 <li>Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
-<li>Smartbox - Dig og mig, Wellnesophold, Cityweekend</li>
 <li>Wok gryde</li>
 <li><a href="http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html">George Jensen: Al Fredo: Aquamarine (dyr i tr&aelig;)</a></li><br />
 </ul>
@@ -15,14 +14,17 @@ header-img: "img/about-bg.jpg"
 <h2>Heidi's &oslash;nsker</h2>
 
 <ul>
-	<li>Undertøj E85</li>
+	<liHåndtag til cyklen, barens avenue, aluminium sort</li>
 	<li>Øreringe</li>
 	<li>Armb&aring;nd (som ikke niver Christian)</li>
-	<li>Gavekort til Zizzi</li>
-	<li>Smart boks: smuk &amp; dejlig, ansigsbehandling, en sk&oslash;n behandling, superwomen</li>
+	<li>Smart boks: smuk &amp; dejlig, ansigsbehandling, en sk&oslash;n behandling</li>
 	<li>Gode spændingsbøger</li>
 	<li>Elisabeth arden parfume</li>
-	<li>En Solvogn med hynde</li>
+	<liTallerkenrække hvid til min 6 tallerkner</li>
+	<liRosti Margrethe skåle 350ml</li>
+	<li>Smykke renser ultralyd</li>
+	<li>Cover til galaxy ii mini</li>
+	<li>Karen blixen, snemandspar, bord forsølvet eller luciaootog eller dobbelthjerte</li>
 </ul>
 
 <h2>Jeg &oslash;nsker mig</h2>
