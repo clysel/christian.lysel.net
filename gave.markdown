@@ -4,47 +4,46 @@ title: "Ønske seddel"
 description: "for Christian og Heidi"
 header-img: "img/about-bg.jpg"
 ---
-<h2>F&aelig;lles &oslash;nsker</h2>
-<ul>
-<li>Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
-<li>Wok gryde</li>
-<li><a href="http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html">George Jensen: Al Fredo: Aquamarine (dyr i tr&aelig;)</a></li><br />
-</ul>
+# Fælles ønsker
 
-<h2>Heidi's &oslash;nsker</h2>
+* Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
+* Wok gryde</li>
+* George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
 
-<ul>
-	<li>Håndtag til cyklen, barens avenue, aluminium sort</li>
-	<li>Øreringe</li>
-	<li>Armb&aring;nd (som ikke niver Christian)</li>
-	<li>Smart boks: smuk &amp; dejlig, ansigsbehandling, en sk&oslash;n behandling</li>
-	<li>Gode spændingsbøger</li>
-	<li>Elisabeth arden parfume</li>
-	<li>Tallerkenrække hvid til min 6 tallerkner</li>
-	<li>Rosti Margrethe skåle 350ml</li>
-	<li>Smykke renser ultralyd</li>
-	<li>Cover til galaxy ii mini</li>
-	<li>Karen blixen, snemandspar, bord forsølvet eller luciaootog eller dobbelthjerte</li>
-</ul>
+## Heidi's ønsker
 
-<h2>Jeg &oslash;nsker mig</h2>
+* Håndtag til cyklen, barens avenue, aluminium sort
+* Øreringe
+* Armbånd (som ikke niver Christian)
+* Smart boks: smuk & dejlig, ansigsbehandling, en skøn behandling
+* Gode spændingsbøger
+  * Elisabeth arden parfume
+  * Tallerkenrække hvid til min 6 tallerkner
+  * Rosti Margrethe skåle 350 ml
+  * Smykke renser ultralyd
+  * Cover til Samsung Galaxy ii mini
+  * Karen blixen, forsølvet: 
+    * Snemandspar
+    * Bord forsølvet
+    * Luciaootog
+    * Dobbelthjerte
 
-<ul>
-	<li>CD - Sting - the last ship. 2013</li>
-	<li>CD'er med Laleh Pourkarim</li> 
-	<li>masser af&nbsp;<a href="http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl">kort &aelig;rmet skjorter og t-shirts</a>&nbsp;(6xl)</li>
-	<li>Oplevelser</li>
-	<li>Båndsav klinge  42 tommer 107cm <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924">14 tænder</a>, <a href="http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923">6 tænder</a></li>
-	<li>Selvportr&aelig;t af gavegiveren</li>
-	<li>Motorcykel dele <a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0">Plastik skrue (1ux)</a>, <a href="https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0">bolt (8j2)</a></li>
-	<li>filesæt, fx fra <a href="http://www.harald-nyborg.dk/p4853/filesaet-5-dele">harald-nyborg</a></li>
-	<li>Sol luftvarmer til garagen</li><br />
-</ul>
+## Jeg ønsker mig
 
+* CD - Sting - the last ship. 2013
+* CD'er med Laleh Pourkarim
+* T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
+* Oplevelser
+* Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
+* Selvportræt af gavegiveren
+* Motorcykel dele:
+  * 4 stk [Plastik skrue (1ux)](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0)
+  * 4 stk [Bolt 8J2](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0)
+* Filesæt, fx fra [harald-nyborg best. nr 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
+* Sol luftvarmer til garagen
 
+## Huske liste
 
-<h2>Huske liste</h2>
-<ul>
-<li>Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5</li>
-<li>Tr&aelig; d&oslash;r, garage - 81 x 203,5</li>
-</ul>
+* Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5
+* Tr&aelig; d&oslash;r, garage - 81 x 203,5
+ 
