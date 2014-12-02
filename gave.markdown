@@ -6,11 +6,13 @@ header-img: "img/about-bg.jpg"
 ---
 # Fælles ønsker
 
-* Gavekort til El-giganten, vi &oslash;nsker os en robort st&oslash;vsuger og en opvaskermaskine.</li>
-* Wok gryde</li>
+* Gavekort til El-giganten, vi &oslash;nsker os en opvaskermaskine.</li>
+* Wok gryde
 * George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
 
 ## Heidi's ønsker
+
+Aftal venligst med Christian (42688641)
 
 * Håndtag til cyklen, barens avenue, aluminium sort
 * Øreringe
@@ -29,6 +31,8 @@ header-img: "img/about-bg.jpg"
     * Dobbelthjerte
 
 ## Jeg ønsker mig
+
+Aftal venligst med Heidi
 
 * CD - Sting - the last ship. 2013
 * CD'er med Laleh Pourkarim
