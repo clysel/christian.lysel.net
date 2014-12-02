@@ -19,16 +19,16 @@ Aftal venligst med Christian (42688641)
 * Armbånd (som ikke niver Christian)
 * Smart boks: smuk & dejlig, ansigsbehandling, en skøn behandling
 * Gode spændingsbøger
-  * Elisabeth arden parfume
-  * Tallerkenrække hvid til min 6 tallerkner
-  * Rosti Margrethe skåle 350 ml
-  * Smykke renser ultralyd
-  * Cover til Samsung Galaxy III mini (GT-I8190N)
-  * Karen blixen, forsølvet: 
-    * Snemandspar
-    * Bord forsølvet
-    * Luciaootog
-    * Dobbelthjerte
+* Elisabeth arden parfume
+* Tallerkenrække hvid til min 6 tallerkner
+* Rosti Margrethe skåle 350 ml
+* Smykke renser ultralyd
+* Cover til Samsung Galaxy III mini (GT-I8190N)
+* Karen blixen, forsølvet: 
+  * Snemandspar
+  * Bord forsølvet
+  * Luciaootog
+  * Dobbelthjerte
 
 ## Jeg ønsker mig
 
