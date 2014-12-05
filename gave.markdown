@@ -2,7 +2,7 @@
 layout: page
 title: "Ønske seddel"
 description: "for Christian og Heidi"
-header-img: "http://upload.wikimedia.org/wikipedia/commons/4/45/ChristmasMarketJena.jpg"
+header-img: "img/about-bg.jpg"
 ---
 # Fælles ønsker
 
