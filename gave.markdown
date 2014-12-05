@@ -6,9 +6,7 @@ header-img: "img/about-bg.jpg"
 ---
 # Fælles ønsker
 
-* Gavekort til El-giganten, vi ønsker os en opvaskermaskine.</li>
-* Wok gryde
-* George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
+* Gavekort .. gerne et [supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
 
 ## Heidi's ønsker
 
@@ -22,6 +20,7 @@ Aftal venligst med Christian (42688641)
 * Elisabeth arden parfume
 * Tallerkenrække hvid til min 6 tallerkner
 * Rosti Margrethe skåle 350 ml
+* George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
 * Smykke renser ultralyd
 * Cover til Samsung Galaxy III mini (GT-I8190N)
 * Karen blixen, forsølvet: 
