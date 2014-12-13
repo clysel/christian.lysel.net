@@ -21,8 +21,6 @@ Aftal venligst med Christian (42688641)
 * Tallerkenrække hvid til min 6 tallerkner
 * Rosti Margrethe skåle 350 ml
 * George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
-* Smykke renser ultralyd
-* Cover til Samsung Galaxy III mini (GT-I8190N)
 * Karen blixen, forsølvet: 
   * Snemandspar
   * Bord forsølvet
