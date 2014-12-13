@@ -12,7 +12,7 @@ header-img: "img/about-bg.jpg"
 
 Aftal venligst med Christian (42688641)
 
-* Håndtag til cyklen, barens avenue, aluminium sort
+* Håndtag til cyklen, barens avenue, aluminium sort [cykelpartner.dk](http://www.cykelpartner.dk/barends-avenue-aluminium-sort_A610108.html)
 * Øreringe
 * Armbånd (som ikke niver Christian)
 * Smart boks: smuk & dejlig, ansigsbehandling, en skøn behandling
