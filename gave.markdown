@@ -41,6 +41,7 @@ Aftal venligst med Heidi
 * Standley quick bordskruestik [harald-nyborg best. nr 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
 * Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
 * Selvportræt af gavegiveren
+* Rense snort til våben (http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)[jagtogvildt.dk]
 * Motorcykel dele:
   * 4 stk [Plastik skrue (1ux)](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0)
   * 4 stk [Bolt 8J2](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0)
