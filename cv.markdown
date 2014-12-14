@@ -2,7 +2,7 @@
 layout: page
 title: "CV"
 description: "CV"
-header-img: "img/home-bg.jpg"
+header-img: "https://cloud.githubusercontent.com/assets/7600428/3707353/005c6272-1434-11e4-9817-b61ef4f43fc7.jpg"
 ---
 # test
 [PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
