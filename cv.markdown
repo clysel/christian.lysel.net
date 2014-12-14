@@ -2,16 +2,16 @@
 layout: page
 title: "CV"
 description: "CV"
-header-img: "https://cloud.githubusercontent.com/assets/7600428/3707353/005c6272-1434-11e4-9817-b61ef4f43fc7.jpg"
+header-img: "img/home-bg.jpg"
 ---
 # test
 [PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
 
 Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har jeg mere end 18 års erfaring inden for drift og fejlsøgning af Linux, HPUX, Windows, Storage, Virtualisering, Firewall/VPN, netværk/Wifi. Er vellidt blandt kunder og kolleger, og er drevet af både at lære nyt og lære fra sig.
 
-Erhvervserfaring (et udvalg)
+## Erhvervserfaring (et udvalg)
 
-2003-2014 Server Network/Storage specialist, TOP-TOY A/S
+### 2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
   * Automatisering af vedligeholdelsesopgaver og overvågning.
   * 1. Level support til kollegaer på kontor og i butik.
@@ -19,38 +19,38 @@ Erhvervserfaring (et udvalg)
   * 3. Level support til leverandører.
   * Vagtordning for centrale IT systemer og 300 nordeuropæriske butikker.
 
-Resultater
+#### Resultater
   * Automatiseret installation og konfiguration af mere end 2000 Linux server, WiFi controller, Firewall/VPN gateways,   Procurve switche og Cisco VoIP WiFi telefoner.
   * Designet og implementeret OSPF redundant i netværket.
   * Implementeret 60.000m2 Wi-Fi dækning.
   * Teknisk ansvar for udrulningen af wireless og 1.000 video skærme til 200 butikker.
 
-2001-2002, Senior Sikkerhedskonsulent, VM-data.
+### 2001-2002, Senior Sikkerhedskonsulent, VM-data.
   * Salg, design, implementation, dokumentation og drift af Firewall/VPN, netvær, tofaktor brugervalidering og virusscan.
   * 3. Level support for Facility management's kunder.
 
-Resultater
+#### Resultater
   * En kunde kørte rundt med Facility management, og krævede ekstra ydelser, pga dårlig performance. Efter en grundig test af performance og redesign, kunne jeg lukke sagen.
 
-1999-2001 Sikkerhedskonsulent, Ubizen A/S. 
+### 1999-2001 Sikkerhedskonsulent, Ubizen A/S. 
 
-1998-1999 Systemadministrator, Vestegnens Handelsskole.
+### 1998-1999 Systemadministrator, Vestegnens Handelsskole.
 * Systemadministration af Novell og Windows. Desktop administration.
 
-1997-1997 Sikkerhedskonsulent, Scandinavian Security Center.
+### 1997-1997 Sikkerhedskonsulent, Scandinavian Security Center.
 * Installation af sikkerhedsløsninger for TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk's kunder
 
-1997-nu Ejer og konsulent, Spindelnet
+### 1997-nu Ejer og konsulent, Spindelnet
 * Opsætning og drift af 200 wordpress blogs for nordens største bladudgiver.
 * Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og værktøj fra tankstationer.
 * Drifte og fejlsøgning af Firewall/VPN, netværk og servere for Slangerup Kommune, Græsted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.
  
-Uddannelse
+## Uddannelse
 
 1993-1996 Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
 1990-1993 Greve Gymnasium. Matematisk student.
 
-Kurser (et udvalg)
+## Kurser (et udvalg)
 
 * Brandbekæmpelse og Evakuering
 * Project Management Awareness Training
@@ -60,22 +60,22 @@ Kurser (et udvalg)
 * HP StorageWorks P4000 SAN configuration and administration.
 * Oracle 11g Fundamentals I
  
-Certificeringer
+## Certificeringer
 
 * 2013 ITIL Foundations certification v3
 * 2001 Checkpoint Firewall-1 CCSA
  
-Foredrag
+## Foredrag
 
 * 2010 digITAlis'r IT-arkitekturkonferencen Open source &ndash; hvordan?&rdquo;, [slides](/foredrag.pdf)
  
-Sprogkundskaber
+## Sprogkundskaber
 
 * Dansk: Flydende i tale og skrift.
 * Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).
 * Tyrkisk: Kendskab til dagligdagssprog.
  
-Personligt
+## Personligt
 
 Jeg bor sammen med min kæreste. I fritiden holder jeg af at opleve naturen, enten på motorcykel eller ved at dyrke min interesse for jagt.
 Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
