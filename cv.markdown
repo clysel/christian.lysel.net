@@ -4,6 +4,7 @@ title: "CV"
 description: "CV"
 header-img: "img/home-bg.jpg"
 ---
+# test
 [PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
 
 Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har jeg mere end 18 års erfaring inden for drift og fejlsøgning af Linux, HPUX, Windows, Storage, Virtualisering, Firewall/VPN, netværk/Wifi. Er vellidt blandt kunder og kolleger, og er drevet af både at lære nyt og lære fra sig.
@@ -66,10 +67,18 @@ Certificeringer
  
 Foredrag
 
-* 2010 digITAlis'r IT-arkitekturkonferencen Open source &ndash; hvordan?&rdquo;, (slides)[/foredrag.pdf]
+* 2010 digITAlis'r IT-arkitekturkonferencen Open source &ndash; hvordan?&rdquo;, [slides](/foredrag.pdf)
  
-Sprogkundskaber</span></h1><ul class="c11 lst-kix_ntqns5sixnsi-0 start"><li class="c1"><span>Dansk: Flydende i tale og skrift.</span></li><li class="c1"><span>Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).</span></li><li class="c1"><span>Tyrkisk: Kendskab til dagligdagssprog.</span></li></ul><p class="c3 c10"><span></span></p>
-<h1 class="c0"><a name="h.peh7ckou4jgb"></a><span>Personligt</span></h1><p class="c3"><span>Jeg bor sammen med min k&aelig;reste.</span></p><p class="c3"><span>I fritiden holder jeg af at opleve naturen, enten p&aring; motorcykel eller ved at dyrke min interesse for jagt.</span></p><p class="c3 c10"><span class="c20"></span></p><p class="c3"><span>Ikke-ryger. K&oslash;rekort A/B. F&oslash;dt 4. Maj 1974.</span>
+Sprogkundskaber
+
+* Dansk: Flydende i tale og skrift.
+* Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).
+* Tyrkisk: Kendskab til dagligdagssprog.
+ 
+Personligt
+
+Jeg bor sammen med min kæreste. I fritiden holder jeg af at opleve naturen, enten på motorcykel eller ved at dyrke min interesse for jagt.
+Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
