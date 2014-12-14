@@ -8,6 +8,9 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 
 ## Erhvervserfaring (et udvalg)
 
+### 2014-Nu IST Danmark
+  * Drift af web frontend, backend, varnish, databaser, firewall, netværk, Windows server. overvågning, backup.
+
 ### 2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
   * Automatisering af vedligeholdelsesopgaver og overvågning.
