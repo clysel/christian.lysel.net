@@ -27,7 +27,7 @@ Aftal venligst med Christian (42688641)
   * Luciaootog
   * Dobbelthjerte
 
-## Jeg ønsker mig
+## Christian's ønsker
 
 Aftal venligst med Heidi
 
@@ -37,6 +37,7 @@ Aftal venligst med Heidi
 * Slibebånd, Harald nyborg [K120 Best.nr. 4158](http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120), [K80 Best.nr. 4159](http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80), [K60 Best.nr. 4160](http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60)
 * T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
 * Chromecast [Elgiganten](http://www.elgiganten.dk/product/tv-radio/streaming-og-medieafspiller/CHROMECAST/chromecast-inkl-3-maneder-viaplay)
+Trykluft minislibesæt [harald-nybord Best.nr. 5463](http://www.harald-nyborg.dk/p5463/stanley-trykluft-minislibesaet)
 * Standley quick bordskruestik [harald-nyborg best. nr 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
 * Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
 * Selvportræt af gavegiveren
