@@ -31,10 +31,9 @@ Aftal venligst med Christian (42688641)
 
 Aftal venligst med Heidi
 
-* CD - Sting - the last ship. 2013
-* CD'er med Laleh Pourkarim
+* CD'er med Laleh Pourkarim minus "Sjung".
+* CD'er med Johann Pachelbel.
 * T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
-* Oplevelser
 * Chromecast [Elgiganten](http://www.elgiganten.dk/product/tv-radio/streaming-og-medieafspiller/CHROMECAST/chromecast-inkl-3-maneder-viaplay)
 * Standley quick bordskruestik [harald-nyborg best. nr 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
 * Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
