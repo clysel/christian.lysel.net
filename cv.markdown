@@ -77,7 +77,11 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 Jeg bor sammen med min kæreste. I fritiden holder jeg af at opleve naturen, enten på motorcykel eller ved at dyrke min interesse for jagt.
 Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
+## PDF version
+
 [PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
+
+## Tidshistorie
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
 
