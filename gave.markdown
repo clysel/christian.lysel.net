@@ -33,19 +33,20 @@ Aftal venligst med Heidi
 
 * CD'er med Laleh Pourkarim minus "Sjung".
 * CD'er med Johann Pachelbel.
-* Båndsliber, fx [harald-nyborg SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt)
-* Slibebånd, Harald nyborg [K120 Best.nr. 4158](http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120), [K80 Best.nr. 4159](http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80), [K60 Best.nr. 4160](http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60)
+* Rense snort til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
+* Harald-nyborg
+  * Filesæt, [Best.nr. 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
+  * Båndsliber, fx [SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt)
+  * Slibebånd, [K120 Best.nr. 4158](http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120), [K80 Best.nr. 4159](http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80), [K60 Best.nr. 4160](http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60)
+  * Trykluft minislibesæt [Best.nr. 5463](http://www.harald-nyborg.dk/p5463/stanley-trykluft-minislibesaet)
+  * Standley quick bordskruestik [Best.nr. 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
+* Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
 * T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
 * Chromecast [Elgiganten](http://www.elgiganten.dk/product/tv-radio/streaming-og-medieafspiller/CHROMECAST/chromecast-inkl-3-maneder-viaplay)
-Trykluft minislibesæt [harald-nybord Best.nr. 5463](http://www.harald-nyborg.dk/p5463/stanley-trykluft-minislibesaet)
-* Standley quick bordskruestik [harald-nyborg best. nr 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
-* Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
 * Selvportræt af gavegiveren
-* Rense snort til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
 * Motorcykel dele:
   * 4 stk [Plastik skrue (1ux)](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0)
   * 4 stk [Bolt 8J2](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0)
-* Filesæt, fx fra [harald-nyborg best. nr 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
 * Sol luftvarmer til garagen
 
 ## Huske liste
