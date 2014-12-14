@@ -33,6 +33,8 @@ Aftal venligst med Heidi
 
 * CD'er med Laleh Pourkarim minus "Sjung".
 * CD'er med Johann Pachelbel.
+* Båndsliber, fx (harald-nyborg SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587)[http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt]
+* Slibebånd, (K120 Best.nr. 4158)[http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120], (K80 Best.nr. 4159)[http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80], (K60 Best.nr. 4160)[http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60]
 * T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
 * Chromecast [Elgiganten](http://www.elgiganten.dk/product/tv-radio/streaming-og-medieafspiller/CHROMECAST/chromecast-inkl-3-maneder-viaplay)
 * Standley quick bordskruestik [harald-nyborg best. nr 1323](http://www.harald-nyborg.dk/p1323/stanley-quick-bordskruestik)
