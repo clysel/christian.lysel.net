@@ -1,12 +1,9 @@
 ---
 layout: page
 title: "CV"
-description: "CV"
+description: "for Christian E. Lysel"
 header-img: "img/home-bg.jpg"
 ---
-# test
-[PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
-
 Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har jeg mere end 18 års erfaring inden for drift og fejlsøgning af Linux, HPUX, Windows, Storage, Virtualisering, Firewall/VPN, netværk/Wifi. Er vellidt blandt kunder og kolleger, og er drevet af både at lære nyt og lære fra sig.
 
 ## Erhvervserfaring (et udvalg)
@@ -80,6 +77,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 Jeg bor sammen med min kæreste. I fritiden holder jeg af at opleve naturen, enten på motorcykel eller ved at dyrke min interesse for jagt.
 Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
+[PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
 
