@@ -14,9 +14,9 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 ### 2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
   * Automatisering af vedligeholdelsesopgaver og overvågning.
-  * 1. Level support til kollegaer på kontor og i butik.
-  * 2. Level support til service desk og kolleger.
-  * 3. Level support til leverandører.
+  * 1st Level support til kollegaer på kontor og i butik.
+  * 2nd Level support til service desk og kolleger.
+  * 3th Level support til leverandører.
   * Vagtordning for centrale IT systemer og 300 nordeuropæriske butikker.
 
 #### Resultater
