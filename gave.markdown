@@ -33,7 +33,7 @@ Aftal venligst med Heidi
 
 * CD'er med Laleh Pourkarim minus "Sjung".
 * CD'er med Johann Pachelbel.
-* Rense snort til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
+* Rense snor til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
 * Harald-nyborg
   * Filesæt, [Best.nr. 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
   * Båndsliber, fx [SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt)
