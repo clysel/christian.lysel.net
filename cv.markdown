@@ -4,8 +4,6 @@ title: "CV"
 description: "CV"
 header-img: "img/home-bg.jpg"
 ---
-= CV for Christian E. Lysel
-
 [PDF version](https://drive.google.com/file/d/0B0TUONfhnX--al9iYkpHWHJyeGc/edit?usp=sharing)
 
 Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har jeg mere end 18 års erfaring inden for drift og fejlsøgning af Linux, HPUX, Windows, Storage, Virtualisering, Firewall/VPN, netværk/Wifi. Er vellidt blandt kunder og kolleger, og er drevet af både at lære nyt og lære fra sig.
