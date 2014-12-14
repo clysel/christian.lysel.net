@@ -64,7 +64,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
  
 ## Foredrag
 
-* 2010 digITAlis'r IT-arkitekturkonferencen Open source &ndash; hvordan?&rdquo;, [slides](/foredrag.pdf)
+* 2010 digITAlis'r IT-arkitekturkonferencen, titel: "Open source? hvordan?" [slides](/foredrag.pdf)
  
 ## Sprogkundskaber
 
