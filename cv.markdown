@@ -12,24 +12,65 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 
 Erhvervserfaring (et udvalg)
 
-* 2003-2014 Server Network/Storage specialist, TOP-TOY A/S.
+2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
-  * Automatisering af vedligeholdelsesopgaver og overvågning
+  * Automatisering af vedligeholdelsesopgaver og overvågning.
   * 1. Level support til kollegaer på kontor og i butik.
   * 2. Level support til service desk og kolleger.
   * 3. Level support til leverandører.
   * Vagtordning for centrale IT systemer og 300 nordeuropæriske butikker.
-  Resultater
-  * Automatiseret installation og konfiguration af mere end 2000 Linux server, WiFi controller, Firewall/VPN gateways, Procurve switche og Cisco VoIP WiFi telefoner.
+
+Resultater
+  * Automatiseret installation og konfiguration af mere end 2000 Linux server, WiFi controller, Firewall/VPN gateways,   Procurve switche og Cisco VoIP WiFi telefoner.
   * Designet og implementeret OSPF redundant i netværket.
   * Implementeret 60.000m2 Wi-Fi dækning.
   * Teknisk ansvar for udrulningen af wireless og 1.000 video skærme til 200 butikker.
-* 2001-2002 Senior Sikkerhedskonsulent, VM-data.
+
+2001-2002, Senior Sikkerhedskonsulent, VM-data.
   * Salg, design, implementation, dokumentation og drift af Firewall/VPN, netvær, tofaktor brugervalidering og virusscan.
   * 3. Level support for Facility management's kunder.
-  Resultater
+
+Resultater
   * En kunde kørte rundt med Facility management, og krævede ekstra ydelser, pga dårlig performance. Efter en grundig test af performance og redesign, kunne jeg lukke sagen.
-  Sikkerhedskonsulent, Ubizen A/S. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999-2001&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h2><h2 class="c0"><a name="h.peux72fyk558"></a><span>Systemadministrator, Vestegnens Handelsskole.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998-1999</span></h2><ul class="c11 lst-kix_25s552wfbfcb-0 start"><li class="c1"><span class="c2">Systemadministration af Novell og Windows. Desktop administration.</span></li></ul><h2 class="c0"><a name="h.aapgwandhl7"></a><span>Sikkerhedskonsulent, Scandinavian Security Center.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1997-1997</span></h2><ul class="c11 lst-kix_1hkpnnug7iej-0 start"><li class="c1"><span class="c2">Installation af sikkerhedsl&oslash;sninger for </span><span class="c2 c13">TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk&rsquo;s kunder.</span></li></ul><h2 class="c0"><a name="h.h9mdwugojgs4"></a><span>Ejer og konsulent, Spindelnet.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1997- nu</span></h2><ul class="c11 lst-kix_kk4imsp2m9n1-0 start"><li class="c1"><span class="c2">Ops&aelig;tning og drift af 200 wordpress blogs for nordens st&oslash;rste bladudgiver.</span></li><li class="c1"><span class="c2">Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og v&aelig;rkt&oslash;j fra tankstationer.</span></li></ul><ul class="c11 lst-kix_cixlqerdxqkv-0 start"><li class="c1"><span class="c2">Drifte og fejls&oslash;gning af Firewall/VPN, netv&aelig;rk og servere for Slangerup Kommune, Gr&aelig;sted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.</span></li></ul><p class="c3 c10"><span></span></p><h1 class="c0"><a name="h.jk0cjgvi1zp7"></a><span>Uddannelse</span></h1><p class="c3"><span>1993-1996&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datalogisk Institut ved K&oslash;benhavns Universitetet. </span><span>Uafsluttet bachelor.</span></p><p class="c3"><span>1990-1993&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greve Gymnasium. Matematisk student.</span></p><p class="c3 c10 c14"><span></span></p><h1 class="c0"><a name="h.lcj9vrw8hgsc"></a><span>Kurser (et udvalg)</span></h1><p class="c3"><span>2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brandbek&aelig;mpelse og Evakuering</span></p><p class="c3"><span>2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Management Awareness Training</span></p><p class="c3"><span>2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMware vSphere Optimize and Scale 5.1</span></p><p class="c3"><span>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMware vSphere: Fast Track 5.0</span></p><p class="c3"><span>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paloalto Firewall 4.1 Essentials </span></p><p class="c3"><span>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HP StorageWorks P4000 SAN configuration and administration.</span></p><p class="c3"><span>2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oracle 11g Fundamentals I</span><sup><a href="#cmnt2" name="cmnt_ref2">[b]</a></sup></p><p class="c3 c10"><span></span></p><h1 class="c0"><a name="h.qkzbze17ts13"></a><span>Certificeringer</span></h1><p class="c3"><span>2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITIL Foundations certification v3</span></p><p class="c3"><span>2001&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Checkpoint Firewall-1 CCSA</span></p><p class="c3 c10"><span></span></p><h1 class="c0"><a name="h.40i3s6cppw7a"></a><span>Foredrag</span></h1><p class="c3 c14"><span>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;digITAlis&eacute;r IT-arkitekturkonferencen</span></p><p class="c3 c7"><span class="c15">&ldquo;Open source &ndash; hvordan?&rdquo;, slides </span><span class="c9"><a class="c18" href="http://www.google.com/url?q=http%3A%2F%2Fchristian.lysel.net%2Ffordrag.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEABli0OjvvkfFwxhROproTIhIABQ">http://christian.lysel.net/foredrag.pdf</a></span></p><p class="c3 c10 c14"><span></span></p><h1 class="c0"><a name="h.2bj9iwjy1m4f"></a><span>Sprogkundskaber</span></h1><ul class="c11 lst-kix_ntqns5sixnsi-0 start"><li class="c1"><span>Dansk: Flydende i tale og skrift.</span></li><li class="c1"><span>Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).</span></li><li class="c1"><span>Tyrkisk: Kendskab til dagligdagssprog.</span></li></ul><p class="c3 c10"><span></span></p>
+
+1999-2001 Sikkerhedskonsulent, Ubizen A/S. 
+
+1998-1999 Systemadministrator, Vestegnens Handelsskole.
+* Systemadministration af Novell og Windows. Desktop administration.
+
+1997-1997 Sikkerhedskonsulent, Scandinavian Security Center.
+* Installation af sikkerhedsløsninger for TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk's kunder
+
+1997-nu Ejer og konsulent, Spindelnet
+* Opsætning og drift af 200 wordpress blogs for nordens største bladudgiver.
+* Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og værktøj fra tankstationer.
+* Drifte og fejlsøgning af Firewall/VPN, netværk og servere for Slangerup Kommune, Græsted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.
+ 
+Uddannelse
+
+1993-1996 Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
+1990-1993 Greve Gymnasium. Matematisk student.
+
+Kurser (et udvalg)
+
+* Brandbekæmpelse og Evakuering
+* Project Management Awareness Training
+* VMware vSphere Optimize and Scale 5.1
+* VMware vSphere: Fast Track 5.0
+* Paloalto Firewall 4.1 Essentials
+* HP StorageWorks P4000 SAN configuration and administration.
+* Oracle 11g Fundamentals I
+ 
+Certificeringer
+
+* 2013 ITIL Foundations certification v3
+* 2001 Checkpoint Firewall-1 CCSA
+ 
+Foredrag
+
+* 2010 digITAlis'r IT-arkitekturkonferencen Open source &ndash; hvordan?&rdquo;, (slides)[/foredrag.pdf]
+ 
+Sprogkundskaber</span></h1><ul class="c11 lst-kix_ntqns5sixnsi-0 start"><li class="c1"><span>Dansk: Flydende i tale og skrift.</span></li><li class="c1"><span>Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).</span></li><li class="c1"><span>Tyrkisk: Kendskab til dagligdagssprog.</span></li></ul><p class="c3 c10"><span></span></p>
 <h1 class="c0"><a name="h.peh7ckou4jgb"></a><span>Personligt</span></h1><p class="c3"><span>Jeg bor sammen med min k&aelig;reste.</span></p><p class="c3"><span>I fritiden holder jeg af at opleve naturen, enten p&aring; motorcykel eller ved at dyrke min interesse for jagt.</span></p><p class="c3 c10"><span class="c20"></span></p><p class="c3"><span>Ikke-ryger. K&oslash;rekort A/B. F&oslash;dt 4. Maj 1974.</span>
 
 
