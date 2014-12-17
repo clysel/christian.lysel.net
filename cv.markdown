@@ -47,7 +47,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
  
 ## Uddannelse
 
-*1993-1996* Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
+**1993-1996** Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
 **1990-1993** Greve Gymnasium. Matematisk student.
 
 ## Kurser (et udvalg)
