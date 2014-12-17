@@ -78,7 +78,8 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
  
 ## Personligt
 
-Jeg bor sammen med min kæreste. I fritiden holder jeg af at opleve naturen, enten på motorcykel eller ved at dyrke min interesse for jagt.
+Bor sammen med min kæreste. Holder af at opleve naturen, enten på motorcykel eller ved at gå på jagt.
+
 Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
 ## PDF version
