@@ -4,10 +4,10 @@ header-img: "img/post-bg-01.jpg"
 title: "rsyslog - avoid logrotate"
 ---
 
-+{% highlight nginx %}
-+###############
-+#### RULES ####
-+###############
-+$template DailyPerHostLogs,"/log_mount/%$YEAR%/%$MONTH%/%$DAY%/%FROMHOST%/%syslogfacility-text%.%syslogseverity-text%.log"
-+*.*                             -?DailyPerHostLogs
-+{% endhighlight %}
+{% highlight nginx %}
+###############
+#### RULES ####
+###############
+$template DailyPerHostLogs,"/log_mount/%$YEAR%/%$MONTH%/%$DAY%/%FROMHOST%/%syslogfacility-text%.%syslogseverity-text%.log"
+*.*                             -?DailyPerHostLogs
+{% endhighlight %}
