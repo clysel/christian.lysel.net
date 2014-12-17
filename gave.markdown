@@ -35,6 +35,7 @@ Aftal venligst med Heidi
 * CD'er med Johann Pachelbel.
 * Rense snor til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
 * Harald-nyborg
+  * 2 styk LR44 batterier, [Best.nr. 1874](http://www.harald-nyborg.dk/p1874/kameda-alkaline-lr44-1-5v)
   * Filesæt, [Best.nr. 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
   * Båndsliber, fx [SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt)
   * Slibebånd, [K120 Best.nr. 4158](http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120), [K80 Best.nr. 4159](http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80), [K60 Best.nr. 4160](http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60)
