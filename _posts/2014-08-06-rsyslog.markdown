@@ -4,17 +4,10 @@ header-img: "img/post-bg-01.jpg"
 title: "rsyslog - avoid logrotate"
 ---
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-```bash
-###############
-#### RULES ####
-###############
-$template DailyPerHostLogs,"/log_mount/%$YEAR%/%$MONTH%/%$DAY%/%FROMHOST%/%syslogfacility-text%.%syslogseverity-text%.log"
-*.*                             -?DailyPerHostLogs
-```
-
++{% highlight nginx %}
++###############
++#### RULES ####
++###############
++$template DailyPerHostLogs,"/log_mount/%$YEAR%/%$MONTH%/%$DAY%/%FROMHOST%/%syslogfacility-text%.%syslogseverity-text%.log"
++*.*                             -?DailyPerHostLogs
++{% endhighlight %}
