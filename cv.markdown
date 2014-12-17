@@ -27,7 +27,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 
 ### 2001-2002, Senior Sikkerhedskonsulent, VM-data.
   * Salg, design, implementation, dokumentation og drift af Firewall/VPN, netvær, tofaktor brugervalidering og virusscan.
-  * 3. Level support for Facility management's kunder.
+  * 3th Level support for Facility management's kunder.
 
 #### Resultater
   * En kunde kørte rundt med Facility management, og krævede ekstra ydelser, pga dårlig performance. Efter en grundig test af performance og redesign, kunne jeg lukke sagen.
