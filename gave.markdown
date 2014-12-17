@@ -52,6 +52,6 @@ Aftal venligst med Heidi
 
 ## Huske liste
 
-* Alu/tr&aelig; vindue, toph&aelig;ngt - 131,5 x 128,5
-* Tr&aelig; d&oslash;r, garage - 81 x 203,5
+* Alu/træ vindue, tophængt - 131,5 x 128,5
+* Trædør garage - 81 x 203,5
  
