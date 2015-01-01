@@ -27,7 +27,7 @@ resetting ...
 
 ## Gain root access
 
-```
+```shell
 WS 2000 Wireless Switch 2.2.3.0-020R
 Copyright (c) Symbol Technologies, Inc. 2003, 2004. All rights reserved.
 <p>localhost login: admin
