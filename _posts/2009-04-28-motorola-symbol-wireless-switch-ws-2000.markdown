@@ -3,38 +3,46 @@ title: "Motorola /  Symbol Wireless Switch WS 2000"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
-== Default password
-   username: admin
-   password: symbol
-   
-== Reset to factory default
-<code>localhost login: NEW CFG BLOCK 0 : VALID<br />
-NEW CFG BLOCK 1 : NOT VALID</code>
-<p>WS 2000 Boot Firmware Version 2.2.3.0-020R<br />
+## Default password
+
+{% highlight}
+username: admin
+password: symbol
+{% endhighlight}
+
+## Reset to factory default
+
+{% highlight}
+localhost login: NEW CFG BLOCK 0 : VALID
+NEW CFG BLOCK 1 : NOT VALID
+WS 2000 Boot Firmware Version 2.2.3.0-020R
 Copyright(c) Symbol Technologies Inc. 2003. All rights reserved.
-<p>Press escape key to run boot firmware ......
-<p>boot> help
-<p>boot> passwd default symbol<br />
-boot> reset config<br />
+Press escape key to run boot firmware ......
+boot> help
+boot> passwd default symbol
+boot> reset config
 boot> reset system
-<p>resetting ...
-<h2>Gain root access</h2><br />
-WS 2000 Wireless Switch 2.2.3.0-020R<br />
+resetting ...
+{% endhighlight}
+
+## Gain root access
+{% highlight}
+WS 2000 Wireless Switch 2.2.3.0-020R
 Copyright (c) Symbol Technologies, Inc. 2003, 2004. All rights reserved.
-<p>localhost login: admin<br />
+<p>localhost login: admin
 Password:
-<p><code>admin>system<br />
-admin(system)>exec date | ls -alt /console<br />
-drwxr-xr-x 1 root root 512 Jan 1 2003 .<br />
-drwxr-xr-x 1 root root 512 Jan 1 2003 ..<br />
-lrwxrwxrwx 1 root root 13 Jan 1 2003 arp -> /usr/sbin/arp<br />
-lrwxrwxrwx 1 root root 22 Jan 1 2003 ccdiag -> /cellcontroller/ccdiag<br />
-lrwxrwxrwx 1 root root 23 Jan 1 2003 ccstats -> /cellcontroller/ccstats<br />
--rwxr-xr-x 1 root root 2062 Jan 1 2003 cformat<br />
--rwxr-xr-x 1 root root 48 Jan 1 2003 cfumount<br />
--r-s--x--x 1 root root 36514 Jan 1 2003 cli<br />
-lrwxrwxrwx 1 root root 9 Jan 1 2003 date -> /bin/date<br />
-lrwxrwxrwx 1 root root 7 Jan 1 2003 df -> /bin/df<br />
+admin>system
+admin(system)>exec date | ls -alt /console
+drwxr-xr-x 1 root root 512 Jan 1 2003 .
+drwxr-xr-x 1 root root 512 Jan 1 2003 ..
+lrwxrwxrwx 1 root root 13 Jan 1 2003 arp -> /usr/sbin/arp
+lrwxrwxrwx 1 root root 22 Jan 1 2003 ccdiag -> /cellcontroller/ccdiag
+lrwxrwxrwx 1 root root 23 Jan 1 2003 ccstats -> /cellcontroller/ccstats
+-rwxr-xr-x 1 root root 2062 Jan 1 2003 cformat
+-rwxr-xr-x 1 root root 48 Jan 1 2003 cfumount
+-r-s--x--x 1 root root 36514 Jan 1 2003 cli
+lrwxrwxrwx 1 root root 9 Jan 1 2003 date -> /bin/date
+lrwxrwxrwx 1 root root 7 Jan 1 2003 df -> /bin/df
 lrwxrwxrwx 1 root root 11 Jan 1 2003 du -> /usr/bin/du<br />
 -rwxr-xr-x 1 root root 2788 Jan 1 2003 ftp_cfg.sh<br />
 -rwxr-xr-x 1 root root 2361 Jan 1 2003 ftp_core.sh<br />
