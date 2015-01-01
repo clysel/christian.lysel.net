@@ -3,10 +3,11 @@ title: "Motorola /  Symbol Wireless Switch WS 2000"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
-<h2>Default password</h2><br />
-username: admin
-<p>password: symbol
-<h2>Reset to factory default</h2><br />
+== Default password
+   username: admin
+   password: symbol
+   
+== Reset to factory default
 <code>localhost login: NEW CFG BLOCK 0 : VALID<br />
 NEW CFG BLOCK 1 : NOT VALID</code>
 <p>WS 2000 Boot Firmware Version 2.2.3.0-020R<br />
