@@ -1,7 +1,7 @@
  ---
 layout:     post
 header-img: "img/post-bg-01.jpg"
-title: "rsyslog - avoid logrotate"
+title: "XML konvertering"
 ---
 
 Jeg har ledt efter et lille værktøj til at arbejde med xml og html dokumenter og faldt over xml2 som har følgende kommandoer
