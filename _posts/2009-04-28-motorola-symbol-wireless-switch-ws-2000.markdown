@@ -5,14 +5,14 @@ header-img: "img/post-bg-01.jpg"
 ---
 ## Default password
 
-{% highlight}
+```
 username: admin
 password: symbol
-{% endhighlight}
+```
 
 ## Reset to factory default
 
-{% highlight}
+```
 localhost login: NEW CFG BLOCK 0 : VALID
 NEW CFG BLOCK 1 : NOT VALID
 WS 2000 Boot Firmware Version 2.2.3.0-020R
@@ -23,10 +23,11 @@ boot> passwd default symbol
 boot> reset config
 boot> reset system
 resetting ...
-{% endhighlight}
+```
 
 ## Gain root access
-{% highlight}
+
+```
 WS 2000 Wireless Switch 2.2.3.0-020R
 Copyright (c) Symbol Technologies, Inc. 2003, 2004. All rights reserved.
 <p>localhost login: admin
@@ -55,12 +56,11 @@ lrwxrwxrwx 1 root root 17 Jan 1 2003 tcpdump -> /usr/sbin/tcpdump
 lrwxrwxrwx 1 root root 20 Jan 1 2003 traceroute -> /usr/sbin/traceroute
 admin(system)>exec date | id
 uid=0(root) gid=100(users)
-
-{% endhighlight}
+```
 
 ## Boot log
 
-{% highlight}
+```
 NEW CFG BLOCK 0 : VALID
 NEW CFG BLOCK 1 : NOT VALID
 WS 2000 Boot Firmware Version 2.2.3.0-020R
@@ -160,9 +160,9 @@ Starting Message Handler daemon
 Using led.o
 Starting pid 366, console /dev/console: '/sbin/agetty'
 Starting pid 367, console /dev/console: '/sbin/agetty'
-<p>WS 2000 Wireless Switch 2.2.3.0-020R
+WS 2000 Wireless Switch 2.2.3.0-020R
 Copyright (c) Symbol Technologies, Inc. 2003, 2004. All rights reserved.
-<p>localhost login: admin
+localhost login: admin
 Password:
 Password is same as default password, please change the password
 Enter new password:
@@ -170,4 +170,4 @@ Verify new password:
 Authentication tokens updated successfully
 Welcome to Symbol Technologies' WS 2000 Wireless Switch
 admin>
-{% endhighlight}
+```
