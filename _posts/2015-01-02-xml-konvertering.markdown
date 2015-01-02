@@ -14,5 +14,5 @@ Jeg har ledt efter et lille værktøj til at arbejde med xml og html dokumenter 
 
 [Reference manual](http://dan.egnor.name/xml2/ref)
 
-(Program eksempler)[http://dan.egnor.name/xml2/examples]
+[Program eksempler](http://dan.egnor.name/xml2/examples)
 
