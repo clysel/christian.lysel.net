@@ -12,7 +12,7 @@ Jeg har ledt efter et lille værktøj til at arbejde med xml og html dokumenter 
       csv2 - convert csv files in a flat format
       2csv - convert flat format into csv
 
-http://dan.egnor.name/xml2/ref
+[Reference manual](http://dan.egnor.name/xml2/ref)
 
-http://dan.egnor.name/xml2/examples
+(Program eksempler)[http://dan.egnor.name/xml2/examples]
 
