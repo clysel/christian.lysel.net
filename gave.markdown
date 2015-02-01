@@ -7,6 +7,7 @@ header-img: "img/about-bg.jpg"
 # Fælles ønsker
 
 * Gavekort .. gerne et [supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
+* En plæneklipper
 
 ## Heidi's ønsker
 
