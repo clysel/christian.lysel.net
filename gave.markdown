@@ -8,5 +8,6 @@ header-img: "img/about-bg.jpg"
 
 * Et [Supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
 * En plæneklipper
-* Holmegaard Idéelle, rødvin-, hvidvin-, vand- og portvins-glad ... meget gerne brugt fra [den blå avis]( http://www.dba.dk/soeg/?soeg=holmeg%C3%A5rd+id%C3%A9elle)
+* Holmegaard Idéelle Glas (rødvin-, hvidvin-, vand- og portvins-glas)[den blå avis](http://www.dba.dk/soeg/?soeg=holmeg%C3%A5rd+id%C3%A9elle)
+* Lysestage (Georg Jensens Swing)[http://www.dba.dk/soeg/?soeg=georg+jensen+lysestage+swing]
 
