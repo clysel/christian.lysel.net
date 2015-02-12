@@ -4,47 +4,9 @@ title: "Ønske seddel"
 description: "for Christian og Heidi"
 header-img: "img/about-bg.jpg"
 ---
-# Fælles ønsker
+# Bryllups ønsker
 
-* Gavekort .. gerne et [supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
+* Et [Supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
 * En plæneklipper
+* Holmegaard Idéelle, rødvin-, hvidvin-, vand- og portvins-glad ... meget gerne brugt fra [den blå avis]( http://www.dba.dk/soeg/?soeg=holmeg%C3%A5rd+id%C3%A9elle)
 
-## Heidi's ønsker
-
-Aftal venligst med Christian (42688641)
-
-* Øreringe
-* Armbånd (som ikke niver Christian)
-* Smart boks: smuk & dejlig, ansigsbehandling, en skøn behandling
-* Gode spændingsbøger
-* Tallerkenrække hvid til min 6 tallerkner
-* George Jensen: Al Fredo: Aquamarine (dyr i træ) [Bahne.dk](http://www.bahne.dk/georg-jensen-alfredo-aquamarine-saet-6-dele.html)
-* Karen blixen, forsølvet: 
-  * Lucia optog
-  * Dobbelthjerte
-
-## Christian's ønsker
-
-Aftal venligst med Heidi
-
-* CD'er med Laleh Pourkarim minus "Sjung".
-* CD'er med Johann Pachelbel.
-* Rense snor til våben [jagtogvildt.dk](http://jagtogvildt.dk/174-hoppes-boresnake-kal-30-308-30-06-300.html)
-* Harald-nyborg
-  * Filesæt, [Best.nr. 4853](http://www.harald-nyborg.dk/p4853/filesaet-5-dele)
-  * Båndsliber, fx [SELEKTA BÅNDSLIBER 900 WATT Best.nr. 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900-watt)
-  * Slibebånd, [K120 Best.nr. 4158](http://www.harald-nyborg.dk/p4158/slibebaand-75x533-mm-6-stk-k120), [K80 Best.nr. 4159](http://www.harald-nyborg.dk/p4159/slibebaand-75x533-mm-6-stk-k80), [K60 Best.nr. 4160](http://www.harald-nyborg.dk/p4160/slibebaand-75x533-mm-6-stk-k60)
-* Båndsav klinge  42 tommer 107cm [14 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-14-taender-1085-mm-p25924), [6 tænder](http://toolworld.dk/Rawlink-Bandsavsklinge-6-taender-1085-mm-p25923)
-* T-shirts og kort ærmet skjorter [venusogmarsxl.dk](http://www.venusogmarsxl.dk/catalog?section=herrer&amp;search=6xl)
-* Chromecast [Elgiganten](http://www.elgiganten.dk/product/tv-radio/streaming-og-medieafspiller/CHROMECAST/chromecast-inkl-3-maneder-viaplay)
-* Selvportræt af gavegiveren
-* Motorcykel dele:
-  * 4 stk [Plastik skrue (1ux)](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901500502400/SCREW,%20ROUND%20HEAD(1UX)&uid=0)
-  * 4 stk [Bolt 8J2](https://www.yamahamotorcyclespares.co.uk/product/YAMAHA/901790527100/NUT%20(8J2)&uid=0)
-* Sol luftvarmer til garagen
-
-## Huske liste
-
-* Alu/træ vindue, tophængt - 131,5 x 128,5
-* Trædør garage - 81 x 203,5
- 
