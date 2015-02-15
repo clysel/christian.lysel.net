@@ -10,10 +10,10 @@ header-img: "img/about-bg.jpg"
 * Klippekort til havehjælp.
 * En plæneklipper
 * Kombiovn
-* Glas [Holmegaard Idéelle](http://www.dba.dk/soeg/?soeg=holmeg%C3%A5rd+id%C3%A9elle):
-  * rødvinglad
+* Glas Holmegaard Idéelle:
+  * rødvinglas
   * hvidvinglas
   * vandglas
-  * portvin glas)
-* Lysestage [Georg Jensens Swing](http://www.dba.dk/soeg/?soeg=georg+jensen+lysestage+swing)
+  * portvinglas
+* Lysestage Georg Jensens Swing
 
