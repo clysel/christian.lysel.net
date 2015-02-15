@@ -11,9 +11,9 @@ header-img: "img/about-bg.jpg"
 * En plæneklipper
 * Kombiovn
 * Glas Holmegaard Idéelle:
-  * rødvinglas
-  * hvidvinglas
-  * vandglas
-  * portvinglas
+  * rødvinsglas
+  * hvidvinsglas
+  * vandsglas
+  * portvinsglas
 * Lysestage Georg Jensens Swing
 
