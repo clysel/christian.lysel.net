@@ -12,10 +12,7 @@ Ole koordinere 40108389
 * Klippekort til havehjælp.
 * En plæneklipper
 * Microbølge ovn [Scandomestic MG 25](http://www.skousen.dk/hvidevarer/mikroboelgeovne/fritstaaende-mikroovne/scandomestic-mig-25/)
-* Glas Holmegaard Idéelle:
-  * rødvinsglas
-  * hvidvinsglas
-  * vandsglas
-  * portvinsglas
+* Rødvinsglas [IKEA IVRIG](http://www.ikea.com/dk/da/catalog/products/70258317/)
+* Vandglas [IKEA IVRIG](http://www.ikea.com/dk/da/catalog/products/50258323/)
 * Lysestage Georg Jensens Swing
 
