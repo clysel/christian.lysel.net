@@ -11,7 +11,7 @@ Ole koordinere 40108389
 * Et [Supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
 * Klippekort til havehjælp.
 * En plæneklipper
-* Kombiovn
+* Microbølge ovn [Scandomestic MG 25](http://www.skousen.dk/hvidevarer/mikroboelgeovne/fritstaaende-mikroovne/scandomestic-mig-25/)
 * Glas Holmegaard Idéelle:
   * rødvinsglas
   * hvidvinsglas
