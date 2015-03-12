@@ -3,10 +3,10 @@ layout:     post
 title:      "Safari, ny browser til digital signatur?
 header-img: "img/post-bg-01.jpg"
 ---
-<p>Jeg l&aring; flad af grin i dag, da de i l&oslash;nafdelingen viste mig denne mail:</p>
-<blockquote><p>
-From: 	CVR <......@eogs.dk><br />
-To: .....@toptoy.dk<br />
+Jeg lå flad af grin i dag, da de i lønafdelingen viste mig denne mail:
+<blockquote>
+From: 	CVR <......@eogs.dk>
+To: .....@toptoy.dk
 Subject: 	SV: &AElig;ndring af p-numre<br />
 Date: 	Wed, 15 Apr 2009 22:44:09 +0200<br />
 Tak for din henvendelse.</p>
@@ -22,3 +22,4 @@ Tak for din henvendelse.</p>
 <p>Telefon: 3330 7700</p>
 <p>www.eogs.dk</p>
 <p>&Oslash;KONOMI- OG ERHVERVSMINISTERIET</p>
+</blockquote>
