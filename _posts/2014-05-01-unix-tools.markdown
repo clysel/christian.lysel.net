@@ -3,6 +3,7 @@ title: "UNIX tools"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
+<p>
 Print modified dates <pre>find -printf "%T@ %p\n"|sort</pre>
 Delete 7 days old files <pre>find . -type f -mtime +7 |xargs rm</pre>
 Compress 3 days old files <pre>find . -type f -mtime +3 |xargs gzip</pre>
