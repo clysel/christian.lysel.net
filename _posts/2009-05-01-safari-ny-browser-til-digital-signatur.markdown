@@ -1,6 +1,6 @@
 ---
-title: "Safari, ny browser til digital signatur?
 layout:     post
+title:      "Safari, ny browser til digital signatur?
 header-img: "img/post-bg-01.jpg"
 ---
 <p>Jeg l&aring; flad af grin i dag, da de i l&oslash;nafdelingen viste mig denne mail:</p>
@@ -22,5 +22,3 @@ Tak for din henvendelse.</p>
 <p>Telefon: 3330 7700</p>
 <p>www.eogs.dk</p>
 <p>&Oslash;KONOMI- OG ERHVERVSMINISTERIET</p>
-<p>-----Oprindelig meddelelse-----<br />
-...........</blockquote></p>
