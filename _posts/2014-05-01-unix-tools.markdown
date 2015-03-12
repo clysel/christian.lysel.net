@@ -13,7 +13,7 @@ Emulate ls&nbsp;with find
 <pre>find . -printf "%M %u %g %s\t%Ab %Ad %AH:%AM\t%Cb %Cd %CH:%CM\t%P\n"</pre><br />
 Adding timestamp to stdout
 <pre>awk &lsquo;{print strftime("%F %T",systime()),$_}&rsquo;</pre>
-Find modifed files since 30/12 14:00:
+Print modifed files since 30/12 14:00:
 <pre>touch -t 30121400  /tmp/time
 find /path -cnewer /tmp/time
 </pre>
