@@ -10,4 +10,5 @@ header-img: "img/about-bg.jpg"
 * En [brugt båndsliber](http://www.dba.dk/baandsliber-og-rondel-slibe/id-1014863237/)
 * Cykelholder til bilens anhængertræk 
 * enhåndfræser [prishammeren.dk](http://www.prishammeren.dk/shop/makita-enhaandsfraeser-5019p.html)
+* en brugt stivsav helst [dba](http://www.dba.dk/stiksav-metabo-ste-100-plu/id-1012308298/) ellers [dba](http://www.dba.dk/stiksav-bosch/id-1014975727/)
 
