@@ -1,19 +1,13 @@
 ---
 layout: page
 title: "Ønske seddel"
-description: "for Christian og Heidi"
+description: "for Christian"
 header-img: "img/about-bg.jpg"
 ---
-# Bryllups ønsker
+# Fødselsdag
 
 Ole koordinere 40108389
 
-* Et [Supergavekort](https://www.gavekortet.dk/supergiftcard.aspx)
-* Klippekort til havehjælp.
-* En plæneklipper SILVAN - Alphina Model: [BL 510 SBQ](https://eshop.silvan.dk/vare/alpina-selvkoerende-motorplaeneklipper-6) eller [BL510 SB](https://eshop.silvan.dk/vare/alpina-selvkoerende-motorplaeneklipper-4)
-* cykelholder til bilens anhængertræk 
-* Microbølge ovn [Scandomestic MG 25](http://www.skousen.dk/hvidevarer/mikroboelgeovne/fritstaaende-mikroovne/scandomestic-mig-25/)
-* Rødvinsglas [IKEA IVRIG](http://www.ikea.com/dk/da/catalog/products/70258317/)
-* Vandglas [IKEA IVRIG](http://www.ikea.com/dk/da/catalog/products/50258323/)
-* Lysestage Georg Jensens Swing
+* En tur i byen med konen (betalt af konen), en (juicyburger)[https://www.facebook.com/Boserupsjuicyburgers] og Ørkenenes sønner "Een gang til ... for Prins Knud", gerne i Koncertsalen i Tivoli
+* * cykelholder til bilens anhængertræk 
 
