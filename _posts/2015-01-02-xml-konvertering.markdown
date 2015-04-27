@@ -16,3 +16,8 @@ Jeg har ledt efter et lille værktøj til at arbejde med xml og html dokumenter 
 
 [Program eksempler](http://dan.egnor.name/xml2/examples)
 
+Andre værktøjer
+
+ * http://stedolan.github.io/jq/
+ * http://openrefine.org/index.html
+
