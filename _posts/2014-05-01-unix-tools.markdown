@@ -5,13 +5,13 @@ header-img: "img/post-bg-01.jpg"
 ---
 <p>
 Print modified dates
-  <pre>find -printf "%T@ %p\n"|sort</pre>
+  <pre>find -printf "%T@ %p\n" | sort</pre>
 
 Delete 7 days old files
  <pre>find . -type f -mtime +7 -print0 | xargs -0 rm</pre>
 
 Compress 3 days old files
- <pre>find . -type f -mtime +3 -print0 |xargs -0 gzip</pre>
+ <pre>find . -type f -mtime +3 -print0 | xargs -0 gzip</pre>
  
 Handle all file names from find
  <pre>find . -print0 | while read -d $'\0' filename  ; do some-script "$filename" ; done</pre>
