@@ -14,9 +14,7 @@ Compress 3 days old files
  <pre>find . -type f -mtime +3 -print0 |xargs -0 gzip</pre>
  
 Handle all file names from find
- <pre>
- find . -print0 | while read -d $'\0' filename  ; do some-script "$filename" ; done
- </pre>
+ <pre>find . -print0 | while read -d $'\0' filename  ; do some-script "$filename" ; done</pre>
 
 Emulate ls with find
  <pre>find . -printf "%M %u %g %s\t%Ab %Ad %AH:%AM\t%Cb %Cd %CH:%CM\t%P\n"</pre>
