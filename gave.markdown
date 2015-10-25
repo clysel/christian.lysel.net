@@ -6,11 +6,12 @@ header-img: "img/about-bg.jpg"
 ---
 # Fødselsdag
 
- * En tur i byen med konen (og betalt af konen), en [juicyburger](https://www.facebook.com/Boserupsjuicyburgers) og Ørkenenes sønner "Een gang til ... for Prins Knud", gerne i Koncertsalen i Tivoli
+ * [Båndsliber, harald-nybord 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900w-xx116)
  * Pelle og Helle ... [en håndfuld dobbelt samlemuffer](http://www.harald-nyborg.dk/p5388/samlemuffe-dobbel-2-5mm-100stk) og 10-15 m installationskabel 3X1,5
  * [IKEA rejse taske, Artikelnummer: 502.177.66](http://www.ikea.com/dk/da/catalog/products/50217766/)
- * En [brugt båndsliber](http://www.dba.dk/baandsliber-og-rondel-slibe/id-1014863237/)
  * Enhåndfræser [prishammeren.dk](http://www.prishammeren.dk/shop/makita-enhaandsfraeser-5019p.html)
+ * [Topnøgle sæt, harald-nybord 7499] (http://www.harald-nyborg.dk/p7499/stjernegaffelnoeglesaet-22-dele)
+
 
 
 
