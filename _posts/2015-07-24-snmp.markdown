@@ -4,9 +4,21 @@ header-img: "img/post-bg-01.jpg"
 title: SNMP tools
 ---
 
-Show arp table
+Installation
 {% highlight bash %}
-snmpbulkwalk -v 2c -c public -OXsq 192.168.3.3 -m BRIDGE-MIB .1.3.6.1.2.1.3.1.1.2
+sudo apt-get install snmp snmp-mibs-downloader
+sudo snmp-mibs-downloader
+sudo mv /etc/snmp/snmp.conf /etc/snmp/snmp.conf.old
+echo 'mibs: +ALL' | sudo tee /etc/snmp/snmp.conf
+mkdir -p ~/.snmp/mibs
+cd ~/.snmp/mibs
+wget ftp://ftp.cisco.com/pub/mibs/v2/v2.tar.gz
+tar xvzf v2.tar.gz
+mv auto/mibs/v2/* .
+rm -rf auto
 {% endhighlight bash %}
 
 
+Show arp table
+
+snmpbulkwalk -v 2c -c public -m +ALL -OXsq  192.168.1.1 .1.3.6.1.2.1.17.4.3.1.2
