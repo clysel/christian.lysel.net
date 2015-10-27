@@ -9,7 +9,7 @@ Installation
 sudo apt-get install snmp snmp-mibs-downloader
 sudo snmp-mibs-downloader
 sudo mv /etc/snmp/snmp.conf /etc/snmp/snmp.conf.old
-echo 'mibs: +ALL' | sudo tee /etc/snmp/snmp.conf
+echo '#mibs: ' | sudo tee /etc/snmp/snmp.conf
 mkdir -p ~/.snmp/mibs
 cd ~/.snmp/mibs
 wget ftp://ftp.cisco.com/pub/mibs/v2/v2.tar.gz
