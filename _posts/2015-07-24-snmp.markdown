@@ -5,7 +5,8 @@ title: SNMP tools
 ---
 
 Show arp table
-
+{% highlight bash %}
 snmpbulkwalk -v 2c -c public -OXsq 192.168.3.3 -m BRIDGE-MIB .1.3.6.1.2.1.3.1.1.2
+{% endhighlight bash %}
 
 
