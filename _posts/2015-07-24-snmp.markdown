@@ -6,15 +6,24 @@ title: SNMP tools
 
 Ubuntu setup
 {% highlight bash %}
+#install software
 sudo apt-get install snmp snmp-mibs-downloader
+#download mibs
 sudo snmp-mibs-downloader
+#backup old configuration
 sudo mv /etc/snmp/snmp.conf /etc/snmp/snmp.conf.old
+#create empty configuration
 echo '#mibs: ' | sudo tee /etc/snmp/snmp.conf
+#create private mibs repository
 mkdir -p ~/.snmp/mibs
 cd ~/.snmp/mibs
+#download ciscos mibs
 wget ftp://ftp.cisco.com/pub/mibs/v2/v2.tar.gz
+#unpack
 tar xvzf v2.tar.gz
+#move mibs to there right place
 mv auto/mibs/v2/* .
+#clean up
 rm -rf auto
 {% endhighlight bash %}
 
