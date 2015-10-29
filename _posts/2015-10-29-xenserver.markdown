@@ -17,6 +17,7 @@ xe vm-param-set HVM-boot-policy="" uuid=[vm uuid]
 ```
 
 Timeoff set på virtuelle maskiner kan ses med
+
 ```
 xe vm-list  params=name-label,platform,uuid|grep timeoffset: -B2
 ```
