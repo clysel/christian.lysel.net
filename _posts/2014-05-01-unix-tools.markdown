@@ -32,4 +32,4 @@ Log everything to syslog
  <pre>exec 1> >(logger -s -t $(basename $0)) 2>&1 </pre>
  
 Let wireshark anayse a realtime remote network dump
- <pre>ssh <remote-host> sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -</pre>
+ <pre>ssh user@remote-host sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -</pre>
