@@ -13,10 +13,11 @@ xe vm-param-set HVM-boot-policy="BIOS order" uuid=$vm-uuid
 Bagefter kan man rette tilbage:
 
 ```
-xe vm-param-set HVM-boot-policy="" uuid=vm-uuid
+xe vm-param-set HVM-boot-policy="" uuid=$vm-uuid
 ```
 
 Force paravirtual Ubuntu machine into single user mode:
+
 ```
 xe vm-param-set uuid=$vm-uuid PV-args="-- rw quiet console=hvc0  init=/bin/bash"
 ```
