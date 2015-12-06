@@ -3,7 +3,7 @@ title: "Mit første opensource projekt"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
-<p>S&aring; er mit <a href="http://code.google.com/p/cisco7925g-eap-tls-deployment/" target="_blank">f&oslash;rste opensource projekt</a> skudt igang.</p>
+<p>S&aring; er mit <a href="https://github.com/clysel/cisco7925g-eap-tls-deployment" target="_blank">f&oslash;rste opensource projekt</a> skudt igang.</p>
 <p>Jeg manglede et udruldningsv&aelig;rkt&oslash;j til at installere ca 1000 tr&aring;dl&oslash;se Cisco telefoner.</p>
 <p>Konsulent huset, der havde lavet telefon installationen, havde ingen kompetencer til at hj&aelig;lpe, udover "brug WPA shared secret, og konfigurer det manuelt".</p>
 <p>Derfor kikkede jeg p&aring; de forskellige standarder for Wireless sikkerhed og valget faldt p&aring; EAP-TLS, der har to svagheder:</p>
