@@ -1,7 +1,7 @@
 ---
 layout:     post
 header-img: "img/post-bg-01.jpg"
-title: XenServer triks
+title: XenServer tricks
 ---
 
 For at boote en virtuel maskine fra et CDROM drev, kræve det den skifter fra at være para vitualiseret (PV) til fuldt virtualiseret (HVM)
