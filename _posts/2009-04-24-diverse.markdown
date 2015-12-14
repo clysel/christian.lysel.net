@@ -6,21 +6,10 @@ header-img: "img/post-bg-01.jpg"
 ---
 # Diverse
 
-IT butikker
+IT butikker | [Amazon UK](http://www.amazon.co.uk) | [Amazon US](http://www.amazon.com) | [BILKA](http://www.bilka.dk) | [ComputerCity](http://www.computercity.dk) | [EDB priser](http://www.edbpriser.dk) | [elgiganten](http://www.elgiganten.dk) | [fifonetwork](http://www.fifonetwork.com) | [Fona](http://www.fona.dk) | [Merlin](http://www.merlin.dk) | [Proconsult](http://www.proconsult.dk) | [Dustin](http://www.dustin.dk)
 
- * [Amazon UK](http://www.amazon.co.uk)
- * [Amazon US](http://www.amazon.com)
- * [BILKA](http://www.bilka.dk)
- * [ComputerCity](http://www.computercity.dk)
- * [EDB priser](http://www.edbpriser.dk)
- * [elgiganten](http://www.elgiganten.dk)
- * [fifonetwork](http://www.fifonetwork.com)
- * [Fona](http://www.fona.dk)
- * [Merlin](http://www.merlin.dk)
- * [Proconsult](http://www.proconsult.dk)
- * [Dustin](http://www.dustin.dk)
-  
 Reservedele til bærbar
+
  * [Bærbar](http://bærbar.com)
  * [datamarked](http://datamarked.dk)
 
