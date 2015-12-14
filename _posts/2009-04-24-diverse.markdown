@@ -20,44 +20,44 @@ IT butikker
  * [Dustin](http://www.dustin.dk)
   
 Reservedele til bærbar
-  * [Bærbar](bærbar.com)
-  * [datamarked](datamarked.dk)
+ * [Bærbar](http://bærbar.com)
+ * [datamarked](http://datamarked.dk)
 
 Gasfyr manual
-  * [Cerapur ZSBR 3-16 A 23](www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf)
+ * [Cerapur ZSBR 3-16 A 23](http://www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf)
 
 Musik instrumenters manualer
- * [TX81Z](the-all.org/tx81z/index.html)
- * [TX81Z](www2.yamaha.co.jp/manual/pdf/emi/english/synth/TX81ZE.pdf)
- * [Roland XV-5080](www.rolandus.com/products/productdetails.aspx?ObjectId=274)
+ * [TX81Z](http://the-all.org/tx81z/index.html)
+ * [TX81Z](http://www2.yamaha.co.jp/manual/pdf/emi/english/synth/TX81ZE.pdf)
+ * [Roland XV-5080](http://www.rolandus.com/products/productdetails.aspx?ObjectId=274)
 
 Datakilder
-  * [Offentlige datakilder](digitaliser.dk/ressourcer?tabContainerResources=tabDatakildeResources#)
-  * [Adresse validering](www.ebst.dk/aws)
-  * [IANA ethernet](www.iana.org/assignments/ethernet-numbers)
-  * [IANA ports](www.iana.org/assignments/port-numbers)
-  * [IANA whois](whois.iana.org)
+ * [Offentlige datakilder](http://digitaliser.dk/ressourcer?tabContainerResources=tabDatakildeResources#)
+ * [Adresse validering](http://www.ebst.dk/aws)
+ * [IANA ethernet](http://www.iana.org/assignments/ethernet-numbers)
+ * [IANA ports](http://www.iana.org/assignments/port-numbers)
+ * [IANA whois](http://whois.iana.org)
 
 El teknik
-  * [Cubus aka valus hackeren](http://cubus-adsl.dk/elteknik/)
+ * [Cubus aka valus hackeren](http://cubus-adsl.dk/elteknik/)
 
 
 Fonte
-  * [Programmering inconsolate](http://www.levien.com/type/myfonts/inconsolata.html)
+ * [Programmering inconsolate](http://www.levien.com/type/myfonts/inconsolata.html)
 
 Virus
-  * [virustotal](http://www.virustotal.com)
-  * [jotti](http://virusscan.jotti.org)
+ * [virustotal](http://www.virustotal.com)
+ * [jotti](http://virusscan.jotti.org)
   
 PXE boot
-  * [sysresscd PXE boot](www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
+ * [sysresscd PXE boot](http://www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
 
 Wifi security
-  * [Man-in-the-Middel in tunnled authentication Protocols](eprint.iacr.org/2002/163)
-  * [Requirements for a Tunnel Based EAP Method](www.ietf.org/id/draft-ietf-emu-eaptunnel-req-03.txt)
-  * [NIST Special Publication 800-120, Recommendation for EAP Methods Used in Wireless Network Access Authentication](csrc.nist.gov/publications/nistpubs/800-120/sp800-120.pdf)
+ * [Man-in-the-Middel in tunnled authentication Protocols](http://eprint.iacr.org/2002/163)
+ * [Requirements for a Tunnel Based EAP Method](http://www.ietf.org/id/draft-ietf-emu-eaptunnel-req-03.txt)
+ * [NIST Special Publication 800-120, Recommendation for EAP Methods Used in Wireless Network Access Authentication](http://csrc.nist.gov/publications/nistpubs/800-120/sp800-120.pdf)
 
 Rejse søgemaskiner
-  * [fly momondo](www.momondo.dk)
+ * [fly momondo](http://www.momondo.dk)
   
 
