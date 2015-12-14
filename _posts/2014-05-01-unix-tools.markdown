@@ -5,7 +5,9 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 Print modified dates
-{% highlight bash %}find -printf "%T@ %p\n" | sort{% endhighlight %}
+{% highlight bash %}
+find -printf "%T@ %p\n" | sort
+{% endhighlight %}
 
 Delete 7 days old files
 {% highlight bash %}
