@@ -8,46 +8,25 @@ header-img: "img/post-bg-01.jpg"
 
 IT butikker | [Amazon UK](http://www.amazon.co.uk) | [Amazon US](http://www.amazon.com) | [BILKA](http://www.bilka.dk) | [ComputerCity](http://www.computercity.dk) | [EDB priser](http://www.edbpriser.dk) | [elgiganten](http://www.elgiganten.dk) | [fifonetwork](http://www.fifonetwork.com) | [Fona](http://www.fona.dk) | [Merlin](http://www.merlin.dk) | [Proconsult](http://www.proconsult.dk) | [Dustin](http://www.dustin.dk)
 
-Reservedele til bærbar
+Reservedele til bærbar | [Bærbar](http://bærbar.com) | [datamarked](http://datamarked.dk)
 
- * [Bærbar](http://bærbar.com)
- * [datamarked](http://datamarked.dk)
+Gasfyr manual | [Cerapur ZSBR 3-16 A 23](http://www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf)
 
-Gasfyr manual
- * [Cerapur ZSBR 3-16 A 23](http://www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf)
+Musik instrumenters manualer | [TX81Z](http://the-all.org/tx81z/index.html) | [TX81Z](http://www2.yamaha.co.jp/manual/pdf/emi/english/synth/TX81ZE.pdf) | [Roland XV-5080](http://www.rolandus.com/products/productdetails.aspx?ObjectId=274)
 
-Musik instrumenters manualer
- * [TX81Z](http://the-all.org/tx81z/index.html)
- * [TX81Z](http://www2.yamaha.co.jp/manual/pdf/emi/english/synth/TX81ZE.pdf)
- * [Roland XV-5080](http://www.rolandus.com/products/productdetails.aspx?ObjectId=274)
+Datakilder | [Offentlige datakilder](http://digitaliser.dk/ressourcer?tabContainerResources=tabDatakildeResources#) | [Adresse validering](http://www.ebst.dk/aws) | [IANA ethernet](http://www.iana.org/assignments/ethernet-numbers) | [IANA  ports](http://www.iana.org/assignments/port-numbers) | [IANA whois](http://whois.iana.org)
 
-Datakilder
- * [Offentlige datakilder](http://digitaliser.dk/ressourcer?tabContainerResources=tabDatakildeResources#)
- * [Adresse validering](http://www.ebst.dk/aws)
- * [IANA ethernet](http://www.iana.org/assignments/ethernet-numbers)
- * [IANA ports](http://www.iana.org/assignments/port-numbers)
- * [IANA whois](http://whois.iana.org)
-
-El teknik
- * [Cubus aka valus hackeren](http://cubus-adsl.dk/elteknik/)
+El teknik | [Cubus aka valus hackeren](http://cubus-adsl.dk/elteknik/)
 
 
-Fonte
- * [Programmering inconsolate](http://www.levien.com/type/myfonts/inconsolata.html)
+Font | [Programmering inconsolate](http://www.levien.com/type/myfonts/inconsolata.html)
 
-Virus
- * [virustotal](http://www.virustotal.com)
- * [jotti](http://virusscan.jotti.org)
+Virus | [virustotal](http://www.virustotal.com) | [jotti](http://virusscan.jotti.org)
   
-PXE boot
- * [sysresscd PXE boot](http://www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
+PXE boot | [sysresscd PXE boot](http://www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
 
-Wifi security
- * [Man-in-the-Middel in tunnled authentication Protocols](http://eprint.iacr.org/2002/163)
- * [Requirements for a Tunnel Based EAP Method](http://www.ietf.org/id/draft-ietf-emu-eaptunnel-req-03.txt)
- * [NIST Special Publication 800-120, Recommendation for EAP Methods Used in Wireless Network Access Authentication](http://csrc.nist.gov/publications/nistpubs/800-120/sp800-120.pdf)
+Wifi security | [Man-in-the-Middel in tunnled authentication Protocols](http://eprint.iacr.org/2002/163) | [Requirements for a Tunnel Based EAP Method](http://www.ietf.org/id/draft-ietf-emu-eaptunnel-req-03.txt) | [NIST EAP Authentication](http://csrc.nist.gov/publications/nistpubs/800-120/sp800-120.pdf)
 
-Rejse søgemaskiner
- * [fly momondo](http://www.momondo.dk)
+Rejse søgemaskiner | [fly momondo](http://www.momondo.dk) | [hotels.com](http://www.hotels.com)
   
 
