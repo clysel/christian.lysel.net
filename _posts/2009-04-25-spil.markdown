@@ -4,7 +4,7 @@ title:      "Spil"
 header-img: "img/post-bg-01.jpg"
 ---
 # Nexuiz
-Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called <a title="Alientrap - Online video game creation and collaboration" [Alientrap](www.alientrap.org). It is available for download for Windows, Mac, and Linux</p>
+Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called [Alientrap](www.alientrap.org). It is available for download for Windows, Mac, and Linux</p>
 
 ## Download
 
