@@ -35,7 +35,9 @@ Let wireshark anayse a realtime remote network dump
  <pre>ssh user@remote-host sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -</pre>
 
 Search/replace a bunch of files
- <pre>sed -i 's|search|replace|' *file*pattern*</pre>
+{% highlight bash %}
+sed -i 's|search|replace|' *file*pattern*
+{% endhighlight %}
 
 IP calculations in Perl
 {% highlight perl %}
