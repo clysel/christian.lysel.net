@@ -3,15 +3,19 @@ layout:     post
 title:      "IT indkøb"
 header-img: "img/post-bg-01.jpg"
 ---
-<ul class="xoxo blogroll">
-<li><a href="http://www.amazon.co.uk/">Amazon (UK)</a></li>
-<li><a href="http://www.amazon.com/">Amazon (US)</a></li>
-<li><a href="http://www.bilka.dk/">BILKA</a></li>
-<li><a href="http://www.computercity.dk/">Computercity</a></li>
-<li><a href="http://www.edbpriser.dk/">EDB-priser</a></li>
-<li><a href="http://www.elgiganten.dk/">El-Giganten</a></li>
-<li><a href="http://www.fifonetwork.com/">FIFI Network</a></li>
-<li><a href="http://www.fona.dk/">Fona</a></li>
-<li><a href="http://www.merlin.dk/">Merlin</a></li>
-<li><a href="http://www.proconsult.dk/">ProConsult</a></li><br />
-</ul></p>
+Diverse IT butikker
+  * [Amazon UK](www.amazon.co.uk)/">Amazon (UK)</a></li>
+  * [Amazon US](www.amazon.com)
+  * [BILKA](www.bilka.dk)
+  * [ComputerCity](www.computercity.dk)
+  * [EDB priser](www.edbpriser.dk)
+  * [elgiganten](www.elgiganten.dk)
+  * [fifonetwork](www.fifonetwork.com)
+  * [Fona](www.fona.dk)
+  * [Merlin](www.merlin.dk)
+  * [Proconsult](www.proconsult.dk)
+  * [Dustin](www.dustin.dk)
+  
+Reservedele til bærbar kan købes hos
+  * [Bærbar](bærbar.com)
+  * [datamarked](datamarked.dk)
