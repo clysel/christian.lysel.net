@@ -5,7 +5,7 @@ title: SNMP tools
 ---
 
 Ubuntu setup
-{% highlight bash %}
+```bash
 #install software
 sudo apt-get install snmp snmp-mibs-downloader
 #download mibs
@@ -25,11 +25,10 @@ tar xvzf v2.tar.gz
 mv auto/mibs/v2/* .
 #clean up
 rm -rf auto
-{% endhighlight bash %}
-
+```
 
 Show arp table
 
-{% highlight bash %}
+```bash
 snmpbulkwalk -v 2c -c public -m +ALL -OXsq  192.168.1.1 .1.3.6.1.2.1.17.4.3.1.2
-{% endhighlight bash %}
+```
