@@ -3,14 +3,19 @@ layout:     post
 title:      "Spil"
 header-img: "img/post-bg-01.jpg"
 ---
-<h2>Nexuiz</h2><br />
-Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called <a title="Alientrap - Online video game creation and collaboration" href="http://www.alientrap.org/" target="_blank">Alientrap</a>. It is available for download for Windows, Mac, and Linux</p>
-<h2>Download</h2><br />
-&nbsp;<a href="http://alientrap.org/nexuiz/downloads.php" target="_blank">alientrap.org</a></p>
-<h2>Video</h2><br />
-<a href="http://www.youtube.com/v/me3KeOj4MHY&amp;hd=1"></a></p>
+= Nexuiz
+Nexuiz is a fast paced 3d deathmatch game project created online by a team of developers called <a title="Alientrap - Online video game creation and collaboration" [Alientrap](www.alientrap.org). It is available for download for Windows, Mac, and Linux</p>
 
-<h2>Urban Terror</h2><br />
+== Download
+
+[alientrap.org](alientrap.org/nexuiz/downloads.php)
+
+== Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/me3KeOj4MHY/0.jpg)](http://www.youtube.com/watch?v=me3KeOj4MHY "Nexuiz")
+
+= Urban Terror
+
 Urban Terror&trade; is a free multiplayer first person shooter, that (thanks to ioquake3) does not require Quake III Arena. It is available for Windows, Linux and Macintosh. The current version is 4.1.</p>
 <h2><span>Download</span></h2><br />
 <a href="http://www.urbanterror.net/page.php?6" target="_blank">http://www.urbanterror.net/page.php?6</a></p>
