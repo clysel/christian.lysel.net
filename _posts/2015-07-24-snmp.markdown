@@ -5,6 +5,7 @@ title: SNMP tools
 ---
 
 Ubuntu setup
+
 ```
 #install software
 sudo apt-get install snmp snmp-mibs-downloader
@@ -28,6 +29,7 @@ rm -rf auto
 ```
 
 Show arp table
+
 
 ```
 snmpbulkwalk -v 2c -c public -m +ALL -OXsq  192.168.1.1 .1.3.6.1.2.1.17.4.3.1.2
