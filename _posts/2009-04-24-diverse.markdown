@@ -7,17 +7,17 @@ header-img: "img/post-bg-01.jpg"
 # Diverse
 
 IT butikker
-  * [Amazon UK](www.amazon.co.uk)
-  * [Amazon US](www.amazon.com)
-  * [BILKA](www.bilka.dk)
-  * [ComputerCity](www.computercity.dk)
-  * [EDB priser](www.edbpriser.dk)
-  * [elgiganten](www.elgiganten.dk)
-  * [fifonetwork](www.fifonetwork.com)
-  * [Fona](www.fona.dk)
-  * [Merlin](www.merlin.dk)
-  * [Proconsult](www.proconsult.dk)
-  * [Dustin](www.dustin.dk)
+ * [Amazon UK](http://www.amazon.co.uk)
+ * [Amazon US](http://www.amazon.com)
+ * [BILKA](http://www.bilka.dk)
+ * [ComputerCity](http://www.computercity.dk)
+ * [EDB priser](http://www.edbpriser.dk)
+ * [elgiganten](http://www.elgiganten.dk)
+ * [fifonetwork](http://www.fifonetwork.com)
+ * [Fona](http://www.fona.dk)
+ * [Merlin](http://www.merlin.dk)
+ * [Proconsult](http://www.proconsult.dk)
+ * [Dustin](http://www.dustin.dk)
   
 Reservedele til bærbar
   * [Bærbar](bærbar.com)
@@ -39,15 +39,15 @@ Datakilder
   * [IANA whois](whois.iana.org)
 
 El teknik
-  * [Cubus aka valus hackeren](cubus-adsl.dk/elteknik/)
+  * [Cubus aka valus hackeren](http://cubus-adsl.dk/elteknik/)
 
 
 Fonte
-  * [Programmering inconsolate](www.levien.com/type/myfonts/inconsolata.html)
+  * [Programmering inconsolate](http://www.levien.com/type/myfonts/inconsolata.html)
 
 Virus
-  * [virustotal](www.virustotal.com)
-  * [jotti](virusscan.jotti.org)
+  * [virustotal](http://www.virustotal.com)
+  * [jotti](http://virusscan.jotti.org)
   
 PXE boot
   * [sysresscd PXE boot](www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
