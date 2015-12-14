@@ -4,6 +4,61 @@ title:      "Diverse"
 subtitle:   "En gammel bookmark fil"
 header-img: "img/post-bg-01.jpg"
 ---
+# Diverse
+
+IT butikker
+  * [Amazon UK](www.amazon.co.uk)
+  * [Amazon US](www.amazon.com)
+  * [BILKA](www.bilka.dk)
+  * [ComputerCity](www.computercity.dk)
+  * [EDB priser](www.edbpriser.dk)
+  * [elgiganten](www.elgiganten.dk)
+  * [fifonetwork](www.fifonetwork.com)
+  * [Fona](www.fona.dk)
+  * [Merlin](www.merlin.dk)
+  * [Proconsult](www.proconsult.dk)
+  * [Dustin](www.dustin.dk)
+  
+Reservedele til bærbar
+  * [Bærbar](bærbar.com)
+  * [datamarked](datamarked.dk)
+
+Gasfyr manual
+  * [Cerapur ZSBR 3-16 A 23](www.bosch-climate.dk/files/201107061116060.4.%20CeraPur%20ZSBR%203-16%207-28%20ZBR%2011-42.pdf)
+
+Musik instrumenters manualer
+ * [TX81Z](the-all.org/tx81z/index.html)
+ * [TX81Z](www2.yamaha.co.jp/manual/pdf/emi/english/synth/TX81ZE.pdf)
+ * [Roland XV-5080](www.rolandus.com/products/productdetails.aspx?ObjectId=274)
+
+Datakilder
+  * [Offentlige datakilder](digitaliser.dk/ressourcer?tabContainerResources=tabDatakildeResources#)
+  * [Adresse validering](www.ebst.dk/aws)
+  * [IANA ethernet](www.iana.org/assignments/ethernet-numbers)
+  * [IANA ports](www.iana.org/assignments/port-numbers)
+  * [IANA whois](whois.iana.org)
+
+El teknik
+  * [Cubus aka valus hackeren](cubus-adsl.dk/elteknik/)
+
+
+Fonte
+  * [Programmering inconsolate](www.levien.com/type/myfonts/inconsolata.html)
+
+Virus
+  * [virustotal](www.virustotal.com)
+  * [jotti](virusscan.jotti.org)
+  
+PXE boot
+  * [sysresscd PXE boot](www.sysresccd.org/Sysresccd-manual-en_Manage_remote_windows_linux_servers_using_SystemRescueCd#How_to_configure_SystemRescueCd_on_your_network)
+
+Wifi security
+  * [Man-in-the-Middel in tunnled authentication Protocols](eprint.iacr.org/2002/163)
+  * [Requirements for a Tunnel Based EAP Method](www.ietf.org/id/draft-ietf-emu-eaptunnel-req-03.txt)
+  * [NIST Special Publication 800-120, Recommendation for EAP Methods Used in Wireless Network Access Authentication](csrc.nist.gov/publications/nistpubs/800-120/sp800-120.pdf)
+
+
+
 <h1>Bookmarks</h1></p>
 <h1>Bookmarks Menu</h1></p>
 <dl>
