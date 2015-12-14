@@ -4,7 +4,7 @@ title: "Ønske seddel"
 description: "for Christian"
 header-img: "img/about-bg.jpg"
 ---
-# Fødselsdag
+# Ønsker
 
  * [Båndsliber, harald-nybord 5587](http://www.harald-nyborg.dk/p5587/selekta-baandsliber-900w-xx116)
  * [Fastholdetænger harald-nyborg 1671](http://www.harald-nyborg.dk/p1671/fastholdetaenger-i-saet)
