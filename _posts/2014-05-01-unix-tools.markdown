@@ -3,36 +3,56 @@ title: "UNIX tools"
 layout:     post
 header-img: "img/post-bg-01.jpg"
 ---
-<p>
+
 Print modified dates
-  <pre>find -printf "%T@ %p\n" | sort</pre>
+{% highlight bash %}
+find -printf "%T@ %p\n" | sort
+{% endhighlight %}
 
 Delete 7 days old files
- <pre>find . -type f -mtime +7 -print0 | xargs -0 rm</pre>
+{% highlight bash %}
+find . -type f -mtime +7 -print0 | xargs -0 rm
+{% endhighlight %}
 
 Compress 3 days old files
- <pre>find . -type f -mtime +3 -print0 | xargs -0 gzip</pre>
- 
+{% highlight bash %}
+find . -type f -mtime +3 -print0 | xargs -0 gzip
+{% endhighlight %}
+
 Handle all file names from find
- <pre>find . -print0 | while read -d $'\0' filename  ; do some-script "$filename" ; done</pre>
+{% highlight bash %}
+find . -print0 | while read -d $'\0' filename  ; do some-script "$filename" ; done
+{% endhighlight %}
 
 Emulate ls with find
- <pre>find . -printf "%M %u %g %s\t%Ab %Ad %AH:%AM\t%Cb %Cd %CH:%CM\t%P\n"</pre>
- 
+{% highlight bash %}
+find . -printf "%M %u %g %s\t%Ab %Ad %AH:%AM\t%Cb %Cd %CH:%CM\t%P\n"
+{% endhighlight %}
+
 Print modifed files since 30/12 14:00
- <pre>touch -t 30121400  /tmp/time find /path -cnewer /tmp/time</pre>
- 
+{% highlight bash %}
+touch -t 30121400  /tmp/time find /path -cnewer /tmp/time
+{% endhighlight %}
+
 Adding timestamp to stdout
- <pre>awk '{print strftime("%F %T",systime()),$_}'</pre>
- 
+{% highlight bash %}
+awk '{print strftime("%F %T",systime()),$_}'
+{% endhighlight %}
+
 Parallel execute uptime on server1, server2 and server3
- <pre>parallel --tag --nonall -S server1,server2,server3 uptime</pre>
+{% highlight bash %}
+parallel --tag --nonall -S server1,server2,server3 uptime
+{% endhighlight %}
 
 Log everything to syslog
- <pre>exec 1> >(logger -s -t $(basename $0)) 2>&1 </pre>
- 
+{% highlight bash %}
+exec 1> >(logger -s -t $(basename $0)) 2>&1
+{% endhighlight %}
+
 Let wireshark anayse a realtime remote network dump
- <pre>ssh user@remote-host sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -</pre>
+{% highlight bash %}
+ssh user@remote-host sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -
+{% endhighlight %}
 
 Search/replace a bunch of files
 {% highlight bash %}
