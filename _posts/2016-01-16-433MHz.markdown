@@ -1,14 +1,16 @@
 ---
 layout:     post
 header-img: "img/post-bg-01.jpg"
-title: 433MHz Arduino
+title: 433MHz hacks
 ---
 
 Link samling
 
- * http://theforce.dk/rf/
+ * [Capturing and resending doorbell signal (433MHz) using an Arduino](http://theforce.dk/rf/)
  * http://fedmow349.blogspot.dk/2013/05/hacking-433mhz-rf-link-home-automation.html
  * https://github.com/sui77/rc-switch
+ * http://www.princetronics.com/how-to-read-433-mhz-codes-w-raspberry-pi-433-mhz-receiver/
+ * https://arduinodiy.wordpress.com/2014/08/12/433-mhz-system-for-your-arduino/
 
 RTL2832 sniffer
  * https://github.com/merbanan/rtl_433
