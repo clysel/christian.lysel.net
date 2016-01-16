@@ -7,11 +7,12 @@ title: 433MHz hacks
 Link samling
 
  * [Capturing and resending doorbell signal (433MHz) using an Arduino](http://theforce.dk/rf/)
- * http://fedmow349.blogspot.dk/2013/05/hacking-433mhz-rf-link-home-automation.html
- * https://github.com/sui77/rc-switch
- * http://www.princetronics.com/how-to-read-433-mhz-codes-w-raspberry-pi-433-mhz-receiver/
- * https://arduinodiy.wordpress.com/2014/08/12/433-mhz-system-for-your-arduino/
+ * [Hacking 433MHz RF link home automation](http://fedmow349.blogspot.dk/2013/05/hacking-433mhz-rf-link-home-automation.html)
+ * [Arduino lib to operate 433/315Mhz devices like power outlet sockets](https://github.com/sui77/rc-switch)
+ * [Decode 433 MHz signals w/ Raspberry Pi & 433 MHz Receiver](http://www.princetronics.com/how-to-read-433-mhz-codes-w-raspberry-pi-433-mhz-receiver/)
+ * [433 MHz system for your Arduino](https://arduinodiy.wordpress.com/2014/08/12/433-mhz-system-for-your-arduino/)
 
 RTL2832 sniffer
 
- * https://github.com/merbanan/rtl_433
+ * [Application using librtlsdr to decode the temperature from a wireless temperature sensor (433.92MHz)
+](https://github.com/merbanan/rtl_433)
