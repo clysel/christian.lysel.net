@@ -24,3 +24,7 @@ Sending from PC
 
  * [SDR sniffing on 433MHz – AC sockets, rf remote](http://blog.luftek.si/2014/04/software-defined-radio-sniffing.html)
  * [Simple tools for handling OOK (on-off-keyed) RF transmission/reception on ISM bands](https://github.com/tandersson/rf-bitbanger)
+
+Signatures
+
+ * http://www.sigidwiki.com/wiki/Signal_Identification_Guide
