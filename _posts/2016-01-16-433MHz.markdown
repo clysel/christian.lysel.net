@@ -28,3 +28,8 @@ Sending from PC
 Signatures
 
  * http://www.sigidwiki.com/wiki/Signal_Identification_Guide
+
+Debugging with Ardiuno
+
+ * [Minipirate](https://github.com/chatelao/MiniPirate)
+ * [Logic analyser](https://github.com/gillham/logic_analyzer)
