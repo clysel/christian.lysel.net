@@ -59,6 +59,16 @@ Search/replace a bunch of files
 sed -i 's|search|replace|' *file*pattern*
 {% endhighlight %}
 
+Delete linies in a bunch of files
+{% highlight bash %}
+sed -i '/text/d' *file*pattern*
+{% endhighlight %}
+
+Generate password
+{% highlight bash %}
+tr -cd '[:alnum:]' < /dev/urandom | fold -w16 | head -n1
+{% endhighlight %}
+
 IP calculations in Perl
 {% highlight perl %}
 sub dec2ip ($) { join '.', unpack 'C4', pack 'N', shift; }
