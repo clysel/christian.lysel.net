@@ -6,9 +6,9 @@ title: XenServer tricks
 
 For at boote en virtuel maskine fra et CDROM drev, kræve det den skifter fra at være para vitualiseret (PV) til fuldt virtualiseret (HVM)
 
-''' bash
+```bash
 xe vm-param-set HVM-boot-policy="BIOS order" uuid=$vm-uuid
-'''
+```
 
 Bagefter kan man rette tilbage:
 
