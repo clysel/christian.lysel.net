@@ -11,8 +11,7 @@ facebook_username:  clysel
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:title/
-#permalink: pretty
-highlighter: pygments
+highlighter: rouge
 paginate: 15
 #exclude: ["node_modules"]
 
