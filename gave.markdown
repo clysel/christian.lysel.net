@@ -13,9 +13,9 @@ header-img: "img/about-bg.jpg"
  * Flistrøje 
  * Underbukser
  * Forskellige filament LED Pærer
-    * [Harald nybord nr 10071](http://www.harald-nyborg.dk/p10071/filament-2w-e27-globe-g45-klar)
-    * [Harald nybord nr 10074](http://www.harald-nyborg.dk/p10074/filament-4w-e27-krone-g45-klar)
-    * [Harald nybord nr 10077](http://www.harald-nyborg.dk/p10077/filament-6w-e27-a60-klar)
+    * [Harald nyborg nr 10071](http://www.harald-nyborg.dk/p10071/filament-2w-e27-globe-g45-klar)
+    * [Harald nyborg nr 10074](http://www.harald-nyborg.dk/p10074/filament-4w-e27-krone-g45-klar)
+    * [Harald nyborg nr 10077](http://www.harald-nyborg.dk/p10077/filament-6w-e27-a60-klar)
  * Tændstål [Biltema 45509](http://www.biltema.dk/da/Fritid/Friluftsliv/Knive-og-varktoj/Tandstal-2000031777/)
  * Våbentaske [Biltema 49902](http://www.biltema.dk/da/Fritid/Jagt/Vabenpleje-og-tilbehor/Vabentaske-2000034463/?artId=49902)
  * Bundstykkeetui [Biltema 49038](http://www.biltema.dk/da/Fritid/Jagt/Vabenpleje-og-tilbehor/Bundstykkeetui-2000036306/)
