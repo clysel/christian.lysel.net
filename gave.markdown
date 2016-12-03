@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 # Ønsker
 
  * Eltang [Harald](http://www.harald-nyborg.dk/p3439/jokari-afisoleringstang-aut)
- * 3D printer [Filament gerne nogle spændende farver PETG 1,75mm](https://filament23d.dk/filament-da/petg-1-75mm-da,%20petg-1.75mm,%20petg-filament)
+ * 3D printer Filament gerne nogle spændende farver PETG 1,75mm [se filament23d.dk](https://filament23d.dk/filament-da/petg-1-75mm-da,%20petg-1.75mm,%20petg-filament)
  * Flis-trøje 
  * [Bokser shorts 6xl](https://www.danskoutlet.dk/produkter/21264-underbukser/29923-klazig-boxershorts-store-str/?variantId=134346)
  * Forskellige filament LED Pærer
