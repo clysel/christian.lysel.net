@@ -7,7 +7,7 @@ description: "Helt privat"
 baseurl: ""
 twitter_username: clysel
 github_username:  clysel
-facebook_username:  clysel
+#facebook_username:  clysel
 
 # Build settings
 markdown: kramdown
