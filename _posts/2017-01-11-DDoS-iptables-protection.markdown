@@ -29,7 +29,7 @@ net.ipv4.tcp_timestamps = 0
 net.ipv4.ip_local_port_range = 1000 65535
 fs.file-max = 10000000 
 fs.nr_open = 10000000
-<<EOF
+EOF
 
 sudo tee /etc/haproxy/haproxy.cfg <<EOF
 global
