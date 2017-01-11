@@ -38,6 +38,6 @@ xe vm-install template="$new-template-name" new-name-label="$new-server-name"
 
 Backup script for clusters, xenservers or single vm's
 
-See https://github.com/clysel/scripts/blob/master/xen-backup.sh
+See [xen-backup.sh](https://github.com/clysel/scripts/blob/master/xen-backup.sh)
 
 
