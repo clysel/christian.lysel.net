@@ -36,5 +36,8 @@ xe vm-snapshot uuid=$vm-uuid new-name-label=$new-template-name
 xe vm-install template="$new-template-name" new-name-label="$new-server-name"
 ```
 
+Backup script for clusters, xenservers or single vm's
+
+See
 
 
