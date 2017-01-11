@@ -4,7 +4,7 @@ header-img: "img/post-bg-01.jpg"
 title: XenServer tricks
 ---
 
-Booting from CDROM, requeres the host is not running para vitualised (PV), but full virtualised (HVM)
+Booting from CDROM, requires the host is not running para vitualised (PV), but full virtualised (HVM)
 
 ```bash
 xe vm-param-set HVM-boot-policy="BIOS order" uuid=$vm-uuid
