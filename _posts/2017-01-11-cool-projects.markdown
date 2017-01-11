@@ -3,8 +3,8 @@ layout:     post
 title:      "Cool Projects"
 header-img: "img/post-bg-01.jpg"
 ---
-A short list of cool projects
 
+A short list of cool projects
 
   * [Many nagios plugins](https://github.com/HariSekhon/nagios-plugins)
   * [Jekyll template Poole](http://getpoole.com/)
