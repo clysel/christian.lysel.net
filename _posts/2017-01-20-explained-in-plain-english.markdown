@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Explained in plain english"
+title:      "Cloud Explained in plain english"
 header-img: "img/post-bg-01.jpg"
 ---
 
