@@ -13,6 +13,7 @@ A short list of cool projects
   * [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
   * [Apps in JSON](https://jasonette.com/)
   * [Linux GUI for Windows 10](http://www.starlig.ht/about/)
+  * [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
   
  Python
  
