@@ -7,6 +7,7 @@ title: 433MHz hacks
 Link samling
 
  * [Raspberry Pi RF harald-nyborg remote](http://npham.dk/?p=34)
+ * [ESP8266 og RF](http://www.instructables.com/id/Using-an-ESP8266-to-Control-Mains-Sockets-Using-43/)
  * [Capturing and resending doorbell signal (433MHz) using an Arduino](http://theforce.dk/rf/)
  * [Hacking 433MHz RF link home automation](http://fedmow349.blogspot.dk/2013/05/hacking-433mhz-rf-link-home-automation.html)
  * [Arduino lib to operate 433/315Mhz devices like power outlet sockets](https://github.com/sui77/rc-switch)
