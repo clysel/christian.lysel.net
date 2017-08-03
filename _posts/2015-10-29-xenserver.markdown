@@ -41,3 +41,4 @@ Backup script for clusters, xenservers or single vm's
 See [xen-backup.sh](https://github.com/clysel/scripts/blob/master/xen-backup.sh)
 
 
+[General understanding of SR and VDI](https://discussions.citrix.com/topic/352398-xenserver-62-sp1-difference-between-gb-used-and-gb-allocated-on-lun-sr/)
