@@ -5,13 +5,13 @@ header-img: "img/post-bg-01.jpg"
 ---
 Helt generelt skal man sørge for ikke at lave flere ændringer på harddisken, så længe dataerne ikke er reddet.
 
-Et godt værktøj til at kopiere en defekt disk er [dd_rescue](http://www.garloff.de/kurt/linux/ddrescue/"). 
+Et godt værktøj til at kopiere en defekt disk er [dd_rescue](http://www.garloff.de/kurt/linux/ddrescue/). 
 
 To helt gratis (under GNU licens) programmer, der kan anbefales til Linux/DOS/Windows/Mac er
 
   1. [TestDisk](http://www.cgsecurity.org/wiki/TestDisk), finder partitioner og genskabe filsystemer fra filsystemets backup. Filer kan genskabes ved at bruge filsystemet:
 
-    * [Genetablering af slettet filer fra NTFS filsystem (Windows)](http://www.cgsecurity.org/wiki/TestDisk:_undelete_file_for_NTFS).
+    * [Genetablering af slettet filer fra Windows NTFS filsystem](http://www.cgsecurity.org/wiki/TestDisk:_undelete_file_for_NTFS).
     * [Genetablering af slettet filer fra DOS filsystem](http://www.cgsecurity.org/wiki/TestDisk:_undelete_file_for_FAT).
     * [Genetablering af slettet filer fra ext2 filsystem](http://www.cgsecurity.org/wiki/TestDisk:_undelete_file_for_ext2).
 
