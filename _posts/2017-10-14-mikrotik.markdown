@@ -5,3 +5,11 @@ header-img: "img/post-bg-01.jpg"
 ---
 
 https://www.mikrotik.com/thedude
+
+safemode cli ctrl-x
+
+downloads https://mikrotik.com/download
+
+https://wiki.mikrotik.com/wiki/Main_Page
+
+
