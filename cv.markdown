@@ -63,6 +63,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
  
 ## Certificeringer
 
+* 2017 MikroTik MTCNA
 * 2013 ITIL Foundations certification v3
 * 2001 Checkpoint Firewall-1 CCSA
  
