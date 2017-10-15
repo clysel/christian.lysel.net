@@ -14,4 +14,15 @@ https://wiki.mikrotik.com/wiki/Main_Page
 
 https://wiki.mikrotik.com/wiki/Firewall
 https://wiki.mikrotik.com/wiki/Manual:IP/Firewall 
+https://wiki.mikrotik.com/wiki/Manual:Packet_Flow
 https://wiki.mikrotik.com/wiki/Manual:IP/Fasttrack
+
+QoS
+https://wiki.mikrotik.com/wiki/Manual:Queue
+
+
+wifi
+https://wiki.mikrotik.com/wiki/Manual:Spectral_scan
+
+
+https://cumulusnetworks.com/products/cumulus-linux/
