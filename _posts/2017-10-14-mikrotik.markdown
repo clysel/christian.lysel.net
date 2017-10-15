@@ -19,6 +19,7 @@ https://wiki.mikrotik.com/wiki/Manual:IP/Fasttrack
 
 QoS
 https://wiki.mikrotik.com/wiki/Manual:Queue
+https://wiki.mikrotik.com/wiki/Manual:Queues_-_Burst
 
 
 wifi
