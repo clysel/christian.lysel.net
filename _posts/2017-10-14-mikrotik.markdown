@@ -24,5 +24,8 @@ https://wiki.mikrotik.com/wiki/Manual:Queue
 wifi
 https://wiki.mikrotik.com/wiki/Manual:Spectral_scan
 
+misc
+
+https://github.com/codepill/script-utilities/tree/master/mikrotik
 
 https://cumulusnetworks.com/products/cumulus-linux/
