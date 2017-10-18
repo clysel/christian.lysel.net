@@ -43,7 +43,12 @@ touch -t 30121400  /tmp/time find /path -cnewer /tmp/time
 Adding timestamp to stdout
 
 ```bash
-awk '{print strftime("%F %T",systime()),$_}'
+gawk '{print strftime("%F %T",systime()),$_}'
+```
+
+Log which process makes disk IO over time
+```bash
+iotop -obqqqd 1 | gawk '{print strftime("%F %T",systime()),$_}'
 ```
 
 Parallel execute uptime on server1, server2 and server3
