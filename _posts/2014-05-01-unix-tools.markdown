@@ -69,6 +69,12 @@ Let wireshark anayse a realtime remote network dump
 ssh user@remote-host sudo tcpdump -U -s0 -w - 'not port 22' | wireshark -k -i -
 ```
 
+Let tcpdump remote dump locally to 50Mbyte files
+
+```bash
+ssh root@remote-host tcpdump -ni remote-interface -w - | tcpdump -r - -w /local/path//file- -C 50
+```
+
 Search/replace a bunch of files
 
 ```bash
