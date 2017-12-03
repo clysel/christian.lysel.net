@@ -1,8 +1,8 @@
 ---
 layout:     post
 header-img: "img/post-bg-01.jpg"
-title: "internet searce"
+title: "Internet Search"
 ---
 
-1. https://www.censys.io/
-2. https://dnstrails.com/
+1. [censys](https://www.censys.io/)
+2. [dnstrails](https://dnstrails.com/)
