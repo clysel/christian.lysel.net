@@ -4,7 +4,7 @@ header-img: "img/post-bg-01.jpg"
 title: DDoS Linux Protection
 ---
 
-When hitten by a DDoS attack generating 50.000 pps and your old firewall/webserver can handle it, it's easy to create a linux firewall, that easyly can handle
+When hitten by a DDoS attack generating 50.000 pps and your old firewall/webserver can't handle it, it's easy to create a linux firewall, that can easy handle
 500.000 pps with minimal CPU usage.
 
 The following examples are for Ubuntu 16.
