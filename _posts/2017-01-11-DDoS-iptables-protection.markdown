@@ -31,7 +31,7 @@ fs.file-max = 10000000
 fs.nr_open = 10000000
 EOF
 
-sudo tee /etc/haproxy/haproxy.cfg <<EOF
+sudo tee /etc/haproxy/haproxy.cfg \<\<EOF
 global
     log /dev/log    local0
     log /dev/log    local1 notice
