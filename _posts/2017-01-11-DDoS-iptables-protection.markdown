@@ -19,7 +19,7 @@ sudo apt install haproxy hatop haproxyctl vim-haproxy ipset -y
 sudo touch /var/loghaproxy.log
 sudo chown syslog.adm /var/log/haproxy.log
 #configure the TCP stack to SYNPROXY and many connections
-sudo tee /etc/sysctl.conf << EOF
+sudo tee /etc/sysctl.conf \<\<EOF
 net.ipv4.tcp_syncookies=1
 net.ipv4.tcp_timestamps=1
 net.ipv4.tcp_mem = 786432 1697152 1945728
