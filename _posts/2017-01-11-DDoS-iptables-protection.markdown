@@ -13,13 +13,13 @@ If it's a synflood, we can use Linux SYNPROXY to protect agains that, and haprox
 
 (HAProxy can also proxy http and https requests)
 
-```bash
+``` bash
 sudo apt install haproxy hatop haproxyctl vim-haproxy ipset -y
 #ubuntu haproxy bug fix
 sudo touch /var/loghaproxy.log
 sudo chown syslog.adm /var/log/haproxy.log
 #configure the TCP stack to SYNPROXY and many connections
-sudo tee /etc/sysctl.conf <<EOF
+sudo tee /etc/sysctl.conf << EOF
 net.ipv4.tcp_syncookies=1
 net.ipv4.tcp_timestamps=1
 net.ipv4.tcp_mem = 786432 1697152 1945728
@@ -76,7 +76,7 @@ EOF
 
 If we need Geoblocking, allowing only Sweden, Norway and Denmark, this can be implemted in a bridge scenario ... the protected host is 192.168.1.2:
 
-```bash
+``` bash
 #create bridge between eth0 and eth1
 sudo brctl addbr br0
 sudo brctl addif br0 eth0
@@ -97,7 +97,7 @@ And rate limits is not really a solution to this problem, but can be a help in s
 
 An example of ratelimit trafic to port 80:
 
-```bash
+``` bash
 #create bridge between eth0 and eth1
 sudo brctl addbr br0
 sudo brctl addif br0 eth0
