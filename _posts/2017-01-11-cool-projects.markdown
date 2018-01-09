@@ -14,10 +14,29 @@ A short list of cool projects
   * [Apps in JSON](https://jasonette.com/)
   * [Linux GUI for Windows 10](http://www.starlig.ht/about/)
   * [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
+  * [Write personal automation](http://anotherdevblog.net/posts/part-1-getting-started)
   
  Python
  
    * [web scraper](https://scrapy.org/)
    * [Python for android](https://github.com/kivy/python-for-android)
    * [python editor plugin](https://kite.com/)
- More will be added.
+   
+Programming
+   * [R Studio](https://www.rstudio.com/)
+ 
+Web performance 
+   * [Hot to Get 100/100 google page speed score](https://elliotec.com/how-to-get-100-google-page-speed-score/)
+   * [On the fly SSL nginx - hacker news](https://news.ycombinator.com/item?id=12128993)
+   * [On the fly SSL nginx](https://github.com/GUI/lua-resty-auto-ssl)
+   * [On the fly - HAproxy](https://github.com/tinganho/haproxy-with-letsencrypt-auto-renewal)
+    
+Security
+   * [Suricata IDS/IPS/NSM](https://suricata-ids.org/)
+   * [Keysniffer](https://www.keysniffer.net/)
+   * [BLEAH](https://github.com/evilsocket/bleah)
+   * [XRAY](https://github.com/evilsocket/xray)
+   * [wapiti fuzzy webscanner](http://wapiti.sourceforge.net/)
+   * [nikto](https://cirt.net/Nikto2)
+   
+    
