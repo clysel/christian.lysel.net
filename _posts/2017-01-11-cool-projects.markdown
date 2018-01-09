@@ -24,7 +24,8 @@ A short list of cool projects
    
 Programming
    * [R Studio](https://www.rstudio.com/)
- 
+   
+    
 Web performance 
    * [Hot to Get 100/100 google page speed score](https://elliotec.com/how-to-get-100-google-page-speed-score/)
    * [On the fly SSL nginx - hacker news](https://news.ycombinator.com/item?id=12128993)
@@ -32,6 +33,8 @@ Web performance
    * [On the fly - HAproxy](https://github.com/tinganho/haproxy-with-letsencrypt-auto-renewal)
     
 Security
+   * [censys](https://www.censys.io/)
+   * [dnstrails](https://dnstrails.com/)
    * [Suricata IDS/IPS/NSM](https://suricata-ids.org/)
    * [Keysniffer](https://www.keysniffer.net/)
    * [BLEAH](https://github.com/evilsocket/bleah)
