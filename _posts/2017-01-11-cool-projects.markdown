@@ -41,5 +41,6 @@ Security
    * [XRAY](https://github.com/evilsocket/xray)
    * [wapiti fuzzy webscanner](http://wapiti.sourceforge.net/)
    * [nikto](https://cirt.net/Nikto2)
+   * [bettercap](https://www.bettercap.org/)
    
     
