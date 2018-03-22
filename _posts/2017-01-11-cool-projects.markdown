@@ -43,6 +43,8 @@ Security
    * [nikto](https://cirt.net/Nikto2)
    * [bettercap](https://www.bettercap.org/)
    * [HULK](https://github.com/Cyb3rWard0g/HELK)
+   * [XSS examples](https://www.digitalmunition.me/2018/03/cross-site-scripting-xss-payloads-collection/)
+   * [MITM Buro](https://www.digitalmunition.me/2018/03/ssl-mitm-using-burp-suite-proxies/)
    * [mitm ipv6](https://github.com/fox-it/mitm6)
    
     
