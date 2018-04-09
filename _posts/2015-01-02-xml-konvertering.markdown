@@ -20,4 +20,5 @@ Andre værktøjer
 
  * [JQ](http://stedolan.github.io/jq/)
  * [openrefine](http://openrefine.org/index.html)
+ * [grep json](https://github.com/tomnomnom/gron/blob/master/README.mkd)
 
