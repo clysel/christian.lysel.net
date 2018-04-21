@@ -6,8 +6,7 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
-   * [SKJORTE, KORTÆRMET // MAXFORT // ARAICE17 // 6XL // Farve sand](https://www.venusogmarsxl.dk/vare/14866-maxfort-skjorte-kortaermet)
-   * [Camus Pro-Dry T-shirt (Navyblå) str 6XL](http://www.storedrenge.dk/herretoej-372/t-shirts-242/t-shirts-245/camus-pro-dry-t-shirt-navyblaa-25048.html)
+ * [Duelighedsbogen](https://www.weilbach.com/da/products/boeger/official/weilbach/duelighedsbogen)  
  * [Omslag til pocketbook touch lux 3](https://www.conradelektronik.dk/?websale8=conrad-dk&pi=1462095)
 
 
