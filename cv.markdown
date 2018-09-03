@@ -89,5 +89,5 @@ Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
 ## Tidshistorie
 
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AkTUONfhnX--dDQ2WDByckpHOEplcVp4VGNEOWR3NFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
 
