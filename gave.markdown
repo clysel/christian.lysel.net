@@ -11,5 +11,7 @@ header-img: "img/about-bg.jpg"
  * [Camel Cup](https://www.nordiskspil.dk/camel-cup)
  * [2 styk SORTIMENTKUFFERT 6,5X36X44,5CM harald nyborg 6429](https://www.harald-nyborg.dk/p6429/sortimentkuffert-6-5x36x44-5cm)
  * [Omslag til pocketbook touch lux 3](https://www.conradelektronik.dk/?websale8=conrad-dk&pi=1462095)
+ * Bukser
+ * Skjorte
 
 
