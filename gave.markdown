@@ -15,6 +15,7 @@ header-img: "img/about-bg.jpg"
  * [Omslag til pocketbook touch lux 3](https://www.conradelektronik.dk/?websale8=conrad-dk&pi=1462095)
  * Bukser, størrelse? spørg Heidi
  * Skjorte, størrelse? spørg Heidi
+ * IKEA poser,[lille](https://www.ikea.com/dk/da/catalog/products/20339284/), [mellem](https://www.ikea.com/dk/da/catalog/products/50342237/) og [stor](https://www.ikea.com/dk/da/catalog/products/80339281/)
  * [Makita akku rundsav DHS680Z 18V](https://www.10-4.dk/varer/elvaerktoj/rundsav/makita-akku-rundsav)
 
 
