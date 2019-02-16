@@ -27,7 +27,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
   * Teknisk ansvar for udrulningen af wireless og 1.000 video skærme til 200 butikker.
 
 ### 2001-2002, Senior Sikkerhedskonsulent, VM-data.
-  * Salg, design, implementation, dokumentation og drift af Firewall/VPN, netvær, tofaktor brugervalidering og virusscan.
+  * Salg, design, implementation, dokumentation og drift af Firewall/VPN, netværk, tofaktor brugervalidering og virusscan.
   * 3th Level support for Facility management's kunder.
 
 #### Resultater
@@ -36,7 +36,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 ### 1999-2001 Sikkerhedskonsulent, Ubizen A/S. 
 
 ### 1998-1999 Systemadministrator, Vestegnens Handelsskole.
-* Systemadministration af Novell og Windows. Desktop administration.
+* Systemadministration af Novell og Windows for 500 elever og 50 ansatte.
 
 ### 1997-1997 Sikkerhedskonsulent, Scandinavian Security Center.
 * Installation af sikkerhedsløsninger for TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk's kunder
