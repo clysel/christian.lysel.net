@@ -6,9 +6,10 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
- * [3 styk KETER sortimentsboks 38 x 31,5 x 6 cm](https://www.jemogfix.dk/keter-sortimentsboks-38-x-31-5-x-6-cm/3142/9037211/)
  * Brætspil [Pitch Car](https://www.hyggeonkel.dk/produkt/pitch-car)
  * Brætspil [Splendor](https://www.hyggeonkel.dk/produkt/splendor-dansk)
+ * [Bådflag](http://www.thansen.dk/fritid/marine/flag/flagspil-60cm-teak/n-286345375/pn-288537058/)
+ * [Bådflagstang](http://www.thansen.dk/fritid/marine/flag/flagspil-75cm-teak/n-286345375/pn-287026313)
  * [Lahrsten Kirsebær Mjøl](https://www.lahrsten.dk/produkter/12kirsebaermjod.html)
  * [Omslag til pocketbook touch lux 3](https://www.conradelektronik.dk/?websale8=conrad-dk&pi=1462095)
  * Bukser, størrelse? spørg Heidi
