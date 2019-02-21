@@ -48,7 +48,7 @@ strings core.*
 Start the debugger
 
 ``` bash
-gdb -c core.*
+gdb $(which nginx) core.*
 ```
 
 Read [nginx admin debugging guide](https://docs.nginx.com/nginx/admin-guide/monitoring/debugging/)
