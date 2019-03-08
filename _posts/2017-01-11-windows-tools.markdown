@@ -11,7 +11,8 @@ header-img: "img/post-bg-01.jpg"
   * [Gaming - Push and Talk](http://www.pushtotalk.nu/)
   * [Chocolatey](https://chocolatey.org/)
     * 7zip
-    * blender, freemake-video-converter
+    * blender, freemake-video-converter, camstudio
+    * CDburnerXP
     * keepass
     * burp-suite-free-edition
     * ConEmu, mobaxterm, mremoteng
