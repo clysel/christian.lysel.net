@@ -75,6 +75,29 @@ Let tcpdump remote dump locally to 50Mbyte files
 ssh root@remote-host tcpdump -ni remote-interface -w - | tcpdump -r - -w /local/path//file- -C 50
 ```
 
+Collect network meta data from sflow devices and analyse, for more information http://www.pmacct.net/ 
+```bash
+$ tee pmacctd.conf <<EOF
+daemonize: false
+interface: em1
+plugins: sfprobe, memory[a]
+! networks_file: /tmp/networks.lst
+! “aggregate” supports: src_mac,dst_mac,vlan,src_host,dst_host,
+! src_net,dst_net,src_as,dst_as,src_port,dst_port,tos,proto,
+! sum_mac,sum_host,sum_net,sum_as,sum_port,tag,class,tcpflags
+!
+aggregate[a]: src_host,dst_host,dst_port,proto
+imt_path[a]: /tmp/a
+!
+plugin_pipe_size': 100000
+plugin_buffer_size: 20000
+EOF
+
+$ sudo pmacctd -f pmacctd.conf &
+[2] 2696
+$ sudo pmacct -p /tmp/a -s -T bytes
+```
+
 Search/replace a bunch of files
 
 ```bash
