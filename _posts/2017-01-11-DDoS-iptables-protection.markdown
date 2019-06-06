@@ -112,3 +112,5 @@ iptables -A FORWARD -d $web-ip/32 -i br0 -p tcp -m physdev --physdev-is-bridged 
 iptables -A FORWARD -d $web-ip/32 -i br0 -p icmp -m physdev --physdev-is-bridged -m icmp --icmp-type 8 -m limit --limit 60/sec -j ACCEPT
 iptables -A FORWARD -d $web-ip/32 -i br0 -p icmp -m physdev --physdev-is-bridged -j DROP
 ```
+
+The withstand even more traffic read https://javapipe.com/blog/iptables-ddos-protection/
