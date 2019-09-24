@@ -12,6 +12,7 @@ header-img: "img/about-bg.jpg"
  * Brætspil [Tiny Epic Zombies](https://www.hyggeonkel.dk/produkt/tiny-epic-zombies)
  * Kortspil [Munchkin](https://www.hyggeonkel.dk/produkt/munchkin)
  * [Bang dice gamle Old Saloon](https://www.hyggeonkel.dk/produkt/bang-dice-game-old-saloon)
+ * [Junta](https://www.hyggeonkel.dk/produkt/junta)
  
  
 
