@@ -25,3 +25,5 @@ sudo aptitude install testdisk
 ```
 
 En samling af lyde fra forskellige harddiske, er at finde på [datacent.com](http://datacent.com/hard_drive_sounds.php).
+
+Hvis PhotoRec og TestDisk ikke kan redde data kan man prøve med [R-Linux](https://www.r-studio.com/free-linux-recovery/) til både Linux og Windows
