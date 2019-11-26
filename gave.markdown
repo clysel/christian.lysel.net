@@ -7,10 +7,10 @@ header-img: "img/about-bg.jpg"
 # Ønsker
 
  * Støt nogen vi ikke kender.
- * [Lahrsten Kirsebær Mjøl](https://www.lahrsten.dk/produkter/12kirsebaermjod.html)
  * Billig Mælkepisker, sådan en man holder og så er det et lille piskeris der køre rundt.
  * [Skæfteolie](https://jagt-jakt.dk/tyrchem-208/rewoil-skaefteolie-p1129)
  * [Makita Græstrimmer DUR187LZ](https://www.faisto.dk/makita-graestrimmer-18v-dur187lz-uden-batteri-f4486804599?cid=shop9063724154)
+ * [Makita stiksav DJV181](https://www.prishammeren.dk/shop/makita-stiksav-djv181-4197p.html)
  * [Gradvinkel](https://www.harald-nyborg.dk/p5587/mitsutomo-gradvinkel-magnetisk)
  * Tang [pean lige](https://www.jaegeren-og-lystfiskeren.dk/webshop/166-taenger-lineklippere-pin-on-reel-mf-/2651-peang-lige/) og [pean buet](https://www.jaegeren-og-lystfiskeren.dk/webshop/166-taenger-lineklippere-pin-on-reel-mf-/2652-peang-buet/)
  * Spil
