@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 # Ønsker
 
  * Støt nogen vi ikke kender.
- * Billig Mælkepisker, sådan en man holder og så er det et lille piskeris der køre rundt.
+ * Billig Mælkepisker, sådan en man holder og så er det et lille piskeris der køre rundt, fx fra [imerco](https://www.imerco.dk/cook-baker-maelkeskummer?id=100357643), [alstrøm](https://alstrom.dk/varekategorier/52-bodum/9228-bodum-schiuma-maelkeskummer---hvid/), 
  * [Skæfteolie](https://jagt-jakt.dk/tyrchem-208/rewoil-skaefteolie-p1129)
  * [Makita Græstrimmer DUR187LZ](https://www.faisto.dk/makita-graestrimmer-18v-dur187lz-uden-batteri-f4486804599?cid=shop9063724154)
  * [Makita stiksav DJV181](https://www.prishammeren.dk/shop/makita-stiksav-djv181-4197p.html)
