@@ -16,6 +16,9 @@ A short list of cool projects
   * [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
   * [Write personal automation](http://anotherdevblog.net/posts/part-1-getting-started)
   
+Analysing Sound data
+  * [Baudline](https://www.baudline.com/what_is_baudline.html)
+  
  Python
  
    * [web scraper](https://scrapy.org/)
