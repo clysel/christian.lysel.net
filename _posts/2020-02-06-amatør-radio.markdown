@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Amatør radio"
-subtitle:   "Links"
 header-img: "img/post-bg-01.jpg"
 ---
 # General
