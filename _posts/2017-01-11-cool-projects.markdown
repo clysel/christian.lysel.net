@@ -29,7 +29,9 @@ Hardware project
 Books
   * [The hidden half](https://www.waterstones.com/book/the-hidden-half/michael-blastland/9781786497772)
   * [free audio books](http://www.openculture.com/freeaudiobooks)
-  * 
+
+Online multiplayer web games
+  * [Set with friends](https://setwithfriends.com/)
   
 Python 
    * [web scraper](https://scrapy.org/)
