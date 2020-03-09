@@ -18,6 +18,7 @@ A short list of cool projects
   * [Personal agent](https://github.com/huginn/huginn)
   * [wifi from cli](https://www.linuxuprising.com/2019/11/how-to-show-available-wifi-networks.html?m=1)
   * [Real-time web log analyzer](https://goaccess.io/features)
+  * [pmacct is a small set of multi-purpose passive network monitoring tools](http://www.pmacct.net/)
   * [Hunting from boat in DK](https://www.nordisk-forum.dk/viewtopic.php?t=50469)
   
 Analysing Sound data
