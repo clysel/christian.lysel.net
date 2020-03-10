@@ -8,10 +8,7 @@ header-img: "img/about-bg.jpg"
 
  * Støt nogen vi ikke kender.
  * [Skæfteolie](https://jagt-jakt.dk/tyrchem-208/rewoil-skaefteolie-p1129)
- * [Makita Græstrimmer DUR187LZ](https://www.faisto.dk/makita-graestrimmer-18v-dur187lz-uden-batteri-f4486804599?cid=shop9063724154)
- * Spil
-   * [Tiny Epic Zombies](https://www.hyggeonkel.dk/produkt/tiny-epic-zombies)
-   * [Hanabi](https://www.hyggeonkel.dk/produkt/hanabi)
+ * [Bog Secret Messages: Codebreaking and American Diplomacy, 1930-1945, gerne "Used"](https://www.amazon.com/Secret-Messages-Codebreaking-Diplomacy-1930-1945/dp/0700610138)
  
 
 
