@@ -87,6 +87,11 @@ Security
    * [replace google](https://beepb00p.xyz/pkm-search.html)
    * [factorization of RSA-240](https://listserv.nodak.edu/cgi-bin/wa.exe?A2=NMBRTHRY;fd743373.1912&FT=M&P=T&H=&S=)
    
+NIDS
+   * [ntop](https://www.ntop.org/)
+   * [suricata](https://suricata-ids.org/)
+   * [zeek (was bro)](https://www.zeek.org/download/index.html)
+   
 Fight Fake news
    * [fact check](https://www.theverge.com/2019/12/3/20980741/fake-news-facebook-twitter-misinformation-lies-fact-check-how-to-internet-guide)
    * [reverse image search](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
