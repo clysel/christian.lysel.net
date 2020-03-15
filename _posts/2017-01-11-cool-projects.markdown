@@ -24,6 +24,10 @@ A short list of cool projects
 Analysing Sound data
   * [Baudline](https://www.baudline.com/what_is_baudline.html)
   
+Network
+  * [The Ultimate pcap](https://weberblog.net/the-ultimate-pcap/)
+  * [Site-to-Site VPN guides](https://weberblog.net/site-to-site-vpn-tutorials/)
+  
 Hardware project
   * [pen plotter](https://brachiograph.readthedocs.io/en/latest/index.html)
   
