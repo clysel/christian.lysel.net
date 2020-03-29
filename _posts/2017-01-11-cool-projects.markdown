@@ -39,13 +39,10 @@ Books
   * [The hidden half](https://www.waterstones.com/book/the-hidden-half/michael-blastland/9781786497772)
   * [free audio books](http://www.openculture.com/freeaudiobooks)
 
-Online multiplayer web games
+Online web games
   * [Set with friends](https://setwithfriends.com/)
-  
-Python 
-   * [web scraper](https://scrapy.org/)
-   * [Python for android](https://github.com/kivy/python-for-android)
-   * [python editor plugin](https://kite.com/)
+  * [Skynet](http://skynetsimulator.com/)
+  * [Haxball - 2D ballgame](https://www.haxball.com/play)
    
 Programming
    * [Rust](https://doc.rust-lang.org/rust-by-example/index.html)
@@ -57,6 +54,12 @@ Programming
    * [vue.js example](https://vuejs.org/v2/examples/hackernews.html)
    * [Goodbye clean code](https://overreacted.io/goodbye-clean-code/)
    * [Base Web](https://baseweb.design/)
+   * [BBS Micro BASIC](https://editor.8bitkick.cc/index.html)
+   * [Setup git](https://www.micah.soy/posts/setting-up-git-identities/)
+   * Python 
+     * [web scraper](https://scrapy.org/)
+     * [Python for android](https://github.com/kivy/python-for-android)
+     * [python editor plugin](https://kite.com/)
    
 Human
    * [Loneliness](https://manojsurya.com/loneliness-how-to-identify-and-deal-with-it/)
@@ -70,8 +73,19 @@ Preformance
    * [Clickhouse - column-oriented database](https://clickhouse.yandex/#blazing-fast)
   
 Web
+   * [Web Skills](https://andreasbm.github.io/web-skills/)
+   * [Markdeep](https://casual-effects.com/markdeep/#examples)
+   * [Huge collection - Casual Effects](http://casual-effects.com/)
+   * [Grav - Flat-file CMS](https://getgrav.org/)
+   * [11ty - Simpler statuc sute geberator](https://www.11ty.dev/)
+   * [MVP - minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
+   * [Desktop, browser, mobile game apps in JavaScript](https://codeheartjs.com/)
    * [Headless Chrome](https://github.com/puppeteer/puppeteer)
    * [Windows Acme](https://www.win-acme.com/)
+   
+Video Conferencing
+   * [Multi-platform open-source jitsi](https://jitsi.org/)
+   * [Distributed RTC in Go and Flutter](https://github.com/pion/ion)
     
 Security
    * [check-your-website.server-daten.de](https://check-your-website.server-daten.de/)
@@ -94,14 +108,29 @@ Security
    * [quick google](https://www.kylepiira.com/2020/01/09/why-i-quit-google/)
    * [replace google](https://beepb00p.xyz/pkm-search.html)
    * [factorization of RSA-240](https://listserv.nodak.edu/cgi-bin/wa.exe?A2=NMBRTHRY;fd743373.1912&FT=M&P=T&H=&S=)
+   * [Sn1per](https://github.com/1N3/Sn1per)
    
 NIDS
    * [ntop](https://www.ntop.org/)
    * [suricata](https://suricata-ids.org/)
    * [zeek (was bro)](https://www.zeek.org/download/index.html)
+
+Monitoring
+   * [Elasticflow- Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack
+](https://github.com/robcowart/elastiflow)
+   * [Suricata IDS/IPS log analytics using the Elastic Stack - sýnesis™ Lite for Suricata](https://github.com/robcowart/synesis_lite_suricata)
+   * [Snort IDS/IPS log analytics using the Elastic Stack - sýnesis™ Lite for Snort](https://github.com/robcowart/synesis_lite_snort)
+   * [SNMP Data Collection and Analytics with the TICK Stack (Telegraf, InfluxDB, Chronograf and Kapacitor)](https://github.com/robcowart/influx_snmp)
+   * [Chronograf Dashboards for use with data produced by Telegraf input plugins](https://github.com/robcowart/influx_dashboards)
+   * [Kibana plugins](https://github.com/robcowart/kibana_plugins_list)
+   * [Syslog collection with the Elastic Stack](https://github.com/robcowart/synesis_lite_syslog) 
    
 Fight Fake news
    * [fact check](https://www.theverge.com/2019/12/3/20980741/fake-news-facebook-twitter-misinformation-lies-fact-check-how-to-internet-guide)
    * [reverse image search](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
+   * [foller.me](https://foller.me/)
+   
+COVID-19
+   * [COVID-19 Model](https://github.com/neherlab/covid19_scenarios)
    
     
