@@ -11,7 +11,7 @@ Ubuntu with 3 CDROM drives: /dev/sr0, /dev/sr1 and /dev/sr2.
 Install ripit
 ``` bash
 sudo apt install ripit
-``` bash
+``` 
 
 Script to handle one CDROM drive ... it will:
 
