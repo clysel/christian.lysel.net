@@ -6,7 +6,7 @@ header-img: "img/post-bg-01.jpg"
 ---
 # Setup
 
-Ubuntu with 3 CDROM drives. /dev/sr0, /dev/sr1, /dev/sr2, 
+Ubuntu with 3 CDROM drives: /dev/sr0, /dev/sr1 and /dev/sr2. 
 
 Install ripit
 ``` bash
