@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "CD Rip"
+subtitle:   "How to Rip a lot of Music CD's"
+header-img: "img/post-bg-01.jpg"
+---
+# Setup
+
+Ubuntu with 3 CDROM drives. /dev/sr0, /dev/sr1, /dev/sr2, 
+
+Install ripit
+``` bash
+sudo apt install ripit
+``` bash
+
+Script to handle one CDROM drive ... it will:
+
+  1. Wait for CD inserted
+  2. Rip the CD to "Music/$artist/$year ‐ $album/$nr. $song" and store both flac and mp3 files.
+  3. Eject the CD
+  4. Go to 1.
+
+If the CD is already ripped, it will just eject it.
+If parts of the CD is already ripped, it will just continue.
+If the CD is unknown, it will rip it to Unknown. The next Unkown CD will go much faster.
+
+I genereally pile CD's thats is ejected to fast, for later manuel handling ... out of 650 CD's I had to process 10 manually.
+
+``` bash
+DEVICE=/dev/sr0
+while true ; do
+  while cddbget -c ${DEVICE} -I | grep "fatal error" ; do sleep 5 ; done # We need this, else ripit access the wrong CDROM driver?!
+  ripit -d ${DEVICE} -c 0,2 -q 5,8 -W NTFS  --resume --loop 0 -e --nointeraction -O y --dirtemplate '"Music/$artist/$year ‐ $album"' -Z
+  sleep 1
+done
+```
+
+Run 3 instance of the program, from tmux (if you connect to the server with ssh)
+
+# Misc
+
+Convert many files to a new format, here from mp3 to ogg
+
+``` bash
+parallel --eta ffmpeg -i "{}" -map_metadata 0:s:0 -id3v2_version 3 -write_id3v1 1 "{.}.mp3" ::: */*/*.ogg
+```
+
+It's better to convert from Flac as it's lossless audio compression.
