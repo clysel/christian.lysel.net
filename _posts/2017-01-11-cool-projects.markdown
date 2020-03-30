@@ -65,6 +65,7 @@ Human
     
 Web
    * [Web Skills](https://andreasbm.github.io/web-skills/)
+   * [Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
    * [Markdeep](https://casual-effects.com/markdeep/#examples)
    * [Json web tokens](https://jwt.io/)
    * [vue.js example](https://vuejs.org/v2/examples/hackernews.html)
