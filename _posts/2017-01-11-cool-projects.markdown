@@ -19,8 +19,7 @@ Analyzing Data
   * Sound
     * [Baudline](https://www.baudline.com/what_is_baudline.html)
   * Network
-    * [Elasticflow- Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack
-](https://github.com/robcowart/elastiflow)
+    * [Elasticflow- Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack](https://github.com/robcowart/elastiflow)
     * [Suricata IDS/IPS log analytics using the Elastic Stack - sýnesis™ Lite for Suricata](https://github.com/robcowart/synesis_lite_suricata)
     * [Snort IDS/IPS log analytics using the Elastic Stack - sýnesis™ Lite for Snort](https://github.com/robcowart/synesis_lite_snort)
     * [SNMP Data Collection and Analytics with the TICK Stack (Telegraf, InfluxDB, Chronograf and Kapacitor)](https://github.com/robcowart/influx_snmp)
@@ -52,15 +51,14 @@ Programming
    * R
      * [R Studio](https://www.rstudio.com/)
      * [Why R](https://blog.shotwell.ca/posts/why_i_use_r/)
-   /v2/examples/hackernews.html)
-   * [Goodbye clean code](https://overreacted.io/goodbye-clean-code/)
-   * [Base Web](https://baseweb.design/)
-   * [BBS Micro BASIC](https://editor.8bitkick.cc/index.html)
-   * [Setup git](https://www.micah.soy/posts/setting-up-git-identities/)
    * Python 
      * [web scraper](https://scrapy.org/)
      * [Python for android](https://github.com/kivy/python-for-android)
      * [python editor plugin](https://kite.com/)
+   * [Goodbye clean code](https://overreacted.io/goodbye-clean-code/)
+   * [Base Web](https://baseweb.design/)
+   * [BBS Micro BASIC](https://editor.8bitkick.cc/index.html)
+   * [Setup git](https://www.micah.soy/posts/setting-up-git-identities/)
    
 Human
    * [Loneliness](https://manojsurya.com/loneliness-how-to-identify-and-deal-with-it/)
@@ -69,7 +67,7 @@ Web
    * [Web Skills](https://andreasbm.github.io/web-skills/)
    * [Markdeep](https://casual-effects.com/markdeep/#examples)
    * [Json web tokens](https://jwt.io/)
-   * [vue.js example](https://vuejs.org
+   * [vue.js example](https://vuejs.org/v2/examples/hackernews.html)
    * [Jekyll template Poole](http://getpoole.com/)
    * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
    * ["What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
