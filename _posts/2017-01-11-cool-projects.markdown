@@ -128,5 +128,6 @@ Fight Fake news
    
 COVID-19
    * [COVID-19 Model](https://github.com/neherlab/covid19_scenarios)
+   * [COVID-19 Data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
    
     
