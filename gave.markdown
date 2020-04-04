@@ -15,4 +15,4 @@ header-img: "img/about-bg.jpg"
    * [D555 Anton Printed Short Sleeve Shirt Navy](https://www.bigdudeclothing.co.uk/d555-anton-printed-short-sleeve-shirt-navy/)
    * [D555 Brixton Linen Blend Short Sleeve Shirt Navy](https://www.bigdudeclothing.co.uk/d555-brixton-linen-blend-short-sleeve-shirt-navy/)
    * [D555 Brixton Linen Blend Short Sleeve Shirt Light Blue](https://www.bigdudeclothing.co.uk/d555-brixton-linen-blend-short-sleeve-shirt-light-blue/)
- * Støt nogen vi ikke kender.
+ * Støt nogen du ikke kender.
