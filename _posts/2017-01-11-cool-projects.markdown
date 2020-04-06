@@ -43,6 +43,7 @@ Online web games
   * [Haxball - 2D ballgame](https://www.haxball.com/play)
    
 Programming
+   * [Safely bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
    * [Rust](https://doc.rust-lang.org/rust-by-example/index.html)
    * [Nim](https://nim-lang.org/)
    * Go
