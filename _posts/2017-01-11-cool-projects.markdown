@@ -12,6 +12,7 @@ A short list of cool projects
   * [Write personal automation](http://anotherdevblog.net/posts/part-1-getting-started)
   * [Personal agent](https://github.com/huginn/huginn)
   * [wifi from cli](https://www.linuxuprising.com/2019/11/how-to-show-available-wifi-networks.html?m=1)
+  * [rclone, "rsync for cloud storage"](https://github.com/rclone/rclone)
   * [Hunting from boat in DK](https://www.nordisk-forum.dk/viewtopic.php?t=50469)
   
 Analyzing Data
