@@ -18,4 +18,5 @@ header-img: "img/about-bg.jpg"
    * D555 Brixton Linen Blend Short Sleeve Shirt Navy [Bigdude, 254 kr + forsendelse 50 kr](https://www.bigdudeclothing.co.uk/d555-brixton-linen-blend-short-sleeve-shirt-navy/)
    * D555 Brixton Linen Blend Short Sleeve Shirt Light Blue [Bigdude, 254 kr + forsendelse 50 kr](https://www.bigdudeclothing.co.uk/d555-brixton-linen-blend-short-sleeve-shirt-light-blue/)
  * PC spil [på Steam, vælg køb som gave](https://store.steampowered.com/wishlist/profiles/76561197993716838/#sort=order)
+ * YouLoop Portable Passive Magnetic Loop Antenna for HF and VHF [rtl-sdr.com, $34.95](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/?add-to-cart=41564)
  * Støt nogen du ikke kender.
