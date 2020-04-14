@@ -13,6 +13,9 @@ A short list of cool projects
   * [Personal agent](https://github.com/huginn/huginn)
   * [wifi from cli](https://www.linuxuprising.com/2019/11/how-to-show-available-wifi-networks.html?m=1)
   * [rclone, "rsync for cloud storage"](https://github.com/rclone/rclone)
+  * [Run arbitrary commands when files change](http://eradman.com/entrproject/)
+  * [Windows Alt-Drag](https://stefansundin.github.io/altdrag/)
+  * [Windows GridMove](http://www.dcmembers.com/jgpaiva/)
   * [Hunting from boat in DK](https://www.nordisk-forum.dk/viewtopic.php?t=50469)
   
 Analyzing Data
@@ -37,6 +40,7 @@ Hardware project
 Books
   * [The hidden half](https://www.waterstones.com/book/the-hidden-half/michael-blastland/9781786497772)
   * [free audio books](http://www.openculture.com/freeaudiobooks)
+  * [Google SRE](https://landing.google.com/sre/books/)
 
 Online web games
   * [Set with friends](https://setwithfriends.com/)
