@@ -26,7 +26,8 @@ header-img: "img/about-bg.jpg"
    * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-rod-sort)
    * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-pink)
    * Blink [Harald-nyborg, 24 kr](https://www.harald-nyborg.dk/produkt/pilgrim-lure-18g-solv-bla)
+   * HANSEN SnapShot 7,6 g - UV-orange/matsort [Harald-nyborg, 23,50 kr](https://www.harald-nyborg.dk/produkt/snapshot-7-6g-orange-mat-black)
    * Aflivning [Harald-nyborg, 65 kr](https://www.harald-nyborg.dk/produkt/priest-metal-20-cm)
-   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-20mm)
-   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-30mm)
+   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-50mm)
+  
  * Støt nogen du ikke kender.
