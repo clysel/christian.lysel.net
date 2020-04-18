@@ -19,6 +19,14 @@ header-img: "img/about-bg.jpg"
    * D555 Brixton Linen Blend Short Sleeve Shirt Light Blue [Bigdude, 254 kr + forsendelse 50 kr](https://www.bigdudeclothing.co.uk/d555-brixton-linen-blend-short-sleeve-shirt-light-blue/)
  * PC spil [på Steam, vælg køb som gave](https://store.steampowered.com/wishlist/profiles/76561197993716838/#sort=order)
  * YouLoop Portable Passive Magnetic Loop Antenna for HF and VHF [rtl-sdr.com, $34.95](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/?add-to-cart=41564)
- * Tilbehør til båden:
-   * [Stang holder](https://www.biltema.dk/fritid/fiskeri/fiskerivarktoj/stangholder-2000037268)
+ * Fiskeudstyr:
+   * Stang holder til båden [Biltema](https://www.biltema.dk/fritid/fiskeri/fiskerivarktoj/stangholder-2000037268)
+   * 2 x Grejboks [Harald-nyborg](https://www.harald-nyborg.dk/produkt/grejboks-large)
+   * Blink [Harald-nyborg](https://www.harald-nyborg.dk/produkt/slim-spoon-5-cm-solv)
+   * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-rod-sort)
+   * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-pink)
+   * Blink [Harald-nyborg, 24 kr](https://www.harald-nyborg.dk/produkt/pilgrim-lure-18g-solv-bla)
+   * Aflivning [Harald-nyborg, 65 kr](https://www.harald-nyborg.dk/produkt/priest-metal-20-cm)
+   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-20mm)
+   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-30mm)
  * Støt nogen du ikke kender.
