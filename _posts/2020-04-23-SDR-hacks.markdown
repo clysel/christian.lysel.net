@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "SDR hacks"
+header-img: "img/post-bg-01.jpg"
+---
+# General
+
+ * [Sidechannel attack with tensorflow](https://leveldown.de/blog/tensorflow-sidechannel-analysis/)
+ 
