@@ -9,8 +9,6 @@ header-img: "img/about-bg.jpg"
  * Skæfteolie [Jagt-jakt i Greve, 85 kr](https://jagt-jakt.dk/tyrchem-208/rewoil-skaefteolie-p1129)
  * Pandebånd [Sportmaster, 100 kr](https://sportmaster.dk/nike-swoosh-pandeband-blackwhite-1115385)
  * Overdækning til kuglegrill 57 cm [Harald-nyborg, 119 kr](https://www.harald-nyborg.dk/produkt/overtraek-til-kuglegril-bg560)
- * Ebog: Order of time, af Carlo Revelli (format ePub) [bogreolen.dk 63,95](https://bogreolen.dk/order-of-time_carlo-rovelli_9780241292532)
- * Ebog: Hidden Half - How the World Conceals its Secrets (format ePub) [bogreolen.dk, 81,95 kr](https://bogreolen.dk/hidden-half_michael-blastland_9781786496386)
  * [Amazon ønske liste](https://www.amazon.co.uk/hz/wishlist/ls/A5JDJ32DBJ34?ref_=wl_share):
    * Bog Secret Messages: Codebreaking and American Diplomacy, 1930-1945 [fundet billigere i ebay USA, 40 kr + forsendelse 69 kr](https://www.ebay.com/itm/Secret-Messages-Codebreaking-and-American-Diplomacy-1930-1945/312616310755)
  * Kortærmet skjorter (7xl):
@@ -21,13 +19,6 @@ header-img: "img/about-bg.jpg"
  * YouLoop Portable Passive Magnetic Loop Antenna for HF and VHF [rtl-sdr.com, $34.95](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/?add-to-cart=41564)
  * Fiskeudstyr:
    * Stang holder til båden [Biltema, 89,90 kr](https://www.biltema.dk/fritid/fiskeri/fiskerivarktoj/stangholder-2000037268)
-   * 2 x Grejboks [Harald-nyborg, 50 kr](https://www.harald-nyborg.dk/produkt/grejboks-large)
    * Blink [Harald-nyborg](https://www.harald-nyborg.dk/produkt/slim-spoon-5-cm-solv)
-   * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-rod-sort)
-   * Blink [Harald-nyborg, 25 kr](https://www.harald-nyborg.dk/produkt/stripper-spoon-17-g-pink)
    * Blink [Harald-nyborg, 24 kr](https://www.harald-nyborg.dk/produkt/pilgrim-lure-18g-solv-bla)
-   * HANSEN SnapShot 7,6 g - UV-orange/matsort [Harald-nyborg, 23,50 kr](https://www.harald-nyborg.dk/produkt/snapshot-7-6g-orange-mat-black)
-   * Aflivning [Harald-nyborg, 65 kr](https://www.harald-nyborg.dk/produkt/priest-metal-20-cm)
-   * Fiskeline [Harald-nyborg, 59 kr](https://www.harald-nyborg.dk/produkt/dam-fluorocarbon-0-50mm)
-  
  * Støt nogen du ikke kender.
