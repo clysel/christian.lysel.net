@@ -6,7 +6,7 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
-* Muse måtte i nepron, gerne 2, gerne støre end A4 papir fx [https://www.foetex.dk/produkter/musemaatte-40-x-45-cm-sort/100516636/](føtex)
+* Muse måtte i nepron, gerne 2, gerne støre end A4 papir fx [føtex](https://www.foetex.dk/produkter/musemaatte-40-x-45-cm-sort/100516636/)
 * [IKEA TRONES opbevaring](https://www.ikea.com/dk/da/p/trones-skoskab-opbevaring-hvid-00397307/)
 * Guitar holder til væg [tinytone.dk](https://tinytone.dk/produkt/guitarholder-til-vaeg-ogh-1/)
 * Ukelelu holder til væg [tinytone.dk](https://tinytone.dk/produkt/vaegholder-til-ukulele-sort/)
