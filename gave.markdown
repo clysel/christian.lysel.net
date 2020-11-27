@@ -8,6 +8,8 @@ header-img: "img/about-bg.jpg"
 
 * Muse måtte i nepron, gerne 2, gerne støre end A4 papir fx [føtex](https://www.foetex.dk/produkter/musemaatte-40-x-45-cm-sort/100516636/)
 * Et hjørne kredsebræt der gør katten og robotten glad, [Trixie Kradeplads hjørnemodel](https://www.brekz.dk/kradsetrae/trixie-kradseplade-hjornemodel.html) eller [Kradsebræt XXL vil hjørne](https://www.brekz.dk/kradsetrae/kradsebraet-xxl-til-vaeghjorner-38x75-cm-bxh.html)
+* Et rævekald [revehylse](https://www.huntinglife.net/webshop/87-lokkefugle-kald-og-net/29219-revehylsa-raevelokkekald-/)
+* Neopren camo siddeunderlag [vaabensmeden hedehusene](https://vaabensmeden.dk/shop/jagt/paa-jagten/stole-rygsaekke/neopren-camo-siddeunderlag/) eller [jagt-jakt greve](https://jagt-jakt.dk/siddeunderlag-276/sidde-pude-firkantet-stor-p2428)
 * [IKEA TRONES opbevaring](https://www.ikea.com/dk/da/p/trones-skoskab-opbevaring-hvid-00397307/)
 * Guitar holder til væg [tinytone.dk](https://tinytone.dk/produkt/guitarholder-til-vaeg-ogh-1/)
 * Ukelelu holder til væg [tinytone.dk](https://tinytone.dk/produkt/vaegholder-til-ukulele-sort/)
