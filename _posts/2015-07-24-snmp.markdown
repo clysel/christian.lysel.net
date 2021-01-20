@@ -8,7 +8,7 @@ Ubuntu setup
 
 ```
 #install software
-sudo apt-get install snmp snmp-mibs-downloader
+sudo apt-get install snmp snmp-mibs-downloader  # older OS use download-mibs
 #download mibs
 sudo snmp-mibs-downloader
 #backup old configuration
