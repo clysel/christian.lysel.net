@@ -10,6 +10,7 @@ header-img: "img/about-bg.jpg"
 * CD'er med
   * [Paradiso](https://accord.dk/collections/hayley-westenra/products/hayley-westenra-ennio-morricone-paradiso?variant=37792651772099)
   * [Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
+  * [Max Richter: The Blue Notebooks](https://www.gaffashop.dk/shop/richter-max-the-69319p.html)
   * [Kent](https://accord.dk/collections/kent-2?type=cd)
   * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
   * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
