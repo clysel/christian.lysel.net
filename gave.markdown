@@ -7,11 +7,9 @@ header-img: "img/about-bg.jpg"
 # Ønsker
 
 * En spændestøtte til loftet [Mitsutomo spændestøtte 115-290 cm](https://www.harald-nyborg.dk/produkt/spaendestoette)
-* Vinyl
-  * [Bill Withers, Menagerie](https://accord.dk/products/bill-withers-menagerie?_pos=6&_sid=5a72387ef&_ss=r&variant=38183181353155)
 * CD'er med
   * [Paradiso](https://accord.dk/collections/hayley-westenra/products/hayley-westenra-ennio-morricone-paradiso?variant=37792651772099)
-  * [SYMPHONIC TALES CD | DELUXE VINTAGED](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
+  * [Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
   * [Kent](https://accord.dk/collections/kent-2?type=cd)
   * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
   * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
