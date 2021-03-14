@@ -6,7 +6,22 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
-* Et hjørne kredsebræt der gør katten og robotten glad, [121 kr Trixie Kradeplads hjørnemodel](https://www.brekz.dk/kradsetrae/trixie-kradseplade-hjornemodel.html) eller [260 kr Kradsebræt XXL vil hjørne](https://www.brekz.dk/kradsetrae/kradsebraet-xxl-til-vaeghjorner-38x75-cm-bxh.html)
-* Jagt siddeunderlag [Neopren camo 129 kr vaabensmeden hedehusene](https://vaabensmeden.dk/shop/jagt/paa-jagten/stole-rygsaekke/neopren-camo-siddeunderlag/)* PC spil [på Steam, vælg køb som gave](https://store.steampowered.com/wishlist/profiles/76561197993716838/#sort=order)
+* En spændestøtte til loftet [Mitsutomo spændestøtte 115-290 cm](https://www.harald-nyborg.dk/produkt/spaendestoette)
+* Vinyl
+  * [Bill Withers, Menagerie](https://accord.dk/products/bill-withers-menagerie?_pos=6&_sid=5a72387ef&_ss=r&variant=38183181353155)
+* CD'er med
+  * [Paradiso](https://accord.dk/collections/hayley-westenra/products/hayley-westenra-ennio-morricone-paradiso?variant=37792651772099)
+  * [SYMPHONIC TALES CD | DELUXE VINTAGED](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
+  * [Kent](https://accord.dk/collections/kent-2?type=cd)
+  * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
+  * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
+  * [Bill Withers](https://accord.dk/collections/bill-withers/products/bill-withers-best-of-bill-withers?variant=37882812203203)
+  * [Palle Mikkelborg](https://accord.dk/collections/palle-mikkelborg/products/palle-mikkelborg-anything-but-grey?variant=37673872588995)
+  * [Peter Broderick](https://accord.dk/collections/peter-broderick?type=cd)
+  * [Ólafur Arnalds](https://accord.dk/collections/olafur-arnalds?type=cd)
+  * [José Gonzales](https://accord.dk/collections/jose-gonzalez/products/jose-gonzalez-veneer)
+  * [Natalie Merchant](https://accord.dk/collections/natalie-merchant?type=cd)
+  * [Vangelis](https://accord.dk/collections/vangelis?type=cd)
+* PC spil [på Steam, vælg køb som gave](https://store.steampowered.com/wishlist/profiles/76561197993716838/#sort=order)
 * YouLoop Portable Passive Magnetic Loop Antenna for HF and VHF [rtl-sdr.com, $34.95](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/?add-to-cart=41564)
 * Støt nogen du ikke kender.
