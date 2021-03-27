@@ -16,6 +16,7 @@ header-img: "img/about-bg.jpg"
   * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
   * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
   * [Bill Withers: Best of Bill Winters](https://accord.dk/collections/bill-withers/products/bill-withers-best-of-bill-withers?variant=37882812203203)
+  * [Led Zeppelin: Led Zeppelin III](https://accord.dk/collections/led-zeppelin/products/led-zeppelin-led-zeppelin-iii)
   * [Palle Mikkelborg: Anything but Grey](https://accord.dk/collections/palle-mikkelborg/products/palle-mikkelborg-anything-but-grey?variant=37673872588995)
   * [Peter Broderick](https://accord.dk/collections/peter-broderick?type=cd)
   * [Ólafur Arnalds](https://accord.dk/collections/olafur-arnalds?type=cd)
