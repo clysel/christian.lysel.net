@@ -14,6 +14,8 @@ header-img: "img/about-bg.jpg"
     * [Max Richter: The Blue Notebooks](https://imusic.dk/music/0028948350148/max-richter-2018-blue-notebooks-cd)    
   * Accord
     * [Hayley Westenra: Paradiso](https://accord.dk/collections/hayley-westenra/products/hayley-westenra-ennio-morricone-paradiso?variant=37792651772099)
+    * [Ennio Morricone: The best of Ennio Morricone](https://accord.dk/products/ennio-morricone-the-greatest-performers?variant=37787986624707)
+    * [Ennio Morricone: The Mission](https://accord.dk/products/ennio-morricone-the-mission-original-soundtrack-from-the-motion-picture?_pos=15&_sid=e82bdc289&_ss=r)
     * [Kent](https://accord.dk/collections/kent-2?type=cd)
     * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
     * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
