@@ -19,6 +19,7 @@ header-img: "img/about-bg.jpg"
     * [Kent](https://accord.dk/collections/kent-2?type=cd)
     * [Daft punk](https://accord.dk/collections/daft-punk?type=cd)
     * [Søren Huss](https://accord.dk/collections/soren-huss?type=cd)
+    * [José Feliciano: Light my fire](https://accord.dk/collections/jose-feliciano/products/jose-feliciano-light-my-fire?variant=37787808366787)
     * [Bill Withers: Best of Bill Winters](https://accord.dk/collections/bill-withers/products/bill-withers-best-of-bill-withers?variant=37882812203203)
     * [Palle Mikkelborg: Anything but Grey](https://accord.dk/collections/palle-mikkelborg/products/palle-mikkelborg-anything-but-grey?variant=37673872588995)
     * [Peter Broderick](https://accord.dk/collections/peter-broderick?type=cd)
