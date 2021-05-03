@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 # Ønsker
 
 * En spændestøtte til loftet [Mitsutomo spændestøtte 115-290 cm](https://www.harald-nyborg.dk/produkt/spaendestoette)
-* CD'er fra
+* Fysiske CD'er fra
   * iMusic  
     * [Sting: Duets](https://da.imusic.dk/music/0602435364995/sting-2021-duets-cd?currency=DKK&vat=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQishiqPBFqVmzf57dB3E9JXJmzayFMTLtCWcACIPMgFLMsQhOgcEpTwaAvXbEALw_wcB)
     * [Led Zeppelin: Led Zeppelin Remasters](https://da.imusic.dk/music/0075678041525/led-zeppelin-2019-remasters-cd?currency=DKK&vat=1)
