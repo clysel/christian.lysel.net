@@ -6,7 +6,6 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
-* En spændestøtte til loftet [Mitsutomo spændestøtte 115-290 cm](https://www.harald-nyborg.dk/produkt/spaendestoette)
 * Fysiske CD'er fra
   * iMusic  
     * [Sting: Duets](https://da.imusic.dk/music/0602435364995/sting-2021-duets-cd?currency=DKK&vat=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQishiqPBFqVmzf57dB3E9JXJmzayFMTLtCWcACIPMgFLMsQhOgcEpTwaAvXbEALw_wcB)
@@ -28,7 +27,6 @@ header-img: "img/about-bg.jpg"
     * [Natalie Merchant](https://accord.dk/collections/natalie-merchant?type=cd)
     * [Vangelis](https://accord.dk/collections/vangelis?type=cd)
   * [HAEVN: Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
-* [Gas kogeplade](https://www.harald-nyborg.dk/produkt/grillplade-oe30-t-gaskogeplade) + [Grillplade](https://www.harald-nyborg.dk/produkt/grillplade-oe30-t-gaskogeplade) + [Gas flaske](https://www.harald-nyborg.dk/produkt/gas-til-gaskogeplade)
 * PC spil [på Steam, vælg køb som gave](https://store.steampowered.com/wishlist/profiles/76561197993716838/#sort=order)
 * YouLoop Portable Passive Magnetic Loop Antenna for HF and VHF [rtl-sdr.com, $34.95](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/?add-to-cart=41564)
 * Støt nogen du ikke kender.
