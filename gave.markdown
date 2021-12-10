@@ -10,4 +10,5 @@ header-img: "img/about-bg.jpg"
   * [HAEVN: Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
 * Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
+  * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
 * Invitere mig ud
