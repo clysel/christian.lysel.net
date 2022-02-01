@@ -12,6 +12,12 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 ### 2014-Nu Spørg
   * System administration
 
+### 1997-nu Ejer og konsulent, Spindelnet
+  * Pentest opgaver.
+  * Drift og fejlsøgning af Firewall/VPN, netværk og servere for Slangerup Kommune, Græsted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.
+  * Opsætning og drift af 200 wordpress blogs for nordens største bladudgiver.
+  * Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og værktøj fra tankstationer.
+
 ### 2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
   * Automatisering af vedligeholdelsesopgaver og overvågning.
@@ -36,50 +42,46 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 ### 1999-2001 Sikkerhedskonsulent, Ubizen A/S. 
 
 ### 1998-1999 Systemadministrator, Vestegnens Handelsskole.
-* Systemadministration af Novell og Windows for 500 elever og 50 ansatte.
+  * Systemadministration af Novell og Windows for 500 elever og 50 ansatte.
 
 ### 1997-1997 Sikkerhedskonsulent, Scandinavian Security Center.
-* Installation af sikkerhedsløsninger for TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk's kunder
-
-### 1997-nu Ejer og konsulent, Spindelnet
-* Opsætning og drift af 200 wordpress blogs for nordens største bladudgiver.
-* Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og værktøj fra tankstationer.
-* Drifte og fejlsøgning af Firewall/VPN, netværk og servere for Slangerup Kommune, Græsted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.
+  * Installation af sikkerhedsløsninger for TeleDanmark Internet/DanaData, GE capital/Nicom, Olivetti PC, Intergraph og Admin.dk's kunder
  
 ## Uddannelse
 
- * 1993-1996 Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
- * 1990-1993 Greve Gymnasium. Matematisk student.
+  * 1993-1996 Datalogisk Institut ved Københavns Universitetet. Uafsluttet bachelor.
+  * 1990-1993 Greve Gymnasium. Matematisk student.
 
 ## Kurser (et udvalg)
 
-* Brandbekæmpelse og Evakuering
-* Project Management Awareness Training
-* VMware vSphere Optimize and Scale 5.1
-* VMware vSphere: Fast Track 5.0
-* Paloalto Firewall 4.1 Essentials
-* HP StorageWorks P4000 SAN configuration and administration.
-* Oracle 11g Fundamentals I
+  * Brandbekæmpelse og Evakuering
+  * Project Management Awareness Training
+  * VMware vSphere Optimize and Scale 5.1
+  * VMware vSphere: Fast Track 5.0
+  * Paloalto Firewall 4.1 Essentials
+  * HP StorageWorks P4000 SAN configuration and administration.
+  * Oracle 11g Fundamentals I
  
 ## Certificeringer
 
-* 2017 MikroTik MTCNA
-* 2013 ITIL Foundations certification v3
-* 2001 Checkpoint Firewall-1 CCSA
+  * 2017 MikroTik MTCNA
+  * 2013 ITIL Foundations certification v3
+  * 2001 Checkpoint Firewall-1 CCSA
  
 ## Foredrag
 
-* 2010 digITAlis'r IT-arkitekturkonferencen, titel: "Open source? hvordan?" [slides](/foredrag.pdf)
+  * 2010 digITAlis'r IT-arkitekturkonferencen, titel: "Open source? hvordan?" [slides](/foredrag.pdf)
  
 ## Sprogkundskaber
 
-* Dansk: Flydende i tale og skrift.
-* Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).
-* Tyrkisk: Kendskab til dagligdagssprog.
+  * Dansk: Flydende i tale og skrift.
+  * Engelsk: Flydende i tale og skrift (koncern sproget hos TOP-TOY og Ubizen).
+  * Tyrkisk: Kendskab til dagligdagssprog.
  
 ## Personligt
 
-Bor sammen med min kæreste. Holder af at opleve naturen, enten på motorcykel eller ved at gå på jagt.
+Bor sammen med min kone. Holder af at opleve naturen, enten på motorcykel eller ved at gå på jagt.
+Frivillig i Greve mentor netværk.
 
 Ikke-ryger. Kørekort A/B. Født 4. Maj 1974.
 
