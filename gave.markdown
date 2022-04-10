@@ -6,9 +6,18 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
-* Fysiske CD'er fra
-  * [HAEVN: Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
-* Støt nogen du ikke kender.
+* 200 kr
+  * Musik [HAEVN: Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
+* 200-400 kr
+  * Kortærmet skjorte fx
+    * [Duke d555 hawaii](https://www.storedrenge.dk/herretoej-372/skjorter-239/skjorter-m-korte-aermer-332/hvid-hawaii-skjorte-k-ae-kamro-27484.html)
+* 700 kr
+  * MC handske
+
+* 3500 kr
+  * [Varmekamera Flir One Pro til Android](https://www.pricerunner.dk/pl/345-4341792/OEvrigt-Elvaerktoej/Flir-ONE-Pro-Android-Sammenlign-Priser)
+
+* Diverse beløb, Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
 * Invitere mig ud
