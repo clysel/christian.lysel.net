@@ -14,9 +14,6 @@ header-img: "img/about-bg.jpg"
 * 700 kr
   * MC handske
 
-* 3500 kr
-  * [Varmekamera Flir One Pro til Android](https://www.pricerunner.dk/pl/345-4341792/OEvrigt-Elvaerktoej/Flir-ONE-Pro-Android-Sammenlign-Priser)
-
 * Diverse beløb, Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
