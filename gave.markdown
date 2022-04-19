@@ -6,6 +6,8 @@ header-img: "img/about-bg.jpg"
 ---
 # Ønsker
 
+* 80 kr
+  * Harald-nyborg, Wago fjerdersamlemuffe til [2 ledninger](https://www.harald-nyborg.dk/wago-fjedersamlemuffe-til-2-ledninger-16-pak) og til [3 ledninger](https://www.harald-nyborg.dk/wago-fjedersamlemuffe-til-3-ledninger-12-pak)
 * 200 kr
   * Musik [HAEVN: Symphonic tales](https://haevnmusic.store/collections/cds/products/symphonic-tales-cd?variant=31498813276233)
 * 200-400 kr
