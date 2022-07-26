@@ -8,6 +8,8 @@ header-img: "img/about-bg.jpg"
 
 * 80 kr
   * Harald-nyborg, Wago fjerdersamlemuffe til [2 ledninger](https://www.harald-nyborg.dk/wago-fjedersamlemuffe-til-2-ledninger-16-pak) og til [3 ledninger](https://www.harald-nyborg.dk/wago-fjedersamlemuffe-til-3-ledninger-12-pak)
+* 150 kr
+  * [Resistance: Avalon på Dansk](https://www.hyggeonkel.dk/produkt/resistance-avalon-scandinavian)
 * 200-400 kr
   * Kortærmet skjorte fx
     * [Duke d555 hawaii](https://www.storedrenge.dk/herretoej-372/skjorter-239/skjorter-m-korte-aermer-332/hvid-hawaii-skjorte-k-ae-kamro-27484.html)
