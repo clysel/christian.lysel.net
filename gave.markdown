@@ -13,7 +13,7 @@ header-img: "img/about-bg.jpg"
 * 200-400 kr
   * Kortærmet skjorte fx
     * [Duke d555 hawaii](https://www.storedrenge.dk/herretoej-372/skjorter-239/skjorter-m-korte-aermer-332/hvid-hawaii-skjorte-k-ae-kamro-27484.html)
-  * [Bogen open-circuits](https://nostarch.com/open-circuits)
+  * [Bogen open-circuits](https://www.saxo.com/dk/open-circuits_bog_9781718502345)
 * 700 kr
   * MC handske
 
