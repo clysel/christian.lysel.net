@@ -12,7 +12,7 @@ header-img: "img/about-bg.jpg"
   * [Bakker til midterconsol](https://shop.tesla.com/da_dk/product/model-3_y-bakker-til-midterkonsollen) 203 kr
   * Greencargear
     * [Opbevaringsboks til under sæde](https://greencargear.dk/vare/opbevaringsboks-tesla-model-y) 369 kr UDSOLGT
-    * [Sort Kop holder](https://greencargear.dk/vare/tesla_kopholder) 109 kr
+    * [Sort Kop holder](https://greencargear.dk/vare/tesla_kopholder) 139 kr
   * Shop4tesla DE
     * [Opbevaringsboks til under sæde)](https://www.shop4tesla.com/da/products/sitz-organizer-box-tesla-model-y?variant=39975226933388) 267 kr
     * [Sort kop holder](https://www.shop4tesla.com/da/products/getrankehalter-tesla-model-3-y?variant=43569316823308) 144 kr
