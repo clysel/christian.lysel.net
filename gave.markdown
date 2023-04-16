@@ -14,6 +14,7 @@ header-img: "img/about-bg.jpg"
   * Greencargear - [Sort Kop holder](https://greencargear.dk/vare/tesla_kopholder) 139 kr 
   * Shop4tesla DE - [Opbevaringsboks til under sæde](https://www.shop4tesla.com/da/products/sitz-organizer-box-tesla-model-y?variant=39975226933388) 267 kr
   * Shop4tesla DE - [Sort kop holder](https://www.shop4tesla.com/da/products/getrankehalter-tesla-model-3-y?variant=43569316823308) 144 kr
+  * [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr
 * Læder værktøj
   * [Alfabetsæt](https://www.laederiet.dk/shop/381-alfabet--og-talsaet/7321-alfabet-og-talsaet-8134/) ca 300 kr
   * [Riflejern](https://www.laederiet.dk/shop/275-riflejern-mm/5188-riflejern-justerbart-/) ca 100 kr
