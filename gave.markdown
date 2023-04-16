@@ -19,10 +19,14 @@ header-img: "img/about-bg.jpg"
   * [Riflejern](https://www.laederiet.dk/shop/275-riflejern-mm/5188-riflejern-justerbart-/) ca 100 kr
   * [Kontakt lim](https://www.harald-nyborg.dk/dana-lim-kontaktlim-1-l) 125 kr
   * [Bivoks](https://www.laederiet.dk/shop/193-traad/5362-bivoks-til-traad/) 132 kr 
-  * [20 m sort tråd](https://www.laederiet.dk/shop/193-traad/5352-kunstsenetraad-nr-1/) 27,50 kr
+  * [20 m sort tråd](https://www.laederiet.dk/shop/193-traad/5352-kunstsenetraad-nr-1/?variantId=17343) 27,50 kr
   * [Forksæt](https://www.laederiet.dk/shop/170-forke-og-syle/5156-forkesaet/) 178,75 kr
+  * [Sadelmagernål 1 af 10 styk](https://www.laederiet.dk/shop/194-naale/5365-sadelmagernaale-med-stort-oeje/) 16 kr
+  * [Håndværkernåle](https://www.laederiet.dk/shop/388-prym-diverse-naale/4697-prym-131-107-haandvaerkernaale/?variantId=11339) 42 kr
   * En gammel læderjakke eller et stykket gammelt læder sofa edr skal smides ud
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059)
+* [Tang til netværkskabler VDV226-107](https://www.conradelektronik.dk/p/klein-tools-vdv226-107-crimpvrktj-2182199?utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_medium=surfaces&utm_source=google&utm_term=2182199&vat=true) 435 kr
+* [Krympetang](https://autofix.nu/produkter/6000-installationsvaerktoej/56392-krympetang--kabelskotang-saet---med-1200-ferrules-kabelsko---hoej-kvalitet-awg-23-7-025-10-mmsup2/) 319 kr
 * Diverse beløb, Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
