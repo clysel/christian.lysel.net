@@ -16,7 +16,7 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
 * Cykel pedal fra[cykelgear.dk](https://www.cykelgear.dk/reservedele/pedaler/citybike-alm-pedaler/xlc-city-comfort-pedal) 169 kr eller [harald-nyborg.dk](https://www.harald-nyborg.dk/greenfield-pedalsaet-plast-gummi-senior-2-stk) 29,95 kr
 * [XXL Warmpeace Powerstretch handsker](https://www.spejdersport.dk/warmpeace-powerstretch-handsker-gloves-sort) 299 kr
 * Læder værktøj
-  * En gammel læderjakke eller et stykket gammelt læder sofa edr skal smides ud
+  * En gammel læderjakke eller et stykket gammelt læder sofa der skal smides ud
   * [Sadelmagernål 1 af 10 styk](https://www.laederiet.dk/shop/194-naale/5365-sadelmagernaale-med-stort-oeje/) 16 kr
   * [20 m sort tråd](https://www.laederiet.dk/shop/193-traad/5352-kunstsenetraad-nr-1/?variantId=17343) 27,50 kr
   * [Håndværkernåle](https://www.laederiet.dk/shop/388-prym-diverse-naale/4697-prym-131-107-haandvaerkernaale/?variantId=11339) 42 kr
