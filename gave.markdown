@@ -10,6 +10,7 @@ Jeg ønsker mig ikke noget.
 
 Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste her:
 
+* Invitere mig ud
 * [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059) 79 kr
 * [Filter til drone](https://www.amazon.de/dp/B0B18KHLF8/?tag=prdk-ce0d-21&creative=22662&creativeASIN=B0B2PGXBC6&linkCode=df0&th=1) 157 kr (gratis fragt fra tyskland)
@@ -25,16 +26,9 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
   * [Bivoks](https://www.laederiet.dk/shop/193-traad/5362-bivoks-til-traad/) 132 kr 
   * [Forksæt](https://www.laederiet.dk/shop/170-forke-og-syle/5156-forkesaet/) 178,75 kr
   * [Alfabetsæt](https://www.laederiet.dk/shop/381-alfabet--og-talsaet/7321-alfabet-og-talsaet-8134/) ca 300 kr
-* Telsa tilbehør
-  * Tesla - [Bakker til midterconsol](https://shop.tesla.com/da_dk/product/model-3_y-bakker-til-midterkonsollen) 203 kr
-  * Greencargear - [Opbevaringsboks til under sæde](https://greencargear.dk/vare/opbevaringsboks-tesla-model-y) 369 kr UDSOLGT
-  * Greencargear - [Sort Kop holder](https://greencargear.dk/vare/tesla_kopholder) 139 kr 
-  * Shop4tesla DE - [Opbevaringsboks til under sæde](https://www.shop4tesla.com/da/products/sitz-organizer-box-tesla-model-y?variant=39975226933388) 267 kr
-  * Shop4tesla DE - [Sort kop holder](https://www.shop4tesla.com/da/products/getrankehalter-tesla-model-3-y?variant=43569316823308) 144 kr
 * [Tang til netværkskabler VDV226-107](https://www.conradelektronik.dk/p/klein-tools-vdv226-107-crimpvrktj-2182199?utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_medium=surfaces&utm_source=google&utm_term=2182199&vat=true) 435 kr
 * [Krympetang](https://autofix.nu/produkter/6000-installationsvaerktoej/56392-krympetang--kabelskotang-saet---med-1200-ferrules-kabelsko---hoej-kvalitet-awg-23-7-025-10-mmsup2/) 319 kr
 * [A500 mini retrokonsol](https://www.maxgaming.dk/dk/retro-gaming/the-a500-mini-retrokonsol?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner) 749 kr
 * Diverse beløb, Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
-* Invitere mig ud
