@@ -13,6 +13,7 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
 * Invitere mig ud
 * [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059) 79 kr
+* [Pizza rist 45cm](https://knivblokken.dk/produkter/pizzarist-hendi-flere-stoerrelser/?attribute_pa_variant=oe-45-cm) 95 kr
 * [Filter til drone](https://www.amazon.de/dp/B0B18KHLF8/?tag=prdk-ce0d-21&creative=22662&creativeASIN=B0B2PGXBC6&linkCode=df0&th=1) 157 kr (gratis fragt fra tyskland)
 * Cykel pedal fra[cykelgear.dk](https://www.cykelgear.dk/reservedele/pedaler/citybike-alm-pedaler/xlc-city-comfort-pedal) 169 kr eller [harald-nyborg.dk](https://www.harald-nyborg.dk/greenfield-pedalsaet-plast-gummi-senior-2-stk) 29,95 kr
 * [XXL Warmpeace Powerstretch handsker](https://www.spejdersport.dk/warmpeace-powerstretch-handsker-gloves-sort) 299 kr
