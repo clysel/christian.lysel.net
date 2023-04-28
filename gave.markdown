@@ -28,6 +28,7 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
   * [Bivoks](https://www.laederiet.dk/shop/193-traad/5362-bivoks-til-traad/) 132 kr 
   * [Forksæt](https://www.laederiet.dk/shop/170-forke-og-syle/5156-forkesaet/) 178,75 kr
   * [Alfabetsæt](https://www.laederiet.dk/shop/381-alfabet--og-talsaet/7321-alfabet-og-talsaet-8134/) ca 300 kr
+* [Gummistøvle str 47](https://www.silvan.dk/gummistoevler-u-sikkerhed-groen-47?id=2882-5838501) 215 kr i silvan
 * [Tang til netværkskabler VDV226-107](https://www.conradelektronik.dk/p/klein-tools-vdv226-107-crimpvrktj-2182199?utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_medium=surfaces&utm_source=google&utm_term=2182199&vat=true) 435 kr
 * [Krympetang](https://autofix.nu/produkter/6000-installationsvaerktoej/56392-krympetang--kabelskotang-saet---med-1200-ferrules-kabelsko---hoej-kvalitet-awg-23-7-025-10-mmsup2/) 319 kr
 * [A500 mini retrokonsol](https://www.maxgaming.dk/dk/retro-gaming/the-a500-mini-retrokonsol?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner) 749 kr
