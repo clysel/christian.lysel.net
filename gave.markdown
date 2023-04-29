@@ -8,10 +8,11 @@ header-img: "img/about-bg.jpg"
 
 Jeg ønsker mig ikke noget.
 
-Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste her:
+Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste her som du kan koordinere med Heidi:
 
 * Invitere mig ud
 * [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr
+* Lyng, masser af Lyng til have bedet og gødning til surbundsplanter
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059) 79 kr
 * [Pizza rist 45cm](https://knivblokken.dk/produkter/pizzarist-hendi-flere-stoerrelser/?attribute_pa_variant=oe-45-cm) 95 kr
 * [Filter til drone](https://www.amazon.de/dp/B0B18KHLF8/?tag=prdk-ce0d-21&creative=22662&creativeASIN=B0B2PGXBC6&linkCode=df0&th=1) 157 kr (gratis fragt fra tyskland)
@@ -32,6 +33,6 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
 * [Tang til netværkskabler VDV226-107](https://www.conradelektronik.dk/p/klein-tools-vdv226-107-crimpvrktj-2182199?utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_medium=surfaces&utm_source=google&utm_term=2182199&vat=true) 435 kr
 * [Krympetang](https://autofix.nu/produkter/6000-installationsvaerktoej/56392-krympetang--kabelskotang-saet---med-1200-ferrules-kabelsko---hoej-kvalitet-awg-23-7-025-10-mmsup2/) 319 kr
 * [A500 mini retrokonsol](https://www.maxgaming.dk/dk/retro-gaming/the-a500-mini-retrokonsol?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner) 749 kr
-* Diverse beløb, Støt nogen du ikke kender.
+* Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
