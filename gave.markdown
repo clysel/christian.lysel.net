@@ -12,7 +12,8 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
 
 * Invitere mig ud
 * [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr
-* Lyng, masser af Lyng til have bedet og gødning til surbundsplanter
+* Lyng, masser af Lyng til havenet
+* Gødning til surbundsplanter
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059) 79 kr
 * [Pizza rist 45cm](https://knivblokken.dk/produkter/pizzarist-hendi-flere-stoerrelser/?attribute_pa_variant=oe-45-cm) 95 kr
 * [Filter til drone](https://www.amazon.de/dp/B0B18KHLF8/?tag=prdk-ce0d-21&creative=22662&creativeASIN=B0B2PGXBC6&linkCode=df0&th=1) 157 kr (gratis fragt fra tyskland)
