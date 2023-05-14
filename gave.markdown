@@ -11,18 +11,12 @@ Jeg ønsker mig ikke noget.
 Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste her som du kan koordinere med Heidi:
 
 * Invitere mig ud.
-* [Sommersprinklervæske](https://www.harald-nyborg.dk/alaska-sommersprinklervaeske-3-l) 18 kr.
-* Lyng, masser af Lyng til haven.
-* Gødning til surbundsplanter.
 * [Topbox til cykel](https://www.xlmoto.dk/product/topboks-xlmoto-pronto-30l_pid-PIA-174059) 79 kr
 * [Pizza rist 45cm](https://knivblokken.dk/produkter/pizzarist-hendi-flere-stoerrelser/?attribute_pa_variant=oe-45-cm) 95 kr.
 * [Filter til drone](https://www.amazon.de/dp/B0B18KHLF8/?tag=prdk-ce0d-21&creative=22662&creativeASIN=B0B2PGXBC6&linkCode=df0&th=1) 157 kr (gratis fragt fra tyskland).
-* Cykel pedal fra [cykelgear.dk](https://www.cykelgear.dk/reservedele/pedaler/citybike-alm-pedaler/xlc-city-comfort-pedal) 169 kr eller [harald-nyborg.dk](https://www.harald-nyborg.dk/greenfield-pedalsaet-plast-gummi-senior-2-stk) 29,95 kr.
-* [XXL Warmpeace Powerstretch handsker](https://www.spejdersport.dk/warmpeace-powerstretch-handsker-gloves-sort) 299 kr
 * Læder værktøj
   * En gammel læderjakke eller et stykket gammelt læder sofa der skal smides ud
   * [Håndværkernåle](https://www.laederiet.dk/shop/388-prym-diverse-naale/4697-prym-131-107-haandvaerkernaale/?variantId=11339) 42 kr
-  * [Kontakt lim](https://www.harald-nyborg.dk/dana-lim-kontaktlim-1-l) 125 kr
   * [Bivoks](https://www.laederiet.dk/shop/193-traad/5362-bivoks-til-traad/) 132 kr 
   * [Alfabetsæt](https://www.laederiet.dk/shop/381-alfabet--og-talsaet/7321-alfabet-og-talsaet-8134/) ca 300 kr
 * [Gummistøvle str 47](https://www.silvan.dk/gummistoevler-u-sikkerhed-groen-47?id=2882-5838501) 215 kr i silvan
