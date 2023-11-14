@@ -11,7 +11,9 @@ Jeg ønsker mig ikke noget.
 Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste her som du kan koordinere med Heidi:
 
 * Invitere mig ud.
-* [A500 mini retrokonsol](https://www.maxgaming.dk/dk/retro-gaming/the-a500-mini-retrokonsol?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner) 749 kr
+* [Fulgeforderbræt til vinduet](https://www.frishop.dk/pi/Ryom-fuglefoderhus-til-vindue_7126759_21782.aspx) 179 kr
+* [Fugleforderbræt til vinduet](https://www.hokuskrokus.dk/foderbraetter/wildlife-world-foderbraet-vindue-1474) 199 kr
+* 
 * Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
