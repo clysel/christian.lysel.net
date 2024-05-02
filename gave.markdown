@@ -18,6 +18,7 @@ Men nu hvor nogle spørger hvad jeg ønsker, har jeg skrevet min indkøbsliste h
 * [Bang! The Duel](https://www.spelexperten.dk/dk/selskabsspil/kortspil/bang-the-duel.html) 139 kr
 * [Azul mini](https://www.hyggeonkel.dk/produkt/azul-mini)
 * [Othello brætspil](https://www.proshop.dk/Braetspil/Alga-Othello-Bring-Along/2780038)
+* [IKEAs 2 port USB lader](https://www.ikea.com/dk/da/p/sjoess-45-w-2-port-usb-oplader-hurtig-opladning-80574438/) 
 * Støt nogen du ikke kender.
   * [Foreningen imod Ulovlig Logning](https://ulovliglogning.dk/#wannahelp) Mobile Pay til 40456
   * [Dansk søredningsselskab](https://dsrs.dk/stot-os)
