@@ -29,7 +29,8 @@ du har vid og du har charme
 vi er glade for, du holder dig så godt.
 
 
-4. Seriøst du hyldes hele sidste vers
+
+5. Seriøst du hyldes hele sidste vers
 fest og farver, sjældent sur og helt på tværs
 højt hurra vi nu vil skråle
 og for dig vi så vil skåle
