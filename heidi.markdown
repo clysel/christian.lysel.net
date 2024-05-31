@@ -8,7 +8,9 @@ header-img: "img/birthday_song.jpg"
 
 Melodi: Jubi jæ jæ jubi jubi jæ / Du må få min sofacykel
 
-1. På din fødselsdag du holder glad en fest
+1.
+
+På din fødselsdag du holder glad en fest
    
 stort tillykke skal du ha´ fra hver en gæst
 
@@ -18,8 +20,9 @@ ja, for os så ganske særlig
 
 På din fødselsdag du holder glad en fest.
 
+2.
 
-3. Om din alder er der positivt at si´
+Om din alder er der positivt at si´
 
 du forhåbentlig kan meget ældre bli´
 
@@ -29,8 +32,9 @@ heldigvis du stadig smiler
 
 om din alder er der positivt at si´.
 
+3.
 
-5. Vi er glade for, du holder dig så godt
+Vi er glade for, du holder dig så godt
    
 og din stil den er som altid rigtig flot
 
@@ -41,9 +45,18 @@ du har vid og du har charme
 vi er glade for, du holder dig så godt.
 
 
+4.
 
-7. Seriøst du hyldes hele sidste vers
+Seriøst du hyldes hele sidste vers
+
 fest og farver, sjældent sur og helt på tværs
+
 højt hurra vi nu vil skråle
+
 og for dig vi så vil skåle
+
 seriøst du hyldes hele sidste vers.
+
+
+
+[musik](heidi.mp3)
