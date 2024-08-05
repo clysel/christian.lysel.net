@@ -124,3 +124,11 @@ sub ip2dec ($) { unpack N => pack CCCC => split /\./ => shift; }
 my $guest_net=dec2ip( ($site) * ip2dec("0.1.0.0")+ 
 	ip2dec("172.0.0.0") + ($rack)*ip2dec("0.0.4.0"))
 ```
+
+Network simulate Teams voice trafic
+
+```bash
+iperf3 -c local_server_running_iperf3-s -u -b 130k -l 165 -t 100 -i
+```
+
+
