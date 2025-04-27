@@ -13,6 +13,7 @@ Måske lige
  * [WAGO Samlemuffe 0,2-4 mm² transparent, serie 221](https://www.wattoo.dk/inline-fjedersmalemuffe-4mm2-7821113195)
  * CD - Sebastian, Cirkus fantastica
  * CD - Claus Hempler
+ * [Biltema bitholder med store torx](https://www.biltema.dk/varktoj/handvarktoj/bits/bitssat/bits--og-topnoglesat-torx-2000031768)
  * [Brugt letvægts Kosan 10 kg gasflaske](https://www.dba.dk/recommerce/forsale/item/8647439)
  * Hjælp til at luge ukrudt
 
