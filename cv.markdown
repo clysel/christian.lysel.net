@@ -9,14 +9,18 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
 
 ## Erhvervserfaring (et udvalg)
 
-### 2014-Nu Spørg
-  * System administration
-
-### 1997-nu Ejer og konsulent, Spindelnet
+### 1997-nu Ejer og konsulent, [Pentests.dk](https://pentests.dk/) tidligere SpindelNet
   * Pentest opgaver.
   * Drift og fejlsøgning af Firewall/VPN, netværk og servere for Slangerup Kommune, Græsted-Gilleleje Kommune, Avis biludlejning A/S og Plus Pack A/S.
   * Opsætning og drift af 200 wordpress blogs for nordens største bladudgiver.
   * Bygge en Ubuntu CDROM distribution til Internet Kiosk og Internet print i forbindelse med udlejning af trailer og værktøj fra tankstationer.
+
+### 2014-2024 Cloud Engineer, [IST Group](https://ist.com/)
+  * Drift af onprem edutech Saas platform for 5 millioner daglige brugere med fokus på sikkerhed
+  * Drift af hardware og virtualisering, Linux, Windows, netværk, storage, firewall, egen cloud og Azure.
+  * Pentest af egne løsninger og infrastruktur.
+  * Hjælpe 100+ udviklere i Nordeuropa og Afrika med sikkerheds-, performance- , CI- , server- , cloud-problemer.
+  * Hjælpe intern IT med server, netværk, firewall, wifi, telefoni.
 
 ### 2003-2014 Server Network/Storage specialist, TOP-TOY A/S
   * Drift af Storage, Virtualisering, Linux, Windows, HPUX, Netværk, Firewall/VPN og Oracle.
