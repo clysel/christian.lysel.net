@@ -69,6 +69,7 @@ Som en problemknusende og samvittighedsfuld systemadministrator/konsulent har je
  
 ## Certificeringer
 
+  * 2025 [OSCP](https://credentials.offsec.com/39f3313b-6668-4ecf-bfc3-de3ff5fb0061)
   * 2017 MikroTik MTCNA
   * 2013 ITIL Foundations certification v3
   * 2001 Checkpoint Firewall-1 CCSA
