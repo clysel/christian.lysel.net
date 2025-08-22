@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      "LYWSD02"
+header-img: "img/post-bg-01.jpg"
+---
+(Sync clock)[https://saso5.github.io/LYWSD02-clock-sync/]
+
+(Flash ROM)[https://atc1441.github.io/TelinkFlasher.html]
